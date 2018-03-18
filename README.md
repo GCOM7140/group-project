@@ -11,8 +11,8 @@ The goal of the group project is to give you an opportunity to apply the skills 
 * [**Google Trends**][] search interest data for topics relevant to your company
 
 [**comScore**]: https://auth2.comscore.com/
-[Euromonitor Passport]: http://proxy.its.virginia.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt
-[Google Trends]: https://trends.google.com/trends/
+[**Euromonitor Passport**]: http://proxy.its.virginia.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt
+[**Google Trends**]: https://trends.google.com/trends/
 
 The more you engage in [**this process of data science**][Hadley 2017], the better you will be at [**generating, disseminating, and responding to market intelligence**][Kohli and Jaworski 1993]. Improving your ability to perform these three core activities will in turn allow you to help companies you want to work for achieve a market orientation, commercial success, and [**optimized collective value**][Donaldson and Walsh 2015]. Recall that optimizing collective value (or prosperity) is arguably why society engages in commerce and, as a result, customer analytics in the first place.
 

@@ -10,7 +10,7 @@ The goal of the group project is to give you an opportunity to apply the skills 
 * [**Euromonitor Passport**][] brand share data for industries relevant to your company
 * [**Google Trends**][] search interest data for topics relevant to your company
 
-[comScore]: https://auth2.comscore.com/
+[**comScore**]: https://auth2.comscore.com/
 [Euromonitor Passport]: http://proxy.its.virginia.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt
 [Google Trends]: https://trends.google.com/trends/
 

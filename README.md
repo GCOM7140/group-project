@@ -2,7 +2,7 @@
 
 The goal of the group project is to give you an opportunity to apply the skills you're learning in [**R for Data Science**][R4DS] to the arena of [**customer analytics**][Wharton class], such that you end up turning consumer/customer data into [**significant, novel, interesting, broad, and actionable insights**][The anatomy of a good topic] for a company of your group's interest. The data sets we will cover in class for this purpose include the following:
 
-[R4DS]: r4ds.had.co.nz
+[R4DS]: http://r4ds.had.co.nz
 [Wharton class]: https://www.coursera.org/learn/wharton-customer-analytics
 [The anatomy of a good topic]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf
 

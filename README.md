@@ -1,4 +1,4 @@
-# group-project
+# The Group Project: Objectives and Deliverables
 
 The goal of the group project is to give you an opportunity to apply the skills you're learning in [**R for Data Science**][R4DS] to the arena of [**customer analytics**][Wharton class], such that you end up turning consumer/customer data into [**significant, novel, interesting, broad, and actionable insights**][The anatomy of a good topic] for a company of your group's interest. The data sets we will cover in class for this purpose include the following:
 
@@ -22,11 +22,13 @@ The more you engage in [**this process of data science**][Hadley 2017], the bett
 
 There are two key deliverables for the group project (due on April 26 at 12:30 PM):
 
-1. A report of no more than *15 pages*—stapled, two sided, and double spaced with one-inch margins and 12-point font, excluding references, tables, figures, and appendices (which have no page limit)—per group. I will use this rubric to assess and provide you developmental feedback on your report.
+1. A report of no more than *15 pages*—stapled, two sided, and double spaced with one-inch margins and 12-point font, excluding references, tables, figures, and appendices (which have no page limit)—per group. I will use this rubric to assess and provide you developmental feedback on your report. Your report must also be submitted electronically according to the reproducibility criteria of the rubric.
 
-2. A group presentation of no more than *12 minutes*, followed by up to eight minutes of Q&A. Invited guests, your peers, and I will use this rubric to assess and provide you with developmental feedback on your presentation.
+2. A group presentation of no more than *12 minutes*, followed by up to *eight minutes* of Q&A. Invited guests, your peers, and I will use this rubric to assess and provide you with developmental feedback on your presentation. This [agenda][] will guide the order of the group presentations. Be sure to add your group's *final* presentation title to it no later than April 19 at 12:30 PM.
 
-## Class list
+[agenda]: https://github.com/GCOM7140/group-project/blob/master/agenda.pdf
+
+# Groups and GitHub Usernames
 
 Name | Group | GitHub Username
 ------- | ---| -------

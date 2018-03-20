@@ -64,7 +64,7 @@ Noah Rodammer | 6 | noahrodammer
 Yifan Wang | 6 | 
 Joe Cinnante | 7 | Jcinnante 
 George Dowling | 7 | gdowling
-Erin Kim | 7 | 
+Erin Kim | 7 | etk4ya
 Michael Starnes | 7 | 
 Lo Yeadon | 7 | 
 Tyler Gimple | 8 | 

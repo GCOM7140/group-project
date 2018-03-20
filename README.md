@@ -50,7 +50,7 @@ Jenny Zhao | 3 |
 Rich Eldh | 4 | 
 Chris Hendricks | 4 | 
 Christian Mitchell | 4 | clm5fk
-Cara Salyers | 4 | 
+Cara Salyers | 4 | carasalyers
 Molly Xie | 4 | 
 Paige Atkins | 5 | 
 Luke Jurat | 5 | 

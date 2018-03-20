@@ -61,7 +61,7 @@ Ousmane Diaby | 6 |
 Kristina Kelhofer | 6 | 
 Rob Papel | 6 | 
 Noah Rodammer | 6 | noahrodammer
-Yifan Wang | 6 | 
+Yifan Wang | 6 | yw8ve
 Joe Cinnante | 7 | Jcinnante 
 George Dowling | 7 | gdowling
 Erin Kim | 7 | etk4ya

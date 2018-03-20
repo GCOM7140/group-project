@@ -63,7 +63,7 @@ Rob Papel | 6 |
 Noah Rodammer | 6 | noahrodammer
 Yifan Wang | 6 | 
 Joe Cinnante | 7 | 
-George Dowling | 7 | 
+George Dowling | 7 | gdowling
 Erin Kim | 7 | 
 Michael Starnes | 7 | 
 Lo Yeadon | 7 | 

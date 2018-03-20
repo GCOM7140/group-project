@@ -61,13 +61,13 @@ Ousmane Diaby | 6 |
 Kristina Kelhofer | 6 | 
 Rob Papel | 6 | 
 Noah Rodammer | 6 | noahrodammer
-Yifan Wang | 6 | 
+Yifan Wang | 6 | yw8ve
 Joe Cinnante | 7 | Jcinnante 
 George Dowling | 7 | gdowling
 Erin Kim | 7 | etk4ya
 Michael Starnes | 7 | 
 Lo Yeadon | 7 | 
-Tyler Gimple | 8 | 
+Tyler Gimple | 8 | tgimple
 Rosemary O'Hagan | 8 | 
 Dominic Sfreddo | 8 | dsfreddo
 Jay Whitmire | 8 | 

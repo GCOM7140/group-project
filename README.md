@@ -62,13 +62,13 @@ Kristina Kelhofer | 6 |
 Rob Papel | 6 | 
 Noah Rodammer | 6 | noahrodammer
 Yifan Wang | 6 | 
-Joe Cinnante | 7 | 
+Joe Cinnante | 7 | Jcinnante 
 George Dowling | 7 | gdowling
 Erin Kim | 7 | 
 Michael Starnes | 7 | 
 Lo Yeadon | 7 | 
 Tyler Gimple | 8 | 
 Rosemary O'Hagan | 8 | 
-Dominic Sfreddo | 8 | 
+Dominic Sfreddo | 8 | dsfreddo
 Jay Whitmire | 8 | 
 Zoe Zheng | 8 | zoez1995

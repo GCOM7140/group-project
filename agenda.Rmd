@@ -18,7 +18,7 @@ sample(1:8, 8)
       |   |		|  
 12:40	|	Delta	|		|	Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang
       |   |		|  
-1:00	|		|		|	Tyler Gimple, Rosemary O'Hagan, Dominic Sfreddo, Jay Whitmire, and Zoe Zheng
+1:00	| Adidas|		|	Tyler Gimple, Rosemary O'Hagan, Dominic Sfreddo, Jay Whitmire, and Zoe Zheng
       |   |		|  
 1:20	|		|		|	Rich Eldh, Chris Hendricks, Christian Mitchell, Cara Salyers, and Molly Xie
       |   |		|  

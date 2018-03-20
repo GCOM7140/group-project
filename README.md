@@ -43,7 +43,7 @@ Ben Jessee | 2 |
 Burhan Khan | 2 | bkhanUVA
 Shane Zhang | 2 | 
 Reid Calhoun | 3 | reidmcalhoun
-Sam Kotz | 3 | 
+Sam Kotz | 3 | skotz1
 Amelia Nelson | 3 | 
 Kevin Wu | 3 | 
 Jenny Zhao | 3 | 

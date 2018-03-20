@@ -43,9 +43,9 @@ Ben Jessee | 2 |
 Burhan Khan | 2 | bkhanUVA
 Shane Zhang | 2 | 
 Reid Calhoun | 3 | reidmcalhoun
-Sam Kotz | 3 | 
+Sam Kotz | 3 | skotz1
 Amelia Nelson | 3 | 
-Kevin Wu | 3 | 
+Kevin Wu | 3 | kwu525
 Jenny Zhao | 3 | 
 Rich Eldh | 4 | 
 Chris Hendricks | 4 | 
@@ -64,7 +64,7 @@ Noah Rodammer | 6 | noahrodammer
 Yifan Wang | 6 | 
 Joe Cinnante | 7 | Jcinnante 
 George Dowling | 7 | gdowling
-Erin Kim | 7 | 
+Erin Kim | 7 | etk4ya
 Michael Starnes | 7 | 
 Lo Yeadon | 7 | 
 Tyler Gimple | 8 | 

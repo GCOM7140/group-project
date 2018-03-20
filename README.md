@@ -47,7 +47,7 @@ Sam Kotz | 3 | skotz1
 Amelia Nelson | 3 | 
 Kevin Wu | 3 | kwu525
 Jenny Zhao | 3 | 
-Rich Eldh | 4 | 
+Rich Eldh | 4 | reldh18
 Chris Hendricks | 4 | 
 Christian Mitchell | 4 | clm5fk
 Cara Salyers | 4 | 

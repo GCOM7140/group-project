@@ -33,7 +33,7 @@ There are two key deliverables for the group project (due on April 26 at 12:30 P
 Name | Group | GitHub Username
 ------- | ---| -------
 Omar Amer | 1 | 
-Kevin Cao | 1 | 
+Kevin Cao | 1 | kqc3bv
 Luna Han | 1 | 
 Mo Jmaileh | 1 | 
 Lucas Pulliza | 1 | 
@@ -42,7 +42,7 @@ Lani Hannah | 2 |
 Ben Jessee | 2 | 
 Burhan Khan | 2 | bkhanUVA
 Shane Zhang | 2 | 
-Reid Calhoun | 3 | 
+Reid Calhoun | 3 | reidmcalhoun
 Sam Kotz | 3 | 
 Amelia Nelson | 3 | 
 Kevin Wu | 3 | 
@@ -71,4 +71,4 @@ Tyler Gimple | 8 |
 Rosemary O'Hagan | 8 | 
 Dominic Sfreddo | 8 | 
 Jay Whitmire | 8 | 
-Zoe Zheng | 8 | 
+Zoe Zheng | 8 | zoez1995

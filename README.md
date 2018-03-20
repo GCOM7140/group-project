@@ -69,6 +69,6 @@ Michael Starnes | 7 |
 Lo Yeadon | 7 | 
 Tyler Gimple | 8 | 
 Rosemary O'Hagan | 8 | 
-Dominic Sfreddo | 8 | 
+Dominic Sfreddo | 8 | dsfreddo
 Jay Whitmire | 8 | 
 Zoe Zheng | 8 | zoez1995

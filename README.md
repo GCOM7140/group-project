@@ -45,7 +45,7 @@ Shane Zhang | 2 |
 Reid Calhoun | 3 | reidmcalhoun
 Sam Kotz | 3 | skotz1
 Amelia Nelson | 3 | 
-Kevin Wu | 3 | 
+Kevin Wu | 3 | kwu525
 Jenny Zhao | 3 | 
 Rich Eldh | 4 | 
 Chris Hendricks | 4 | 
@@ -59,7 +59,7 @@ Richard Potter | 5 | richardlpotter
 Ryan Zhang | 5 | 
 Ousmane Diaby | 6 | 
 Kristina Kelhofer | 6 | 
-Rob Papel | 6 | papelr
+Rob Papel | 6 | 
 Noah Rodammer | 6 | noahrodammer
 Yifan Wang | 6 | 
 Joe Cinnante | 7 | Jcinnante 

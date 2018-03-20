@@ -41,13 +41,13 @@ Robby Byrne | 2 |
 Lani Hannah | 2 | 
 Ben Jessee | 2 | bmj5ej
 Burhan Khan | 2 | bkhanUVA
-Shane Zhang | 2 | 
+Shane Zhang | 2 | ShaneZhang057
 Reid Calhoun | 3 | reidmcalhoun
 Sam Kotz | 3 | skotz1
 Amelia Nelson | 3 | 
 Kevin Wu | 3 | kwu525
 Jenny Zhao | 3 | 
-Rich Eldh | 4 | reldh18
+Rich Eldh | 4 | 
 Chris Hendricks | 4 | 
 Christian Mitchell | 4 | clm5fk
 Cara Salyers | 4 | 

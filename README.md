@@ -35,7 +35,7 @@ Name | Group | GitHub Username
 Omar Amer | 1 | oa3ta
 Kevin Cao | 1 | kqc3bv
 Luna Han | 1 | 
-Mo Jmaileh | 1 | mj2wk 
+Mo Jmaileh | 1 | mjmaileh 
 Lucas Pulliza | 1 | 
 Robby Byrne | 2 | 
 Lani Hannah | 2 | 

@@ -39,43 +39,43 @@ There are two key deliverables for the group project (due on April 26 at 12:30 P
 
 Name | Group | GitHub Username
 ------- | ---| -------
-Omar Amer | 1 | 
-Kevin Cao | 1 | 
+Omar Amer | 1 | oa3ta
+Kevin Cao | 1 | kqc3bv
 Luna Han | 1 | 
-Mo Jmaileh | 1 | 
+Mo Jmaileh | 1 | mjmaileh 
 Lucas Pulliza | 1 | 
-Robby Byrne | 2 | 
-Lani Hannah | 2 | 
-Ben Jessee | 2 | 
-Burhan Khan | 2 | 
-Shane Zhang | 2 | 
-Reid Calhoun | 3 | 
-Sam Kotz | 3 | 
+Robby Byrne | 2 | rbb3fc
+Lani Hannah | 2 | lh2cu
+Ben Jessee | 2 | bmj5ej
+Burhan Khan | 2 | bkhanUVA
+Shane Zhang | 2 | ShaneZhang057
+Reid Calhoun | 3 | reidmcalhoun
+Sam Kotz | 3 | skotz1
 Amelia Nelson | 3 | 
-Kevin Wu | 3 | 
+Kevin Wu | 3 | kwu525
 Jenny Zhao | 3 | 
-Rich Eldh | 4 | 
+Rich Eldh | 4 | reldh18
 Chris Hendricks | 4 | 
-Christian Mitchell | 4 | 
-Cara Salyers | 4 | 
+Christian Mitchell | 4 | clm5fk
+Cara Salyers | 4 | carasalyers
 Molly Xie | 4 | 
 Paige Atkins | 5 | 
 Luke Jurat | 5 | 
 Russ Monyette | 5 | 
-Richard Potter | 5 | 
+Richard Potter | 5 | richardlpotter
 Ryan Zhang | 5 | 
 Ousmane Diaby | 6 | 
 Kristina Kelhofer | 6 | 
 Rob Papel | 6 | 
-Noah Rodammer | 6 | 
-Yifan Wang | 6 | 
-Joe Cinnante | 7 | 
-George Dowling | 7 | 
-Erin Kim | 7 | 
+Noah Rodammer | 6 | noahrodammer
+Yifan Wang | 6 | yw8ve
+Joe Cinnante | 7 | Jcinnante 
+George Dowling | 7 | gdowling
+Erin Kim | 7 | etk4ya
 Michael Starnes | 7 | 
 Lo Yeadon | 7 | 
-Tyler Gimple | 8 | 
+Tyler Gimple | 8 | tgimple
 Rosemary O'Hagan | 8 | 
-Dominic Sfreddo | 8 | 
+Dominic Sfreddo | 8 | dsfreddo
 Jay Whitmire | 8 | 
-Zoe Zheng | 8 | 
+Zoe Zheng | 8 | zoez1995

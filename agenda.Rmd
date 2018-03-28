@@ -16,7 +16,7 @@ sample(1:8, 8)
 ---:| -------- | --------------------------------------- | ---------------------
 12:30	|   |	Welcome Address | Jeff Boichuk
       |   |		|		|
-12:40	|	Delta	|	What if there was a long title in here. How would this look?	|	Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang
+12:40	|	Delta	|		|	Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang
       |   |		|		| 
 1:00	| Adidas|		|	Tyler Gimple, Rosemary O'Hagan, Dominic Sfreddo, Jay Whitmire, and Zoe Zheng
       |   |		|		|

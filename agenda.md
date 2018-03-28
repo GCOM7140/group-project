@@ -36,7 +36,7 @@ Agenda
 <tr class="odd">
 <td align="right">12:40</td>
 <td>Delta</td>
-<td>What if there was a long title in here. How would this look?</td>
+<td></td>
 <td>Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang</td>
 </tr>
 <tr class="even">

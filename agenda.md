@@ -160,5 +160,7 @@ Invited Guests
 --------------
 
 [**Anoop Dhakad**](https://www.linkedin.com/in/anoopdhakad/), Partner, Head of Global Client Relations at MKP Capital
+
 [**Steve Mortimer**](https://www.linkedin.com/in/stevenmmortimer/), Darden School of Business (Class of 2019)
+
 [**Tom Wilson**](https://www.linkedin.com/in/tom-wilson-993b28/), Head of Talent Acquisition at OppenheimerFunds

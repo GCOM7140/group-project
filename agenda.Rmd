@@ -13,7 +13,7 @@ sample(1:8, 8)
 
 ## Agenda
 *Time*  | *Company* | *Presentation title* | *Presenters*
----:| -------- | ------------------------------- | -----------------------------
+---:| -------- | --------------------------------------- | ---------------------
 12:30	|   |	**Welcome Address** | Jeff Boichuk
       |   |		|		|
 12:40	|	Delta	|		|	Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang

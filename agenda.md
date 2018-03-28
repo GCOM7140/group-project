@@ -9,8 +9,8 @@ Agenda
 <colgroup>
 <col width="6%" />
 <col width="11%" />
-<col width="36%" />
-<col width="44%" />
+<col width="42%" />
+<col width="39%" />
 </colgroup>
 <thead>
 <tr class="header">

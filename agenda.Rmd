@@ -1,7 +1,7 @@
 ---
 title: Customer Analytics Group Project Presentations
 date: April 26, 2018
-output: pdf_document
+output: github_document
 ---
 
 ```{r echo = F, eval = F}
@@ -15,27 +15,27 @@ sample(1:8, 8)
 *Time*  | *Company* | *Presentation title* | *Presenters*
 ---:| -------- | --------------------------- | ---------------------------------
 12:30	|   |	**Welcome Address** | Jeff Boichuk
-      |   |		|  
+      |   |		|		|
 12:40	|	Delta	|		|	Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang
-      |   |		|  
+      |   |		|		| 
 1:00	| Adidas|		|	Tyler Gimple, Rosemary O'Hagan, Dominic Sfreddo, Jay Whitmire, and Zoe Zheng
-      |   |		|  
+      |   |		|		|
 1:20	|		|		|	Rich Eldh, Chris Hendricks, Christian Mitchell, Cara Salyers, and Molly Xie
-      |   |		|  
+      |   |		|		|
 1:40	|		|		|	Ousmane Diaby, Kristina Kelhofer, Rob Papel, Noah Rodammer, and Yifan Wang
-      |   |		|  
-      |   |		|  
+      |   |		|		|
+      |   |		|		|
 2:00	|	  |	**Break**	|
-      |   |		|  
-      |   |		|  
+      |   |		|		|
+      |   |		|		|
 2:20	|		|		|	Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao
-      |   |		|  
+      |   |		|		|
 2:40	|		|		|	Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza
-      |   |		|  
+      |   |		|		|
 3:00	|		|		|	Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon
-      |   |		|  
+      |   |		|		|
 3:20	|		|		|	Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang
-      |   |		|  
+      |   |		|		|
 
 ## Invited Guests
 [**Anoop Dhakad**](https://www.linkedin.com/in/anoopdhakad/), Partner, Head of Global Client Relations at MKP Capital  

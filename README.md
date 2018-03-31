@@ -25,53 +25,39 @@ Your report should advocate for strategic change to a focal company's marketing 
 I will use the following guidelines to assess your report. Internalizing them will help you develop a report worthy of an exemplary grade.
 
 ### Topic \& Decision-Making Principles (20%)
-Cogent reasoning explains why the major decision being considered has an impressive [anatomy][Colquitt and George 2011]. 
-
-The long-term, detrimental implications of inaction for the focal company are argued concretely.
-
-Alternative courses of action are identified in a balanced, convincing manner.
-
-Decision criteria relevant to the major decision at hand are defined and ranked cogently. 
-
-The proposed decision is very well reasoned, because the decision criteria are used to evaluate the alternatives rigorously.
+- Cogent reasoning explains why the major decision being considered has an impressive [anatomy][Colquitt and George 2011].  
+- The long-term, detrimental implications of inaction for the focal company are argued concretely.  
+- Alternative courses of action are identified in a balanced, convincing manner.  
+- Decision criteria relevant to the major decision at hand are defined and ranked cogently.  
+- The proposed decision is very well reasoned, because the decision criteria are used to evaluate the alternatives rigorously.
 
 ### Data (20%)
-The [provenance][Polich and Whitenack 2017] and definitions of the data and variables being analyzed to make decisions are described [clearly, completely, and credibly][Zhang and Shaw 2012].
-
-Convincing reasons explain why certain data are given priority over others (e.g., red herrings).
-
-The sequence of the data being analyzed exhibits logical flow.
-
-Data limitations are stated explicitly at appropriate times.
+- The [provenance][Polich and Whitenack 2017] and definitions of the data and variables being analyzed to make decisions are described [clearly, completely, and credibly][Zhang and Shaw 2012].  
+- Convincing reasons explain why certain data are given priority over others (e.g., red herrings).  
+- The sequence of the data being analyzed exhibits logical flow.  
+- Data limitations are stated explicitly at appropriate times.
 
 ### Analysis (20%)
-A breadth and depth of techniques covered in [R for Data Science][Grolemund and Wickham 2017] are applied [accurately, collaboratively, and reproducibly][Parker 2017]. 
+- A breadth and depth of techniques covered in [R for Data Science][Grolemund and Wickham 2017] are applied [accurately, collaboratively, and reproducibly][Parker 2017].  
+- A knowledgeable individual could [reproduce][Peng 2012] your findings with ease, because self-contained, executable code and the data being analyzed are in a GitHub repo.  
+- Visualizations are used in ways that force the reader to notice [unexpected phenomena][Grolemund and Wickham 2017, 3.3].  
+- Hoofbeats are interpreted as signs of horses not [zebras][Sotos 2006].  
+- Methodological limitations are stated explicitly at appropriate times.
 
-A knowledgeable individual could [reproduce][Peng 2012] your findings with ease, because self-contained, executable code and the data being analyzed are in a GitHub repo.
-
-Visualizations are used in ways that force the reader to notice [unexpected phenomena][Grolemund and Wickham 2017, 3.3].
-
-Hoofbeats are interpreted as signs of horses not [zebras][Sotos 2006].
-
-Methodological limitations are stated explicitly at appropriate times.
-
-Action Plan (20%)
-All relevant elements of the marketing mix are covered in detail.
-
-What needs to be done (i.e., who, when, what, where, why, and how) is discussed expansively.
-
-[SMART goals][Miller 2018] are set to communicate expected results.[^1]
+### Action Plan (20%)
+- All relevant elements of the marketing mix are covered in detail.  
+- What needs to be done (i.e., who, when, what, where, why, and how) is discussed expansively.  
+- [SMART goals][Miller 2018] are set to communicate expected results.<sup>1</sup>
 
 ### Style \& Grammar (20%)
-The expectations set by Prof. Patterson in Communication are exceeded.[^2]
+- The expectations set by Prof. Patterson in Communication are exceeded.<sup>2</sup>  
+- All tables and figures are formatted properly.  
+- Every sentence is grammatically correct, and all sentences flow together naturally.  
+- All references are cited correctly.  
+- The [*Journal of Marketing Research* Style Guide][JMR] and [Hadley???s R Style Guide][Wickham 2014] are adhered to at all times.
 
-All tables and figures are formatted properly.
-
-Every sentence is grammatically correct, and all sentences flow together naturally.
-
-All references are cited correctly.
-
-The [*Journal of Marketing Research* Style Guide][JMR] and [Hadley???s R Style Guide][Wickham 2014] are adhered to at all times.
+<sup>1</sup> SMART goals are specific, measurable, achievable, relevant, and time-bound. They may relate to consumers' attitudes, emotions, and actions, as well as to the triple bottom line (i.e., profits, people, and the planet).
+<sup>2</sup> Expectations set in Communication include, but are not limited to, the following: BLUF writing, SAS headings/tables/figures, and SEC plain English.
 
 ## Groups and GitHub Usernames
 
@@ -117,9 +103,6 @@ Rosemary O'Hagan | 8 |
 Dominic Sfreddo | 8 | dsfreddo
 Jay Whitmire | 8 | 
 Zoe Zheng | 8 | zoez1995
-
-[^1]: SMART goals are specific, measurable, achievable, relevant, and time-bound. They may relate to consumers' attitudes, emotions, and actions, as well as to the triple bottom line (i.e., profits, people, and the planet).
-[^2]: Expectations set in Communication include, but are not limited to, the following: BLUF writing, SAS headings/tables/figures, and SEC plain English.
 
 [agenda]: https://github.com/GCOM7140/group-project/blob/master/agenda.md#customer-analytics-group-project-presentations
 [Bradlow, Fader, Yyengar, and Bernman]: https://www.coursera.org/learn/wharton-customer-analytics

@@ -54,7 +54,7 @@ I will use the following guidelines to assess your report. Internalizing them wi
 - All tables and figures are formatted properly.  
 - Every sentence is grammatically correct, and all sentences flow together naturally.  
 - All references are cited correctly.  
-- The [*Journal of Marketing Research* Style Guide][JMR] and [Hadley???s R Style Guide][Wickham 2014] are adhered to at all times.
+- The [*Journal of Marketing Research* Style Guide][JMR] and [Hadley's R Style Guide][Wickham 2014] are adhered to at all times.
 
 <sup>1</sup> SMART goals are specific, measurable, achievable, relevant, and time-bound. They may relate to consumers' attitudes, emotions, and actions, as well as to the triple bottom line (i.e., profits, people, and the planet).
 <sup>2</sup> Expectations set in Communication include, but are not limited to, the following: BLUF writing, SAS headings/tables/figures, and SEC plain English.

@@ -69,7 +69,7 @@ After reading your report, I will use the following guidelines to assess and pro
 
 ### Presentation Guidelines
 
-Your presentation should build an argument that motivates your audience (i.e., executives of your chosen company) to accept your claims (i.e., those in your report).
+Your presentation should be prepared as if it is for executives of your chosen company, and your goal is to persuade them to pursue the action plan you are advancing for their consideration.
 
 After listening to your presentation, [invited guests][Dhakad et al. 2018], your peers, and I will use the following guidelines to assess and provide you developmental feedback on your presentation. Internalizing them will help you deliver a presentation worthy of an exemplary grade.
 

@@ -29,7 +29,7 @@ There are two key deliverables for the group project:
 
 Your report should advocate for strategic change to a focal company's marketing mix. Base your action plan on the shoulders of (i) a topic with an impressive [anatomy][Colquitt and George 2011]; (ii) a decision-making process with strong [principles][Dalio 2017]; (iii) data that are described [clearly, completely, and credibly][Zhang and Shaw 2012]; (iv) a breadth and depth of analyses that are applied [accurately, collaboratively, and reproducibly][Parker 2017]; and (v) [stylish writing][Sword 2012].
 
-After reading your report, I will use the following guidelines to assess your report and give you developmental feedback. Internalizing these guidelines will help you develop a report worthy of an exemplary grade.
+After reading your report, I will use the following guidelines to assess it and give you developmental feedback. Internalizing these guidelines will help you develop a report worthy of an exemplary grade.
 
 #### Decision-Making Principles (20%)
 - Cogent reasoning explains why the major decision being considered has an impressive [anatomy][Colquitt and George 2011].  
@@ -71,7 +71,7 @@ After reading your report, I will use the following guidelines to assess your re
 
 Your presentation should be prepared as if it is being delivered to executives of your chosen company, and your goal is to persuade them to pursue the action plan you are advancing for their consideration.
 
-After listening to your presentation, [invited guests][Dhakad et al. 2018], your peers, and I will use the following guidelines to assess your presentation and give you developmental feedback. Internalizing these guidelines will help you deliver a presentation worthy of an exemplary grade.
+After listening to your presentation, [invited guests][Dhakad et al. 2018], your peers, and I will use the following guidelines to assess it and give you developmental feedback. Internalizing these guidelines will help you deliver a presentation worthy of an exemplary grade.
 
 - The group presented in a [simple, easy-to-understand way][Allen 2017].  
 - The group conducted a breadth and depth of analyses to build an argument, [crafted by research][Booth, Colomb, and Williams 2008], that motivated me to accept their claims.  

@@ -1,6 +1,13 @@
 # The Group Project
 
-## Objectives
+## Table of Contents
+ - [Objectives](#objectives)
+ - [Deliverables](#deliverables)
+ - [Report Guidelines](#report-guidelines)
+ - [Presentation Guidelines](#presentation-guidelines)
+ - [Groups and GitHub Usernames](#groups-and-github-usernames)
+
+### Objectives
 
 The goal of the group project is to give you an opportunity to apply the skills you're learning in [R for Data Science][Grolemund and Wickham 2017] to the arena of [customer analytics][Bradlow, Fader, Yyengar, and Bernman], such that you end up turning consumer/customer data into [significant, novel, interesting, broad, and actionable insights][Colquitt and George 2011] for a company of your group's interest. The data sets we will cover in class for this purpose include the following:
 
@@ -10,56 +17,70 @@ The goal of the group project is to give you an opportunity to apply the skills 
 
 The more you engage in [this process of data science][Hadley 2017], the better you will be at [generating, disseminating, and responding to market intelligence][Jaworski and Kohli 1993]. Improving your ability to perform these three core activities will in turn allow you to help companies&mdash;especially the ones you want to work for&mdash;achieve a market orientation, commercial success, and [optimized collective value][Donaldson and Walsh 2015]. Recall that optimizing collective value (i.e., prosperity) is arguably why society engages in commerce and, as a result, customer analytics in the first place.
 
-## Deliverables
+### Deliverables
 
 There are two key deliverables for the group project (due on April 26 at 12:30 PM):
 
-1. A report of no more than *15 pages*&mdash;stapled, two sided, and double spaced with one-inch margins and 12-point font, excluding references, tables, figures, and appendices (which have no page limit)&mdash;per group. I will use the following criteria to assess and provide you developmental feedback on your report. Your report must also be submitted electronically according to the reproducibility criteria below.
+1. A report of no more than *15 pages*&mdash;stapled, two sided, and double spaced with one-inch margins and 12-point font, excluding references, tables, figures, and appendices (which have no page limit)&mdash;per group. I will use the [report guidelines](#report-guidelines) below to assess and provide you developmental feedback on your report. Your report must also be submitted electronically according to the reproducibility criteria below.
 
-2. A group presentation of no more than *12 minutes*, followed by up to *eight minutes* of Q&A. Invited guests, your peers, and I will use the following criteria to assess and provide you developmental feedback on your presentation. This [agenda][agenda] will guide when groups present. Be sure to add your group's *final* presentation title to the [agenda][agenda] no later than April 19 at 12:30 PM.
+2. A group presentation of no more than *12 minutes*, followed by up to *eight minutes* of Q&A. [Invited guests][Dhakad et al. 2018], your peers, and I will use the [presentation guidelines](#presentation-guidelines) below to assess and provide you developmental feedback on your presentation. This [agenda][agenda] will guide when groups present. Add your group's *final* presentation title to the [agenda][agenda] no later than April 19 at 12:30 PM.
 
-## Report Guidelines
+### Report Guidelines
 
 Your report should advocate for strategic change to a focal company's marketing mix. Base your action plan on the shoulders of (i) a topic with an impressive [anatomy][Colquitt and George 2011]; (ii) a decision-making process with strong [principles][Dalio 2017]; (iii) data that are described [clearly, completely, and credibly][Zhang and Shaw 2012]; (iv) a breadth and depth of analyses that are applied [accurately, collaboratively, and reproducibly][Parker 2017]; and (v) [stylish writing][Sword 2012].
 
-I will use the following guidelines to assess your report. Internalizing them will help you develop a report worthy of an exemplary grade.
+After reading your report, I will use the following guidelines to assess and provide you developmental feedback on your report. Internalizing them will help you develop a report worthy of an exemplary grade.
 
-### Topic \& Decision-Making Principles (20%)
+#### Decision-Making Principles (20%)
 - Cogent reasoning explains why the major decision being considered has an impressive [anatomy][Colquitt and George 2011].  
 - The long-term, detrimental implications of inaction for the focal company are argued concretely.  
 - Alternative courses of action are identified in a balanced, convincing manner.  
 - Decision criteria relevant to the major decision at hand are defined and ranked cogently.  
-- The proposed decision is very well reasoned, because the decision criteria are used to evaluate the alternatives rigorously.
+- The proposed decision is very well reasoned, because said decision criteria are used to evaluate the alternatives rigorously.
 
-### Data (20%)
+#### Data (20%)
 - The [provenance][Polich and Whitenack 2017] and definitions of the data and variables being analyzed to make decisions are described [clearly, completely, and credibly][Zhang and Shaw 2012].  
 - Convincing reasons explain why certain data are given priority over others (e.g., red herrings).  
-- The sequence of the data being analyzed exhibits logical flow.  
-- Data limitations are stated explicitly at appropriate times.
+- Data limitations are stated at appropriate times.
 
-### Analysis (20%)
+#### Method (20%)
 - A breadth and depth of techniques covered in [R for Data Science][Grolemund and Wickham 2017] are applied [accurately, collaboratively, and reproducibly][Parker 2017].  
-- A knowledgeable individual could [reproduce][Peng 2012] your findings with ease, because self-contained, executable code and the data being analyzed are in a GitHub repo.  
+- A knowledgeable individual could [reproduce][Peng 2012] your findings with ease, because self-contained, executable code and the data being analyzed are accessible via GitHub.  
 - Visualizations are used in ways that force the reader to notice [unexpected phenomena][Grolemund and Wickham 2017, 3.3].  
 - Hoofbeats are interpreted as signs of horses not [zebras][Sotos 2006].  
-- Methodological limitations are stated explicitly at appropriate times.
+- Methodological limitations are stated at appropriate times.
 
-### Action Plan (20%)
+#### Action Plan (20%)
 - All relevant elements of the marketing mix are covered in detail.  
 - What needs to be done (i.e., who, when, what, where, why, and how) is discussed expansively.  
-- [SMART goals][Miller 2018] are set to communicate expected results.<sup>1</sup>
+- The overall recommendation being proposed is creative (i.e., novel and useful).  
+- [SMART goals][Miller 2018] are set in order to establish expected results.<sup>1</sup>
 
-### Style \& Grammar (20%)
-- The expectations set by Prof. Patterson in Communication are exceeded.<sup>2</sup>  
-- All tables and figures are formatted properly.  
+#### Style \& Grammar (20%)
+- The expectations Prof. Patterson set in Communication are all exceeded.<sup>2</sup>  
+- Tables and figures are all formatted properly and [effective][Grolemund and Wickham 2017, 28.1].  
 - Every sentence is grammatically correct, and all sentences flow together naturally.  
-- All references are cited correctly.  
+- The report is free of spelling errors.  
+- Every reference is cited correctly.  
 - The [*Journal of Marketing Research* Style Guide][JMR] and [Hadley's R Style Guide][Wickham 2014] are adhered to at all times.
 
 <sup>1</sup> SMART goals are specific, measurable, achievable, relevant, and time-bound. They may relate to consumers' attitudes, emotions, and actions, as well as to the triple bottom line (i.e., profits, people, and the planet).  
 <sup>2</sup> Expectations set in Communication include, but are not limited to, the following: BLUF writing, SAS headings/tables/figures, and SEC plain English.
 
-## Groups and GitHub Usernames
+### Presentation Guidelines
+
+Your presentation should build an argument that motivates your audience (i.e., executives of your chosen company) to accept your claims (i.e., those in your report).
+
+After listening to your presentation, [invited guests][Dhakad et al. 2018], your peers, and I will use the following guidelines to assess and provide you developmental feedback on your presentation. Internalizing them will help you deliver a presentation worthy of an exemplary grade.
+
+- The group presented in a [simple, easy-to-understand way][Allen 2017].  
+- The group conducted a breadth and depth of analyses to build an [argument][Booth, Colomb, and Williams 2008] that motivated me to accept their claims.  
+- The group edutained by fusing [scientific rigor with canny attention-grabbing][Allen 2017].  
+- The group responded to questions and reservations [appropriately][Jolles 2013].  
+- The group presented as a TEAM (i.e., contributions were comparable and complementary).  
+- The group's slides were [self-explanatory][Grolemund and Wickham 2017, 28.1], well referenced, and free of errors.
+
+### Groups and GitHub Usernames
 
 Name | Group | GitHub Username
 ------- | ---| -------
@@ -105,20 +126,26 @@ Jay Whitmire | 8 |
 Zoe Zheng | 8 | zoez1995
 
 [agenda]: https://github.com/GCOM7140/group-project/blob/master/agenda.md#customer-analytics-group-project-presentations
+[Allen 2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655
+[Booth, Colomb, and Williams 2008]: https://smile.amazon.com/books/dp/0226065669
 [Bradlow, Fader, Yyengar, and Bernman]: https://www.coursera.org/learn/wharton-customer-analytics
 [Colquitt and George 2011]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf
 [comScore]: https://auth2.comscore.com/
 [Dalio 2017]: https://smile.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_3?ie=UTF8&qid=1522529948&sr=8-3&keywords=principles+ray+dalio
+[Dhakad et al. 2018]: https://github.com/GCOM7140/group-project/blob/master/agenda.md#invited-guests
 [Donaldson and Walsh 2015]: http://www.sciencedirect.com/science/article/pii/S0191308515000088
 [Euromonitor Passport]: http://proxy.its.virginia.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt
 [Google Trends]: https://trends.google.com/trends/
 [Grolemund and Wickham 2017]: http://r4ds.had.co.nz
 [Grolemund and Wickham 2017, 3.3]: http://r4ds.had.co.nz/data-visualisation.html#aesthetic-mappings
+[Grolemund and Wickham 2017, 28.1]: http://r4ds.had.co.nz/graphics-for-communication.html
 [Hadley 2017]: https://www.rstudio.com/resources/videos/data-science-in-the-tidyverse/
 [Jaworski and Kohli 1993]: https://bear.warrington.ufl.edu/weitz/mar7786/articles/jaworski%20and%20kohli.pdf
+[Jolles 2013]: http://www.amanet.org/training/articles/i-object-four-steps-to-handling-objections.aspx
 [JMR]: https://www.ama.org/publications/JournalOfMarketingResearch/Pages/JMRSubmissionGuidelines.aspx
 [Miller 2018]: https://www.nytimes.com/guides/smarterliving/resolution-ideas
 [Parker 2017]: https://peerj.com/preprints/3210/
+[Parker 2017/06/06]: https://twitter.com/hspter/status/872135582100578304
 [Peng 2012]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383002/
 [Polich and Whitenack 2017]: https://dataskeptic.com/blog/episodes/2017/data-provenance-and-reproducibility-with-pachyderm
 [Sotos 2006]: https://en.wikipedia.org/wiki/Zebra_(medicine)

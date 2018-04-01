@@ -15,15 +15,15 @@ The goal of the group project is to give you an opportunity to apply the skills 
 * [Euromonitor Passport][] brand share data for industries relevant to your company
 * [Google Trends][] search interest data for topics relevant to your company
 
-The more you engage in [this process of data science][Hadley 2017], the better you will be at [generating, disseminating, and responding to market intelligence][Jaworski and Kohli 1993]. Improving your ability to perform these three core activities will in turn allow you to help companies&mdash;especially the ones you want to work for&mdash;achieve a market orientation, commercial success, and [optimized collective value][Donaldson and Walsh 2015]. Recall that optimizing collective value (i.e., prosperity) is arguably why society engages in commerce and, as a result, customer analytics in the first place.
+The more you engage in [this process of data science][Hadley 2017], the better you will be at [generating, disseminating, and responding to market intelligence][Jaworski and Kohli 1993]. Improving your ability to perform these three core activities will in turn allow you to help companies&mdash;especially those you want to work for&mdash;achieve a market orientation, commercial success, and [optimized collective value][Donaldson and Walsh 2015]. Optimizing collective value (i.e., prosperity) is arguably why society engages in commerce and, as a result, customer analytics in the first place.
 
 ### Deliverables
 
 There are two key deliverables for the group project (due on April 26 at 12:30 PM):
 
-1. A report of no more than *15 pages*&mdash;stapled, two sided, and double spaced with one-inch margins and 12-point font, excluding references, tables, figures, and appendices (which have no page limit)&mdash;per group. I will use the [report guidelines](#report-guidelines) below to assess and provide you developmental feedback on your report. Your report must also be submitted electronically according to the reproducibility criteria below.
+1. A report of no more than *15 pages*&mdash;stapled, two sided, and double spaced with one-inch margins and 12-point font, excluding references, tables, figures, and appendices (which have no page limit)&mdash;per group. I will use the [report guidelines](#report-guidelines) below to assess your report and give you developmental feedback. Your report must also be submitted electronically according to the reproducibility criteria below.
 
-2. A group presentation of no more than *12 minutes*, followed by up to *eight minutes* of Q&A. [Invited guests][Dhakad et al. 2018], your peers, and I will use the [presentation guidelines](#presentation-guidelines) below to assess and provide you developmental feedback on your presentation. This [agenda][agenda] will guide when groups present. Add your group's *final* presentation title to the [agenda][agenda] no later than April 19 at 12:30 PM.
+2. A group presentation of no more than *12 minutes*, followed by up to *eight minutes* of Q&A. [Invited guests][Dhakad et al. 2018], your peers, and I will use the [presentation guidelines](#presentation-guidelines) below to assess your presentation and give you developmental feedback. This [agenda][agenda] will guide when groups present. Add your group's *final* presentation title to the [agenda][agenda] no later than April 19 at 12:30 PM. Add your group's slide deck to GitHub no later than April 26 at 12:30 PM.
 
 ### Report Guidelines
 
@@ -45,7 +45,7 @@ After reading your report, I will use the following guidelines to assess and pro
 
 #### Method (20%)
 - A breadth and depth of techniques covered in [R for Data Science][Grolemund and Wickham 2017] are applied [accurately, collaboratively, and reproducibly][Parker 2017].  
-- A knowledgeable individual could [reproduce][Peng 2012] your findings with ease, because self-contained, executable code and the data being analyzed are accessible via GitHub.  
+- A knowledgeable individual could [reproduce][Peng 2012] your findings with ease, because&mdash;in addition to your report&mdash;self-contained, executable code and the data being analyzed are accessible via GitHub.  
 - Visualizations are used in ways that force the reader to notice [unexpected phenomena][Grolemund and Wickham 2017, 3.3].  
 - Hoofbeats are interpreted as signs of horses not [zebras][Sotos 2006].  
 - Methodological limitations are stated at appropriate times.

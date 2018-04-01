@@ -9,7 +9,7 @@
 
 ### Objectives
 
-The goal of the group project is to give you an opportunity to apply the skills you're learning in [R for Data Science][Grolemund and Wickham 2017] to the arena of [customer analytics][Bradlow, Fader, Yyengar, and Bernman], such that you end up turning consumer/customer data into [significant, novel, interesting, broad, and actionable insights][Colquitt and George 2011] for a company of your group's interest. The data sets we will cover in class for this purpose include the following:
+The goal of the group project is to give you an opportunity to apply the skills you are learning in [R for Data Science][Grolemund and Wickham 2017] to the arena of [customer analytics][Bradlow, Fader, Yyengar, and Bernman], such that you end up turning consumer/customer data into [significant, novel, interesting, broad, and actionable insights][Colquitt and George 2011] for a company of your group's interest. The data sets we will cover in class for this purpose include the following:
 
 * [comScore][] web traffic data for DTC and other e-commerce sites relevant to your company
 * [Euromonitor Passport][] brand share data for industries relevant to your company

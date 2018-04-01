@@ -21,7 +21,7 @@ The more you engage in [this process of data science][Hadley 2017], the better y
 
 There are two key deliverables for the group project (due on April 26 at 12:30 PM):
 
-1. A report of no more than *15 pages*&mdash;stapled, two sided, and double spaced with one-inch margins and 12-point font, excluding references, tables, figures, and appendices (which have no page limit)&mdash;per group. I will use the [report guidelines](#report-guidelines) below to assess your report and give you developmental feedback. Your report must also be submitted electronically according to the reproducibility criteria below.
+1. A report of no more than *15 pages*&mdash;stapled, two sided, and double spaced with one-inch margins and 12-point font, excluding references, tables, figures, and appendices (which have no page limit)&mdash;per group. I will use the [report guidelines](#report-guidelines) below to assess your report and give you developmental feedback. Your report must also be submitted via GitHub according to the reproducibility-related guideline below.
 
 2. A group presentation of no more than *12 minutes*, followed by up to *eight minutes* of Q&A. [Invited guests][Dhakad et al. 2018], your peers, and I will use the [presentation guidelines](#presentation-guidelines) below to assess your presentation and give you developmental feedback. This [agenda][agenda] will guide when groups present. Add your group's *final* presentation title to the [agenda][agenda] no later than April 19 at 12:30 PM. Add your group's slide deck to GitHub no later than April 26 at 12:30 PM.
 

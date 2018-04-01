@@ -73,7 +73,7 @@ Your presentation should be prepared as if it is being delivered to executives o
 
 After listening to your presentation, [invited guests][Dhakad et al. 2018], your peers, and I will use the following guidelines to assess it and give you developmental feedback. Internalizing these guidelines will help you deliver a presentation worthy of an exemplary grade.
 
-- The group presented in a [simple, easy-to-understand way][Allen 2017].  
+- The group discussed the data they analyzed in a [simple, easy-to-understand way][Allen 2017].  
 - The group conducted a breadth and depth of analyses to build an argument, [crafted by research][Booth, Colomb, and Williams 2008], that motivated me to accept their claims.  
 - The group edutained by fusing [scientific rigor with canny attention-grabbing][Allen 2017].  
 - The group responded to questions and reservations [appropriately][Jolles 2013].  

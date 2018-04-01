@@ -58,7 +58,7 @@ After reading your report, I will use the following guidelines to assess and pro
 
 #### Style \& Grammar (20%)
 - The expectations Prof. Patterson set in Communication are all exceeded.<sup>2</sup>  
-- Tables and figures are all formatted properly and [effective][Grolemund and Wickham 2017, 28.1].  
+- Tables and figures are all formatted properly and [effectively][Grolemund and Wickham 2017, 28.1].  
 - Every sentence is grammatically correct, and all sentences flow together naturally.  
 - The report is free of spelling errors.  
 - Every reference is cited correctly.  
@@ -74,7 +74,7 @@ Your presentation should be prepared as if it is for executives of your chosen c
 After listening to your presentation, [invited guests][Dhakad et al. 2018], your peers, and I will use the following guidelines to assess and provide you developmental feedback on your presentation. Internalizing them will help you deliver a presentation worthy of an exemplary grade.
 
 - The group presented in a [simple, easy-to-understand way][Allen 2017].  
-- The group conducted a breadth and depth of analyses to build an [argument][Booth, Colomb, and Williams 2008] that motivated me to accept their claims.  
+- The group conducted a breadth and depth of analyses to build an argument, [crafted by research][Booth, Colomb, and Williams 2008], that motivated me to accept their claims.  
 - The group edutained by fusing [scientific rigor with canny attention-grabbing][Allen 2017].  
 - The group responded to questions and reservations [appropriately][Jolles 2013].  
 - The group presented as a TEAM (i.e., contributions were comparable and complementary).  

@@ -30,7 +30,7 @@ sample(1:8, 8)
       |   |		|		|
 2:20	|		|		|	Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao
       |   |		|		|
-2:40	|		|		|	Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza
+2:40	|	Pepsi Co.	|		|	Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza
       |   |		|		|
 3:00	|		MLB		|	Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon
       |   |		|		|

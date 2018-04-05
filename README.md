@@ -108,7 +108,7 @@ Paige Atkins | 5 | pka2jj
 Luke Jurat | 5 | 
 Russ Monyette | 5 | 
 Richard Potter | 5 | richardlpotter
-Ryan Zhang | 5 | 
+Ryan Zhang | 5 | ryanzii
 Ousmane Diaby | 6 | 
 Kristina Kelhofer | 6 | 
 Rob Papel | 6 | 

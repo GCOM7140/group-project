@@ -100,10 +100,10 @@ Amelia Nelson | 3 |
 Kevin Wu | 3 | kwu525
 Jenny Zhao | 3 | 
 Rich Eldh | 4 | reldh18
-Chris Hendricks | 4 | 
+Chris Hendricks | 4 | chendricks2007
 Christian Mitchell | 4 | clm5fk
 Cara Salyers | 4 | carasalyers
-Molly Xie | 4 | 
+Molly Xie | 4 | mzxie
 Paige Atkins | 5 | pka2jj
 Luke Jurat | 5 | 
 Russ Monyette | 5 | 

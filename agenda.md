@@ -35,7 +35,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">12:40</td>
-<td>Delta</td>
+<td>YouTube.com</td>
 <td></td>
 <td>Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang</td>
 </tr>
@@ -59,8 +59,8 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">1:20</td>
-<td></td>
-<td></td>
+<td>Grubhub</td>
+<td>A Competitive Analysis for Enhanced Marketing Efforts</td>
 <td>Rich Eldh, Chris Hendricks, Christian Mitchell, Cara Salyers, and Molly Xie</td>
 </tr>
 <tr class="even">
@@ -71,8 +71,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">1:40</td>
-<td></td>
-<td></td>
+<td>Just</td>
 <td>Ousmane Diaby, Kristina Kelhofer, Rob Papel, Noah Rodammer, and Yifan Wang</td>
 </tr>
 <tr class="even">
@@ -107,7 +106,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">2:20</td>
-<td></td>
+<td>Blue Apron</td>
 <td></td>
 <td>Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao</td>
 </tr>
@@ -119,7 +118,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">2:40</td>
-<td></td>
+<td>Pepsi Co</td>
 <td></td>
 <td>Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza</td>
 </tr>
@@ -131,8 +130,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">3:00</td>
-<td></td>
-<td></td>
+<td>MLB</td>
 <td>Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon</td>
 </tr>
 <tr class="even">
@@ -143,7 +141,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">3:20</td>
-<td></td>
+<td>Diageo</td>
 <td></td>
 <td>Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang</td>
 </tr>

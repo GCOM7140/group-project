@@ -86,9 +86,9 @@ Name | Group | GitHub Username
 ------- | ---| -------
 Omar Amer | 1 | oa3ta
 Kevin Cao | 1 | kqc3bv
-Luna Han | 1 | 
+Luna Han | 1 | LunaHan16
 Mo Jmaileh | 1 | mjmaileh 
-Lucas Pulliza | 1 | 
+Lucas Pulliza | 1 | lucaspulliza
 Robby Byrne | 2 | rbb3fc
 Lani Hannah | 2 | lh2cu
 Ben Jessee | 2 | bmj5ej
@@ -100,17 +100,17 @@ Amelia Nelson | 3 |
 Kevin Wu | 3 | kwu525
 Jenny Zhao | 3 | JennyYJZhao
 Rich Eldh | 4 | reldh18
-Chris Hendricks | 4 | 
+Chris Hendricks | 4 | chendricks2007
 Christian Mitchell | 4 | clm5fk
 Cara Salyers | 4 | carasalyers
-Molly Xie | 4 | 
+Molly Xie | 4 | mzxie
 Paige Atkins | 5 | pka2jj
-Luke Jurat | 5 | 
-Russ Monyette | 5 | 
+Luke Jurat | 5 | lukejurat
+Russ Monyette | 5 | rmonyette
 Richard Potter | 5 | richardlpotter
-Ryan Zhang | 5 | 
+Ryan Zhang | 5 | ryanzii
 Ousmane Diaby | 6 | 
-Kristina Kelhofer | 6 | 
+Kristina Kelhofer | 6 | kristinakelhofer
 Rob Papel | 6 | 
 Noah Rodammer | 6 | noahrodammer
 Yifan Wang | 6 | yw8ve

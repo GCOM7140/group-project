@@ -110,7 +110,7 @@ Russ Monyette | 5 |
 Richard Potter | 5 | richardlpotter
 Ryan Zhang | 5 | 
 Ousmane Diaby | 6 | 
-Kristina Kelhofer | 6 | 
+Kristina Kelhofer | 6 | kristinakelhofer
 Rob Papel | 6 | 
 Noah Rodammer | 6 | noahrodammer
 Yifan Wang | 6 | yw8ve

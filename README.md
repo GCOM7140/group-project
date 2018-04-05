@@ -86,9 +86,9 @@ Name | Group | GitHub Username
 ------- | ---| -------
 Omar Amer | 1 | oa3ta
 Kevin Cao | 1 | kqc3bv
-Luna Han | 1 | 
+Luna Han | 1 | LunaHan16
 Mo Jmaileh | 1 | mjmaileh 
-Lucas Pulliza | 1 | 
+Lucas Pulliza | 1 | lucaspulliza
 Robby Byrne | 2 | rbb3fc
 Lani Hannah | 2 | lh2cu
 Ben Jessee | 2 | bmj5ej

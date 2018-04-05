@@ -60,6 +60,7 @@ Agenda
 <tr class="odd">
 <td align="right">1:20</td>
 <td>Grubhub</td>
+<td>A Competitive Analysis for Enhanced Marketing Efforts</td>
 <td>Rich Eldh, Chris Hendricks, Christian Mitchell, Cara Salyers, and Molly Xie</td>
 </tr>
 <tr class="even">
@@ -105,7 +106,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">2:20</td>
-<td></td>
+<td>Blue Apron</td>
 <td></td>
 <td>Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao</td>
 </tr>
@@ -117,7 +118,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">2:40</td>
-<td></td>
+<td>Pepsi Co</td>
 <td></td>
 <td>Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza</td>
 </tr>

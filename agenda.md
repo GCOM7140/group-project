@@ -35,7 +35,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">12:40</td>
-<td>Delta</td>
+<td>YouTube.com</td>
 <td></td>
 <td>Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang</td>
 </tr>
@@ -59,8 +59,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">1:20</td>
-<td></td>
-<td></td>
+<td>Grubhub</td>
 <td>Rich Eldh, Chris Hendricks, Christian Mitchell, Cara Salyers, and Molly Xie</td>
 </tr>
 <tr class="even">
@@ -71,8 +70,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">1:40</td>
-<td></td>
-<td></td>
+<td>Just</td>
 <td>Ousmane Diaby, Kristina Kelhofer, Rob Papel, Noah Rodammer, and Yifan Wang</td>
 </tr>
 <tr class="even">
@@ -131,8 +129,7 @@ Agenda
 </tr>
 <tr class="odd">
 <td align="right">3:00</td>
-<td></td>
-<td></td>
+<td>MLB</td>
 <td>Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon</td>
 </tr>
 <tr class="even">

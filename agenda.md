@@ -141,7 +141,7 @@ Agenda
 <tr class="odd">
 <td align="right">3:20</td>
 <td></td>
-<td></td>
+<td>Diageo</td>
 <td>Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang</td>
 </tr>
 <tr class="even">

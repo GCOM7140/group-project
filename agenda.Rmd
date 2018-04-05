@@ -22,7 +22,7 @@ sample(1:8, 8)
       |   |		|		|
 1:20	|	Grubhub		|	Rich Eldh, Chris Hendricks, Christian Mitchell, Cara Salyers, and Molly Xie
       |   |		|		|
-1:40	|		|		|	Ousmane Diaby, Kristina Kelhofer, Rob Papel, Noah Rodammer, and Yifan Wang
+1:40	|	Just	|	Ousmane Diaby, Kristina Kelhofer, Rob Papel, Noah Rodammer, and Yifan Wang
       |   |		|		|
       |   |		|		|
 2:00	|	  |	**Break**	|

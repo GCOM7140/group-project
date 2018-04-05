@@ -98,7 +98,7 @@ Reid Calhoun | 3 | reidmcalhoun
 Sam Kotz | 3 | skotz1
 Amelia Nelson | 3 | 
 Kevin Wu | 3 | kwu525
-Jenny Zhao | 3 | 
+Jenny Zhao | 3 | JennyYJZhao
 Rich Eldh | 4 | reldh18
 Chris Hendricks | 4 | chendricks2007
 Christian Mitchell | 4 | clm5fk

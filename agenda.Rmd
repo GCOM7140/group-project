@@ -28,7 +28,7 @@ sample(1:8, 8)
 2:00	|	  |	**Break**	|
       |   |		|		|
       |   |		|		|
-2:20	|		|		|	Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao
+2:20	|	Blue Apron	|		|	Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao
       |   |		|		|
 2:40	|	Pepsi Co.	|		|	Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza
       |   |		|		|

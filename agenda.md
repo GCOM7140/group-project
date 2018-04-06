@@ -131,6 +131,7 @@ Agenda
 <tr class="odd">
 <td align="right">3:00</td>
 <td>MLB</td>
+<td></td>
 <td>Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon</td>
 </tr>
 <tr class="even">

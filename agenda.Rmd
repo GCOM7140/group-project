@@ -32,7 +32,7 @@ sample(1:8, 8)
       |   |		|		|
 2:40	|	Pepsi Co	|		|	Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza
       |   |		|		|
-3:00	|		MLB		  |	  | Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon
+3:00	|		MLB	|	  | Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon
       |   |		|		|
 3:20	|	Diageo  |		|	Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang
       |   |		|		|

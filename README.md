@@ -118,7 +118,7 @@ Joe Cinnante | 7 | Jcinnante
 George Dowling | 7 | gdowling
 Erin Kim | 7 | etk4ya
 Michael Starnes | 7 | 
-Lo Yeadon | 7 | 
+Lo Yeadon | 7 | lorialyeadon 
 Tyler Gimple | 8 | tgimple
 Rosemary O'Hagan | 8 | rmohagan
 Dominic Sfreddo | 8 | dsfreddo

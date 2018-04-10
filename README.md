@@ -122,7 +122,7 @@ Lo Yeadon | 7 |
 Tyler Gimple | 8 | tgimple
 Rosemary O'Hagan | 8 | rmohagan
 Dominic Sfreddo | 8 | dsfreddo
-Jay Whitmire | 8 | 
+Jay Whitmire | 8 | jaywhitmire
 Zoe Zheng | 8 | zoez1995
 
 [agenda]: https://github.com/GCOM7140/group-project/blob/master/agenda.md#customer-analytics-group-project-presentations

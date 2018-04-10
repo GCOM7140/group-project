@@ -120,7 +120,7 @@ Erin Kim | 7 | etk4ya
 Michael Starnes | 7 | 
 Lo Yeadon | 7 | 
 Tyler Gimple | 8 | tgimple
-Rosemary O'Hagan | 8 | 
+Rosemary O'Hagan | 8 | rmohagan
 Dominic Sfreddo | 8 | dsfreddo
 Jay Whitmire | 8 | 
 Zoe Zheng | 8 | zoez1995

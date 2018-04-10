@@ -109,7 +109,7 @@ Luke Jurat | 5 | lukejurat
 Russ Monyette | 5 | rmonyette
 Richard Potter | 5 | richardlpotter
 Ryan Zhang | 5 | ryanzii
-Ousmane Diaby | 6 | 
+Ousmane Diaby | 6 | ousee14
 Kristina Kelhofer | 6 | kristinakelhofer
 Rob Papel | 6 | papelr
 Noah Rodammer | 6 | noahrodammer

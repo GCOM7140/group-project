@@ -74,8 +74,8 @@ Your presentation should be prepared as if it is being delivered to executives o
 After listening to your presentation, [invited guests][Dhakad et al. 2018], your peers, and I will use the following guidelines to assess it and give you developmental feedback. Internalizing these guidelines will help you deliver a presentation worthy of an exemplary grade.
 
 - The group discussed the data they analyzed in a [simple, easy-to-understand way][Allen 2017].  
-- The group conducted a breadth and depth of analyses to build an argument, [crafted by research][Booth, Colomb, and Williams 2008], that motivated me to accept their claims.  
-- The group edutained by fusing [scientific rigor with canny attention-grabbing][Allen 2017].  
+- The group built an argument with a breadth and depth of analyses that motivated me to accept their claims.  
+- The group "edutained"" by [fusing scientific rigor with canny attention-grabbing][Allen 2017].  
 - The group responded to questions and reservations [appropriately][Jolles 2013].  
 - The group presented as a TEAM (i.e., contributions were comparable and complementary).  
 - The group's slides were [self-explanatory][Grolemund and Wickham 2017, 28.1], well referenced, and free of errors.
@@ -127,7 +127,6 @@ Zoe Zheng | 8 | zoez1995
 
 [agenda]: https://github.com/GCOM7140/group-project/blob/master/agenda.md#customer-analytics-group-project-presentations
 [Allen 2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655
-[Booth, Colomb, and Williams 2008]: https://smile.amazon.com/books/dp/0226065669
 [Bradlow, Fader, Yyengar, and Bernman]: https://www.coursera.org/learn/wharton-customer-analytics
 [Colquitt and George 2011]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf
 [comScore]: https://auth2.comscore.com/

@@ -12,34 +12,31 @@ sample(1:8, 8)
 ```
 
 ## Agenda
-*Time*  | *Company* | *Presentation title* | *Presenters*
----:| -------- | --------------------------------------- | ---------------------
-12:30	|   |	Welcome Address | Jeff Boichuk
-      |   |		|		|
-12:40	|	YouTube.com	|		|	Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang
-      |   |		|		| 
-1:00	| Adidas|		|	Tyler Gimple, Rosemary O'Hagan, Dominic Sfreddo, Jay Whitmire, and Zoe Zheng
-      |   |		|		|
-1:20	|	Grubhub |	A Competitive Analysis for Enhanced Marketing Efforts	|	Rich Eldh, Chris Hendricks, Christian Mitchell, Cara Salyers, and Molly Xie
-      |   |		|		|
-1:40	|	Just	|	Ousmane Diaby, Kristina Kelhofer, Rob Papel, Noah Rodammer, and Yifan Wang
-      |   |		|		|
-      |   |		|		|
-2:00	|	  |	**Break**	|
-      |   |		|		|
-      |   |		|		|
-2:20	|	Blue Apron	|		|	Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao
-      |   |		|		|
-2:40	|	Pepsi Co	|		|	Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza
-      |   |		|		|
-3:00	|		MLB 	|	  |  Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon
-      |   |		|		|
-3:20	|	Diageo  |		|	Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang
-      |   |		|		|
+*Time*  | *Company* | *Presentation Title* | *Presenters*
+---:| ---------- | ------------------------ | ----------------------------------
+12:30	|            |	Welcome Address | Jeff Boichuk
+12:40	|	YouTube	   |		|	Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang
+1:00	| Adidas     |		|	Tyler Gimple, Rosemary O'Hagan, Dominic Sfreddo, Jay Whitmire, and Zoe Zheng
+1:20	|	Grubhub    | 	  |	Rich Eldh, Chris Hendricks, Christian Mitchell, Cara Salyers, and Molly Xie
+1:40	|	Just       |	  |	Ousmane Diaby, Kristina Kelhofer, Rob Papel, Noah Rodammer, and Yifan Wang
+2:00	|	           |	Break	|
+2:20	|	Blue Apron |		|	Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao
+2:40	|	Pepsi Co	 |		|	Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza
+3:00	|	MLB	       |	  | Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon
+3:20	|	Diageo     |		|	Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang
 
 ## Invited Guests
-[**Anoop Dhakad**](https://www.linkedin.com/in/anoopdhakad/), Partner, Head of Global Client Relations at MKP Capital
+[**Anoop Dhakad**][Dhakad], Partner, Head of Global Client Relations at MKP
+Capital
 
-[**Steve Mortimer**](https://www.linkedin.com/in/stevenmmortimer/), Darden School of Business (Class of 2019)
+[**Steve Mortimer**][Mortimer], Darden School of Business (Class of 2019)
 
-[**Tom Wilson**](https://www.linkedin.com/in/tom-wilson-993b28/), Head of Talent Acquisition at OppenheimerFunds
+[**Michelle Roberts**][Roberts], Global Strategic Revenue Management at General
+Mills
+
+[**Tom Wilson**][Wilson], Head of Talent Acquisition at OppenheimerFunds
+
+[Dhakad]: https://www.linkedin.com/in/anoopdhakad/
+[Mortimer]: https://www.linkedin.com/in/stevenmmortimer/
+[Roberts]: https://www.linkedin.com/in/michelle-roberts-997a548/
+[Wilson]: https://www.linkedin.com/in/tom-wilson-993b28/

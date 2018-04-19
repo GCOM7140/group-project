@@ -78,7 +78,7 @@ Agenda
 <tr class="even">
 <td align="right">3:20</td>
 <td>Diageo</td>
-<td></td>
+<td>Diageo: Regaining Market Share in the Age of Craft Spirits</td>
 <td>Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang</td>
 </tr>
 </tbody>

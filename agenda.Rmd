@@ -23,7 +23,7 @@ sample(1:8, 8)
 2:20	|	Blue Apron |		|	Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao
 2:40	|	Pepsi Co	 |		|	Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza
 3:00	|	MLB	       |	  | Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon
-3:20	|	Diageo     |		|	Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang
+3:20	|	Diageo     |	Diageo: Regaining Market Share in the Age of Craft Spirits	|	Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang
 
 ## Invited Guests
 [**Anoop Dhakad**][Dhakad], Partner, Head of Global Client Relations at MKP

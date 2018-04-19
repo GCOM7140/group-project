@@ -21,7 +21,7 @@ sample(1:8, 8)
 1:40	|	Just       |	  |	Ousmane Diaby, Kristina Kelhofer, Rob Papel, Noah Rodammer, and Yifan Wang
 2:00	|	           |	Break	|
 2:20	|	Blue Apron |	Can Blue Apron be saved?	|	Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao
-2:40	|	Pepsi Co	 |		|	Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza
+2:40	|	Pepsi Co	 |	Pepsi's Shifting Brand Image	|	Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza
 3:00	|	MLB	       |	  | Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon
 3:20	|	Diageo     |		|	Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang
 

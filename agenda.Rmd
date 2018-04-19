@@ -17,7 +17,7 @@ sample(1:8, 8)
 12:30	|            |	Welcome Address | Jeff Boichuk
 12:40	|	YouTube	   |	YouTube Red vs YouTube TV	|	Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang
 1:00	| Adidas     |		|	Tyler Gimple, Rosemary O'Hagan, Dominic Sfreddo, Jay Whitmire, and Zoe Zheng
-1:20	|	Grubhub    | 	  |	Rich Eldh, Chris Hendricks, Christian Mitchell, Cara Salyers, and Molly Xie
+1:20	|	Grubhub    | Grubhub: A Competitive Analysis for Enhanced Marketing Efforts |	Rich Eldh, Chris Hendricks, Christian Mitchell, Cara Salyers, and Molly Xie
 1:40	|	Just       |	  |	Ousmane Diaby, Kristina Kelhofer, Rob Papel, Noah Rodammer, and Yifan Wang
 2:00	|	           |	Break	|
 2:20	|	Blue Apron |	Can Blue Apron be saved?	|	Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao

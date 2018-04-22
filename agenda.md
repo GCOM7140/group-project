@@ -30,19 +30,19 @@ Agenda
 <tr class="even">
 <td align="right">12:40</td>
 <td>YouTube</td>
-<td></td>
+<td>Comparing the Viability YouTube Red and YouTube TV</td>
 <td>Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang</td>
 </tr>
 <tr class="odd">
 <td align="right">1:00</td>
 <td>Adidas</td>
-<td></td>
+<td>The Next Adidas Global Ambassador</td>
 <td>Tyler Gimple, Rosemary O'Hagan, Dominic Sfreddo, Jay Whitmire, and Zoe Zheng</td>
 </tr>
 <tr class="even">
 <td align="right">1:20</td>
 <td>Grubhub</td>
-<td></td>
+<td>A Competitive Analysis for Enhanced Marketing Efforts</td>
 <td>Rich Eldh, Chris Hendricks, Christian Mitchell, Cara Salyers, and Molly Xie</td>
 </tr>
 <tr class="odd">
@@ -60,13 +60,13 @@ Agenda
 <tr class="odd">
 <td align="right">2:20</td>
 <td>Blue Apron</td>
-<td></td>
+<td>Can Blue Apron be Saved?</td>
 <td>Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao</td>
 </tr>
 <tr class="even">
 <td align="right">2:40</td>
 <td>Pepsi Co</td>
-<td></td>
+<td>Pepsi's Shifting Brand Image</td>
 <td>Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza</td>
 </tr>
 <tr class="odd">
@@ -78,7 +78,7 @@ Agenda
 <tr class="even">
 <td align="right">3:20</td>
 <td>Diageo</td>
-<td>Diageo: Regaining Market Share in the Age of Craft Spirits</td>
+<td>Regaining Market Share in the Age of Craft Spirits</td>
 <td>Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang</td>
 </tr>
 </tbody>

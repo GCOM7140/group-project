@@ -48,7 +48,7 @@ Agenda
 <tr class="odd">
 <td align="right">1:40</td>
 <td>Just</td>
-<td></td>
+<td>A &quot;Clean&quot; Meat Revolution</td>
 <td>Ousmane Diaby, Kristina Kelhofer, Rob Papel, Noah Rodammer, and Yifan Wang</td>
 </tr>
 <tr class="even">
@@ -72,7 +72,7 @@ Agenda
 <tr class="odd">
 <td align="right">3:00</td>
 <td>MLB</td>
-<td>Combatting MLB's Lower Viewership Among Younger Generations</td>
+<td>Combatting the MLB's Low Viewership Among Younger Generations</td>
 <td>Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon</td>
 </tr>
 <tr class="even">

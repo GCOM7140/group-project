@@ -1,7 +1,7 @@
 ---
 title: Customer Analytics Group Project Presentations
 date: April 26, 2018
-output: github_document
+output: pdf_document
 ---
 
 ```{r echo = F, eval = F}
@@ -13,7 +13,7 @@ sample(1:8, 8)
 
 ## Agenda
 *Time*  | *Company* | *Presentation Title* | *Presenters*
----:| ------------ | ---------------------------- | ----------------------------
+---:| --------- | ------------------------- | ----------------------------------
 12:30	|            | Welcome Address | Jeff Boichuk
 12:40	|	YouTube	   | Comparing the Viability YouTube Red and YouTube TV	|	Robby Byrne, Lani Hannah, Ben Jessee, Burhan Khan, and Shane Zhang
 1:00	| Adidas     | The Next Adidas Global Ambassador	|	Tyler Gimple, Rosemary O'Hagan, Dominic Sfreddo, Jay Whitmire, and Zoe Zheng
@@ -22,12 +22,14 @@ sample(1:8, 8)
 2:00	|	           | Break	|
 2:20	|	Blue Apron | Can Blue Apron be Saved?	|	Reid Calhoun, Sam Kotz, Amelia Nelson, Kevin Wu, and Jenny Zhao
 2:40	|	Pepsi Co	 | Pepsi's Shifting Brand Image	|	Omar Amer, Kevin Cao, Luna Han, Mo Jmaileh, and Lucas Pulliza
-3:00	|	MLB	       | Combatting the MLB's Low Viewership Among Younger Generations | Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon
+3:00	|	MLB	       | Combatting Low Viewership Among Younger Generations | Joe Cinnante, George Dowling, Erin Kim, Michael Starnes, and Lo Yeadon
 3:20	|	Diageo     | Regaining Market Share in the Age of Craft Spirits |	Paige Atkins, Luke Jurat, Russ Monyette, Richard Potter, and Ryan Zhang
 
 ## Invited Guests
 [**Anoop Dhakad**][Dhakad], Partner, Head of Global Client Relations at MKP
 Capital
+
+[**Bruce Montgomery**][Montgomery], General Manager at Customer Marketing Group
 
 [**Steve Mortimer**][Mortimer], Darden School of Business (Class of 2019)
 
@@ -37,6 +39,7 @@ Mills
 [**Tom Wilson**][Wilson], Head of Talent Acquisition at OppenheimerFunds
 
 [Dhakad]: https://www.linkedin.com/in/anoopdhakad/
+[Montgomery]: https://www.linkedin.com/in/brucemontgomery/
 [Mortimer]: https://www.linkedin.com/in/stevenmmortimer/
 [Roberts]: https://www.linkedin.com/in/michelle-roberts-997a548/
 [Wilson]: https://www.linkedin.com/in/tom-wilson-993b28/

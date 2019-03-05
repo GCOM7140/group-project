@@ -9,13 +9,73 @@
 
 ### Objectives
 
-The goal of the group project is to give you an opportunity to apply the skills you are learning in [R for Data Science][Grolemund and Wickham 2017] to the arena of [customer analytics][Bradlow, Fader, Yyengar, and Bernman], such that you end up turning consumer/customer data into [significant, novel, interesting, broad, and actionable insights][Colquitt and George 2011] for a company of your group's interest. The data sets we will cover in class for this purpose include the following:
+The goal of the group project is to give you an opportunity to apply the skills
+you're learning in [R for Data Science][Grolemund and Wickham 2017] to the arena
+of [customer analytics][Bradlow, Fader, Yyengar, and Bernman], such that you end
+up turning consumer/customer data into [significant, actionable, interesting,
+novel, and broad insights][Colquitt and George 2011] for [The Juice
+Laundry][tjl] (TJL), a local Charlottesville business partnering with us for the
+group project. The data sets we'll cover in class for this purpose include the
+following:
 
-* [comScore][] web traffic data for DTC and other e-commerce sites relevant to your company
-* [Euromonitor Passport][] brand share data for industries relevant to your company
-* [Google Trends][] search interest data for topics relevant to your company
+* [thejuicelaundry] - an R data package with transaction information for all of
+TJL's locations from October 11, 2016 to December 31, 2018.
+* [Google Trends] - search interest data for topics relevant to The Juice
+Laundry.
 
-The more you engage in [this process of data science][Hadley 2017], the better you will be at [generating, disseminating, and responding to market intelligence][Jaworski and Kohli 1993]. Improving your ability to perform these three core activities will in turn allow you to help companies&mdash;especially those you want to work for&mdash;achieve a market orientation, commercial success, and [optimized collective value][Donaldson and Walsh 2015]. Optimizing collective value (i.e., prosperity) is arguably why society engages in commerce and, as a result, customer analytics in the first place.
+The more you engage in [this process of data science][Hadley 2017], the better
+you will be at [generating, disseminating, and responding][Jaworski and Kohli
+1993] to market intelligence. Improving your ability to perform these three core
+activities will in turn allow you to help companies&mdash;especially those you
+want to work for&mdash;achieve a market orientation and [optimize collective
+value][Donaldson and Walsh 2015]. After all, optimizing collective value (i.e.,
+prosperity) is arguably why society engages in commerce and, as a result,
+customer analytics in the first place.
+
+Your tasks are to select an area of the business that TJL should be
+prioritizing, generate market intelligence in this regard, and develop an action
+plan that logically flows from what you learn. In line with [Colquitt and George
+(2011)][Colquitt and George 2011], you should strive to address a topic that:
+
+* Takes on a grand challenge (i.e., has a compelling raison d'être)  
+   + By aiming to solve a piece of a larger societal puzzle (e.g., encouraging
+   healthier eating habits, making commerce more sustainable)
+* Changes the conversation
+   + By exploring the potential of a bold idea that could lead TJL in an
+   unfamiliar, nascent, and radically different direction
+* Catches and holds Mike and Sarah???s attention
+   + By challenging their taken-for-granted assumptions or solving a mystery you
+   uncover that has multiple plausible endings and cannot be guessed
+* Casts a wide net
+        + By covering the landscape of your topic adequately and, thus,
+        considering multiple outcome variables and boundary conditions
+* Offers insights for practice
+        + By highlighting the (potential) effect of your proposed solution and
+        developing ideas that Mike and Sarah can act on
+
+### The Juice Laundry
+
+The Juice Laundry (TJL) is a juice and smoothie bar with three locations, two in
+Charlottesville, VA, and one in Washington, DC. Founded by University of
+Virginia alumni Mike and Sarah Keenan, TJL's mission is "to inspire healthy,
+organic, powerful change." In-store signage articulates Mike and Sarah???s value
+proposition to customers as follows:
+
+> The Juice Laundry was founded on the concept of keeping our bodies clean and
+healthy, starting with what we put into them. Raw, organic fruits and veggies
+are nature's medicine and the foundation of preventative health care. Whether
+juiced, blended, or eaten whole, fresh produce is full of life-giving nutrients
+and enzymes. We choose to use 100% organic ingredients, 100% of the time,
+because the phrase 'organic whenever possible' is often highly misleading. If we
+can't find something organic on a given day, it won't be on our menu. That's our
+commitment to you, and to your health.
+
+Elsewhere in TJL's locations, the brand's slogan "Clean Your Machine" is
+displayed prominently, as are the brand's defining principles: "We are Raw. We
+are Fresh. We are Clean. We are Organic. We are Curious. We are Passionate. We
+are Transparent. We Leave a Gentle Footprint." Missing in stores, however, are
+trash cans, as 100% of TJL???s packaging is either compostable or reusable.
+
 
 ### Deliverables
 
@@ -80,50 +140,7 @@ After listening to your presentation, [invited guests][Dhakad et al. 2018], your
 - The group presented as a TEAM (i.e., contributions were comparable and complementary).  
 - The group's slides were [self-explanatory][Grolemund and Wickham 2017, 28.1], well referenced, and free of errors.
 
-### Groups and GitHub Usernames
 
-Name | Group | GitHub Username
-------- | ---| -------
-Omar Amer | 1 | oa3ta
-Kevin Cao | 1 | kqc3bv
-Luna Han | 1 | LunaHan16
-Mo Jmaileh | 1 | mjmaileh 
-Lucas Pulliza | 1 | lucaspulliza
-Robby Byrne | 2 | rbb3fc
-Lani Hannah | 2 | lh2cu
-Ben Jessee | 2 | bmj5ej
-Burhan Khan | 2 | bkhanUVA
-Shane Zhang | 2 | ShaneZhang057
-Reid Calhoun | 3 | reidmcalhoun
-Sam Kotz | 3 | skotz1
-Amelia Nelson | 3 | 
-Kevin Wu | 3 | kwu525
-Jenny Zhao | 3 | JennyYJZhao
-Rich Eldh | 4 | reldh18
-Chris Hendricks | 4 | chendricks2007
-Christian Mitchell | 4 | clm5fk
-Cara Salyers | 4 | carasalyers
-Molly Xie | 4 | mzxie
-Paige Atkins | 5 | pka2jj
-Luke Jurat | 5 | lukejurat
-Russ Monyette | 5 | rmonyette
-Richard Potter | 5 | richardlpotter
-Ryan Zhang | 5 | ryanzii
-Ousmane Diaby | 6 | ousee14
-Kristina Kelhofer | 6 | kristinakelhofer
-Rob Papel | 6 | papelr
-Noah Rodammer | 6 | noahrodammer
-Yifan Wang | 6 | yw8ve
-Joe Cinnante | 7 | Jcinnante 
-George Dowling | 7 | gdowling
-Erin Kim | 7 | etk4ya
-Michael Starnes | 7 | mjs3fe
-Lo Yeadon | 7 | lorialyeadon 
-Tyler Gimple | 8 | tgimple
-Rosemary O'Hagan | 8 | rmohagan
-Dominic Sfreddo | 8 | dsfreddo
-Jay Whitmire | 8 | jaywhitmire
-Zoe Zheng | 8 | zoez1995
 
 [agenda]: https://github.com/GCOM7140/group-project/blob/master/agenda.md#customer-analytics-group-project-presentations
 [Allen 2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655
@@ -149,5 +166,7 @@ Zoe Zheng | 8 | zoez1995
 [Polich and Whitenack 2017]: https://dataskeptic.com/blog/episodes/2017/data-provenance-and-reproducibility-with-pachyderm
 [Sotos 2006]: https://en.wikipedia.org/wiki/Zebra_(medicine)
 [Sword 2012]: https://smile.amazon.com/Stylish-Academic-Writing-Helen-Sword/dp/0674064488/ref=sr_1_1?s=books&ie=UTF8&qid=1522530104&sr=1-1&keywords=stylish+academic+writing
+[thejuicelaundry]: https://github.com/GCOM7140/thejuicelaundry#thejuicelaundry
+[tjl]: https://www.thejuicelaundry.com/
 [Wickham 2014]: http://adv-r.had.co.nz/Style.html
 [Zhang and Shaw 2012]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-Crafting.pdf

@@ -5,7 +5,6 @@
  - [Deliverables](#deliverables)
  - [Report Guidelines](#report-guidelines)
  - [Presentation Guidelines](#presentation-guidelines)
- - [Groups and GitHub Usernames](#groups-and-github-usernames)
 
 ### Objectives
 
@@ -18,7 +17,7 @@ Laundry][tjl] (TJL), a local Charlottesville business that's partnering with us
 for the purposes this group project. The data sets we'll cover in class for this
 purpose include the following:
 
-* [thejuicelaundry] - an R data package with transaction information for all of
+* The [juicelaundry] R data package that has transaction information for all of
 TJL's locations from October 11, 2016 to December 31, 2018.
 * [Google Trends] - search interest data for topics relevant to The Juice
 Laundry.
@@ -213,6 +212,7 @@ After listening to your presentation, [invited guests][Dhakad et al. 2018], your
 [Jaworski and Kohli 1993]: https://bear.warrington.ufl.edu/weitz/mar7786/articles/jaworski%20and%20kohli.pdf
 [Jolles 2013]: http://www.amanet.org/training/articles/i-object-four-steps-to-handling-objections.aspx
 [JMR]: https://www.ama.org/publications/JournalOfMarketingResearch/Pages/JMRSubmissionGuidelines.aspx
+[juicelaundry]: https://github.com/GCOM7140/thejuicelaundry#thejuicelaundry
 [Miller 2018]: https://www.nytimes.com/guides/smarterliving/resolution-ideas
 [Parker 2017]: https://peerj.com/preprints/3210/
 [Parker 2017/06/06]: https://twitter.com/hspter/status/872135582100578304
@@ -223,7 +223,6 @@ After listening to your presentation, [invited guests][Dhakad et al. 2018], your
 [Sotos 2006]: https://en.wikipedia.org/wiki/Zebra_(medicine)
 [Sword 2012]: https://smile.amazon.com/Stylish-Academic-Writing-Helen-Sword/dp/0674064488/ref=sr_1_1?s=books&ie=UTF8&qid=1522530104&sr=1-1&keywords=stylish+academic+writing
 [Table 1]: https://github.com/GCOM7140/class-sessions/raw/master/02_group-project-overview/01_readings/table-1-topic-choice-decision-matrix-template.docx
-[thejuicelaundry]: https://github.com/GCOM7140/thejuicelaundry#thejuicelaundry
 [tjl]: https://www.thejuicelaundry.com/
 [Wickham 2014]: http://adv-r.had.co.nz/Style.html
 [Zhang and Shaw 2012]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-Crafting.pdf

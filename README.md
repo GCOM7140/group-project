@@ -1,10 +1,10 @@
 # The Group Project
 
 ## Table of Contents
- - [Objectives](#objectives)
- - [Deliverables](#deliverables)
- - [Report Guidelines](#report-guidelines)
- - [Presentation Guidelines](#presentation-guidelines)
+ * [Objectives](#objectives)
+ * [Deliverables](#deliverables)
+ * [Report Guidelines](#report-guidelines)
+ * [Presentation Guidelines](#presentation-guidelines)
 
 ### Objectives
 
@@ -17,9 +17,9 @@ Laundry][tjl] (TJL), a local Charlottesville business that's partnering with us
 for the purposes this group project. The data sets we'll cover in class for this
 purpose include the following:
 
-* The [juicelaundry] R data package that has transaction information for all of
-TJL's locations from October 11, 2016 to December 31, 2018.
-* [Google Trends] - search interest data for topics relevant to The Juice
+* The [juicelaundry][] R data package that has transaction information for all
+of TJL's locations from October 11, 2016 to December 31, 2018.
+* [Google Trends][] - search interest data for topics relevant to The Juice
 Laundry.
 
 The more you engage in [this process of data science][Hadley 2017], the better
@@ -86,8 +86,8 @@ strive to identify and address a topic that:
    conveying findings that Mike and Sarah will be able to act on in the near
    term.
 
-As is reflected in [Table 1], Mike and Sarah are interested in topics that focus
-on grand challenges, promise to offer actionable insights, and peak their
+As is reflected in [Table 1][], Mike and Sarah are interested in topics that
+focus on grand challenges, promise to offer actionable insights, and peak their
 curiosity. With these priorities in mind, you should be able to exercise your
 marketing skills and help TJL further achieve a market orientation.
 
@@ -126,57 +126,94 @@ research and reporting on for your group project report and presentation.
 
 ### Deliverables
 
-There are two key deliverables for the group project:
+There are three key deliverables for the group project:
 
-1. A report of no more than *15 pages*&mdash;stapled, two sided, and double spaced with one-inch margins and 12-point font, excluding references, tables, figures, and appendices (which have no page limit). I will use the [report guidelines](#report-guidelines) below to assess your report and give you developmental feedback. Submit your report both in hard copy form to my mailbox and electronically via GitHub no later than April 26 at 12:30 PM.
+1. A proposal
 
-2. A group presentation of no more than *12 minutes*, followed by up to *eight minutes* of Q&A. [Invited guests][Dhakad et al. 2018], your peers, and I will use the [presentation guidelines](#presentation-guidelines) below to assess your presentation and give you developmental feedback. This [agenda][agenda] will guide when groups present. Add your *final* presentation title to the [agenda][agenda] no later than April 19 at 12:30 PM. Submit your slide deck electronically via GitHub no later than April 26 at 12:30 PM.
+2. A report of no more than *15 pages*&mdash;stapled, two sided, and double
+spaced with one-inch margins and 12-point font, excluding references, tables,
+figures, and appendices (which have no page limit). I will use the [report
+guidelines](#report-guidelines) below to assess your report and give you
+developmental feedback. Submit your report both in hard copy form to my mailbox
+and electronically via GitHub no later than April 26 at 12:30 pm.
+
+3. A group presentation of no more than *13 minutes*, followed by up to *eight
+minutes* of Q&A. Invited guests, your peers, and I will use the [presentation
+guidelines](#presentation-guidelines) below to assess your presentation and give
+you developmental feedback. This [agenda][] will guide when groups present. Add
+your *final* presentation title to the [agenda][] no later than April 19 at
+12:30 pm. Submit your slide deck electronically via GitHub no later than April
+26 at 12:30 pm.
 
 ### Report Guidelines
 
-Your report should advocate for strategic change to a focal company's marketing mix. Base your action plan on the shoulders of (i) a topic with an impressive [anatomy][Colquitt and George 2011]; (ii) a decision-making process with strong [principles][Dalio 2017]; (iii) data that are described [clearly, completely, and credibly][Zhang and Shaw 2012]; (iv) a breadth and depth of analyses that are applied [accurately, collaboratively, and reproducibly][Parker 2017]; and (v) [stylish writing][Sword 2012].
+Your report should advocate for strategic change to The Juice Laundry's
+marketing mix. Base your action plan on the shoulders of (i) a topic with an
+impressive [anatomy][Colquitt and George 2011]; (ii) a decision-making process
+with strong [principles][Dalio 2017]; (iii) data that are described [clearly,
+completely, and credibly][Zhang and Shaw 2012]; (iv) a breadth and depth of
+analyses that are applied [accurately, collaboratively, and reproducibly][Parker
+2017]; and (v) [stylish writing][Sword 2012].
 
-After reading your report, I will use the following guidelines to assess it and give you developmental feedback. Internalizing these guidelines will help you develop a report worthy of an exemplary grade.
+After reading your report, I will use the following guidelines to assess it and
+give you developmental feedback. Internalizing these guidelines will help you
+develop a report worthy of an exemplary grade.
 
 #### Decision-Making Principles (20%)
-- Cogent reasoning explains why the major decision being considered has an
+* Cogent reasoning explains why the major decision being considered has an
 impressive [anatomy][Colquitt and George 2011].
-- The long-term, detrimental implications of inaction for the focal company are
+* The long-term, detrimental implications of inaction for The Juice Laundry are
 argued concretely.
-- Alternative courses of action are identified in a balanced, convincing manner.
-- Decision criteria relevant to the major decision at hand are defined and
+* Alternative courses of action are identified in a balanced, convincing manner.
+* Decision criteria relevant to the major decision at hand are defined and
 ranked cogently.
-- The proposed decision is very well reasoned, because said decision criteria
+* The proposed decision is very well reasoned, because said decision criteria
 are used to evaluate the alternatives rigorously.
 
 #### Data (20%)
-- The [provenance][Polich and Whitenack 2017] and definitions of the data and variables being analyzed to make decisions are described [clearly, completely, and credibly][Zhang and Shaw 2012].  
-- Convincing reasons explain why certain data are given priority over others (e.g., red herrings).  
-- Data limitations are stated at appropriate times.
+* The [provenance][Polich and Whitenack 2017] and definitions of the data and
+variables being analyzed to make decisions are described [clearly, completely,
+and credibly][Zhang and Shaw 2012].
+* Convincing reasons explain why certain data are given priority over others
+(e.g., red herrings).
+* Data limitations are stated at appropriate times.
 
 #### Method (20%)
-- A breadth and depth of techniques covered in [R for Data Science][Grolemund and Wickham 2017] are applied [accurately, collaboratively, and reproducibly][Parker 2017].  
-- A knowledgeable individual could [reproduce][Peng 2012] your findings with ease, because&mdash;in addition to your report&mdash;self-contained, executable code and the data being analyzed are accessible via GitHub.  
-- Visualizations are used in ways that force the reader to notice [unexpected phenomena][Grolemund and Wickham 2017, 3.3].  
-- Hoofbeats are interpreted as signs of horses not [zebras][Sotos 2006].  
-- Methodological limitations are stated at appropriate times.
+* A breadth and depth of techniques covered in [R for Data Science][Grolemund
+and Wickham 2017] are applied [accurately, collaboratively, and
+reproducibly][Parker 2017].
+* A knowledgeable individual could [reproduce][Peng 2012] your findings with
+ease, because&mdash;in addition to your report&mdash;self-contained, executable
+code and the data being analyzed are accessible via GitHub.
+* Visualizations are used in ways that force the reader to notice [unexpected
+phenomena][Grolemund and Wickham 2017, 3.3].
+* Hoofbeats are interpreted as signs of horses not [zebras][Sotos 2006].  
+* Methodological limitations are stated at appropriate times.
 
 #### Action Plan (20%)
-- All relevant elements of the marketing mix are covered in detail.  
-- What needs to be done (i.e., who, when, what, where, why, and how) is discussed expansively.  
-- The overall recommendation being proposed is creative (i.e., novel and useful).  
-- [SMART goals][Miller 2018] are set in order to establish expected results.<sup>1</sup>
+* All relevant elements of the marketing mix are covered in detail.  
+* What needs to be done (i.e., who, when, what, where, why, and how) is
+discussed expansively.
+* The overall recommendation being proposed is creative (i.e., novel and
+useful).
+* Goals related to consumers' attitudes, emotions, and actions, as well as to
+the triple bottom line (i.e., profits, people, and the planet) are set in
+[specific, measurable, achievable, relevant, and time-bound ways][Miller 2018]
+in order to establish expected results.
 
 #### Style \& Grammar (20%)
-- The expectations Prof. Patterson set in Communication are all exceeded.<sup>2</sup>  
-- Tables and figures are all formatted properly and [effectively][Grolemund and Wickham 2017, 28.1].  
-- Every sentence is grammatically correct, and all sentences flow together naturally.  
-- The report is free of spelling errors.  
-- Every reference is cited correctly.  
-- The [*Journal of Marketing Research* Style Guide][JMR] and [Hadley's R Style Guide][Wickham 2014] are adhered to at all times.
-
-<sup>1</sup> SMART goals are specific, measurable, achievable, relevant, and time-bound. They may relate to consumers' attitudes, emotions, and actions, as well as to the triple bottom line (i.e., profits, people, and the planet).  
-<sup>2</sup> Expectations set in Communication include, but are not limited to, the following: BLUF writing, SAS headings/tables/figures, and SEC plain English.
+* The expectations that Prof. Patterson set in Communication&mdash;which
+include, but are not limited to, BLUF writing, SAS headings/tables/figures, and
+SEC plain English&mdash;are all exceeded.
+* Tables and figures are all formatted properly and [effectively][Grolemund and
+Wickham 2017, 28.1].
+* Every sentence is grammatically correct, and all sentences flow together
+naturally.
+* The report is free of spelling errors.  
+* Every reference is cited correctly according to the [*Journal of Marketing
+Research* Style Guide][JMR], which is adhered to at all times.
+* The [Tidyverse Style Guide][] is adhered to at all times in the report's
+[files][style files], [syntax][style syntax], and [pipes][style pipes].
 
 ### Presentation Guidelines
 
@@ -184,12 +221,14 @@ Your presentation should be prepared as if it is being delivered to executives o
 
 After listening to your presentation, [invited guests][Dhakad et al. 2018], your peers, and I will use the following guidelines to assess it and give you developmental feedback. Internalizing these guidelines will help you deliver a presentation worthy of an exemplary grade.
 
-- The group discussed the data they analyzed in a [simple, easy-to-understand way][Allen 2017].  
-- The group built an argument with a breadth and depth of analyses that motivated me to accept their claims.  
-- The group "edutained"" by [fusing scientific rigor with canny attention-grabbing][Allen 2017].  
-- The group responded to questions and reservations [appropriately][Jolles 2013].  
-- The group presented as a TEAM (i.e., contributions were comparable and complementary).  
-- The group's slides were [self-explanatory][Grolemund and Wickham 2017, 28.1], well referenced, and free of errors.
+* The group discussed the data they analyzed in a [simple, easy-to-understand way][Allen 2017].  
+* The group built an argument with a breadth and depth of analyses that motivated me to accept their claims.  
+* The group "edutained"" by [fusing scientific rigor with canny attention-grabbing][Allen 2017].  
+* The group responded to questions and reservations [appropriately][Jolles 2013].  
+* The group presented as a TEAM (i.e., contributions were comparable and
+complementary).  
+* The group's slides were [self-explanatory][Grolemund and Wickham 2017, 28.1],
+well referenced, and free of errors.
 
 
 
@@ -212,7 +251,7 @@ After listening to your presentation, [invited guests][Dhakad et al. 2018], your
 [Jaworski and Kohli 1993]: https://bear.warrington.ufl.edu/weitz/mar7786/articles/jaworski%20and%20kohli.pdf
 [Jolles 2013]: http://www.amanet.org/training/articles/i-object-four-steps-to-handling-objections.aspx
 [JMR]: https://www.ama.org/publications/JournalOfMarketingResearch/Pages/JMRSubmissionGuidelines.aspx
-[juicelaundry]: https://github.com/GCOM7140/thejuicelaundry#thejuicelaundry
+[juicelaundry]: https://github.com/GCOM7140/juicelaundry#juicelaundry
 [Miller 2018]: https://www.nytimes.com/guides/smarterliving/resolution-ideas
 [Parker 2017]: https://peerj.com/preprints/3210/
 [Parker 2017/06/06]: https://twitter.com/hspter/status/872135582100578304
@@ -222,7 +261,10 @@ After listening to your presentation, [invited guests][Dhakad et al. 2018], your
 [Schwartz 2008]: http://jcs.biologists.org/content/121/11/1771
 [Sotos 2006]: https://en.wikipedia.org/wiki/Zebra_(medicine)
 [Sword 2012]: https://smile.amazon.com/Stylish-Academic-Writing-Helen-Sword/dp/0674064488/ref=sr_1_1?s=books&ie=UTF8&qid=1522530104&sr=1-1&keywords=stylish+academic+writing
+[style files]: https://style.tidyverse.org/files.html 
+[style pipes]: https://style.tidyverse.org/pipes.html
+[style syntax]: https://style.tidyverse.org/syntax.html
 [Table 1]: https://github.com/GCOM7140/class-sessions/raw/master/02_group-project-overview/01_readings/table-1-topic-choice-decision-matrix-template.docx
+[Tidyverse Style Guide]: https://style.tidyverse.org/
 [tjl]: https://www.thejuicelaundry.com/
-[Wickham 2014]: http://adv-r.had.co.nz/Style.html
 [Zhang and Shaw 2012]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-Crafting.pdf

@@ -47,9 +47,9 @@ Corner.
 
 ### Objectives
 Your objectives are threefold: (1) identify an area of TJL's business that is
-worth looking into; (2) evaluate three directions TJL could go in; and (3)
-develop a comprehensive and convincing action plan that logically flows from
-what you learn.
+worth looking into; (2) evaluate three directions that TJL could go in in this
+respect; and (3) develop a comprehensive and convincing action plan that
+logically flows from what you learn.
 
 #### Topic Identification
 In line with [Colquitt and George (2011)][Colquitt and George 2011], you should
@@ -74,10 +74,11 @@ strive to identify and address a topic that:
    conveying findings that Mike and Sarah will be able to act on in the near
    term.
 
-As is reflected in [Table 1][], Mike and Sarah are interested in topics that
-focus on grand challenges, promise to offer actionable insights, and peak their
-curiosity. With these priorities in mind, you should be positoned to engage in
-the marketing process and help TJL further achieve a market orientation.
+As is reflected in [this document][topic choice decision matrix template], Mike
+and Sarah are interested in topics that focus on grand challenges, promise to
+offer actionable insights, and peak their curiosity. With these priorities in
+mind, you should be positoned to engage in the marketing process and help TJL
+further achieve a market orientation.
 
 While developing a list of potential topics to focus on, I encourage you to be
 divergent in your thinking ([Peng 2018][]). Begin by conducting extensive
@@ -103,13 +104,13 @@ Sort the challenges stemming from your research into buckets full of
 alternatives. Then, use the prioritization framework that [Colquitt and George
 (2011)][Colquitt and George 2011] offer to select the three challenges (i.e.,
 "topics") you believe are most worth looking into and highlight these topics in
-Table 1. From here, you will arrive at the topic that you believe is most worth
-doing further research and reporting on for your group project report and
-presentation.
+a [topic choice decision matrix][topic choice decision matrix template]. From
+here, you will arrive at the topic that you believe is most worth doing further
+research and reporting on for your group project report and presentation.
 
-   __Pro tip__: Explain your topics in Table 1 clearly, so that Mike and Sarah
-   will be able to fully appreciate: (a) the challenges your topics are focused
-   on overcoming and (b) the alternatives your research has led you to consider.
+   __Pro tip__: Explain your topics clearly, so that Mike and Sarah will be able
+   to fully appreciate: (a) the challenges your topics are focused on overcoming
+   and (b) the alternatives your research has led you to consider.
 
 #### Alternative Evaluation
 Focused on the topic you identify, your next objective is to, in a concise and
@@ -129,42 +130,47 @@ On this point, you should strive to explain your alternatives clearly and define
 your criteria well, so that the scores you assign to the alternatives in your
 value model will seem logical. In other words, try to increase the chances that
 separate people (namely, your group, peers, me, Mike, and Sarah) will more or
-less agree on the scores you assign to given alternative-criteria pairs and,
+less agree on the scores you assign to given alternative-criterion pairs and,
 thus, the logic underlying your strategic recommendation by explaining your
 alternatives clearly and defining your criteria cogently.
 
-The datasets we will cover in class to help you ground your decision making with
-[data-informed insights][Parker 2017/06/06] include:
+The datasets we will cover in class to help you support your decision making
+with [data-informed insights][Parker 2017/06/06] include:
 
 * The [juicelaundry][] R data package, which has point-of-sale transaction
 details for all of TJL's locations from October 11, 2016 to December 31, 2018.
-* [Google Trends][] data, which captures relative search interest for topics
-relevant to TJL's business.
+* [Google Trends][] data, which can capture relative search interest and
+emerging trends for topics relevant to TJL's business.
 
 While analyzing and communicating insights about these and other datasets, the
-key is to describe the [provenance][Polich and Whitenack 2017] of your data and
-define the variables you are analyzing to make decisions [clearly, completely,
-and credibly][Zhang and Shaw 2012]. 
+key is to describe the [provenance][Polich and Whitenack 2017] of your data
+parsimoniously and to define the variables you are analyzing to make decisions
+[clearly, completely, and credibly][Zhang and Shaw 2012].
 
 #### Action Plan
 Having made your decision, your final objective is to develop an action plan
 covering all relevant elements of the marketing mix in detail (i.e., product,
 price, promotion, and place). Clients need to understand what has to be done
 (i.e., by who, when, what, where, why, and how?) before they can accept your
-claims and implement your recommendations. In order to set expectations, strive
-to establish goals related to consumers' attitudes, emotions, and/or actions as
-well as to TJL's triple bottom line (i.e., profits, people, and the planet) in
-[specific, measurable, achievable, relevant, and time-bound][Miller 2018] ways.
+claims and even begin to consider implementing your recommendations. In order to
+set expectations, strive to establish goals related to consumers' attitudes,
+emotions, and/or actions as well as to TJL's triple bottom line (i.e., profits,
+people, and the planet) in [specific, measurable, achievable, relevant, and
+time-bound][Miller 2018] ways.
 
 ## Deliverables
 There are three key deliverables for the group project:
 
-1. A proposal of no more than 25 pages. I will use the [proposal
-guidelines](#proposal-guidelines) below to assess your proposal and give you
-developmental feedback. Submit your proposal via GitHub no later than March 28
-at 11:59 pm.
+1. A proposal of no more than 25 pages, using the stylistic requirements
+outlined in the _Journal of Marketing Research_ Style Guide for formatting
+purposes (see [here][jmr 1] and [here][jmr 2] for details). I will use the
+[proposal guidelines](#proposal-guidelines) below to assess your proposal and
+give you developmental feedback. Submit your proposal via GitHub no later than
+March 28 at 11:59 pm.
 
-2. A report of no more than 50 pages. I will use the [report
+2. A report of no more than 50 pages, using the stylistic requirements outlined
+in the _Journal of Marketing Research_ Style Guide for formatting purposes (see
+[here][jmr 1] and [here][jmr 2] for details). I will use the [report
 guidelines](#report-guidelines) below to assess your report and give you
 developmental feedback. Submit your report via GitHub no later than April 25 at
 12:30 pm.
@@ -181,46 +187,49 @@ April 25 at 12:30 pm.
 Your proposal should outline your plan for this group project and describe in
 detail:
 
-1. The topic you plan to focus on and the process you engaged in to find it.
-2. The data (i.e., datasets, rows, and columns) you to plan to analyze.
-3. The visualizations and models you plan to create and estimate in order to
-turn the data you plan to analyze into market intelligence.
-4. The processes and procedures you have developed as a group to ensure that
-your work is [collaborative, accurate, and reproducible][Parker 2017].
+1. The topic that you plan to focus on and the process you engaged in to find
+it.
+2. The data (i.e., datasets, rows, and columns) that you plan to analyze.
+3. The visualizations and models that you plan to create and estimate in order
+to turn the data you plan to analyze into market intelligence.
+4. The processes and procedures that you have developed as a group to ensure
+that your work is [collaborative, accurate, and reproducible][Parker 2017].
 
 There is no one "right" way to organize this proposal; however, you should make
 sure to outline what you plan to do&mdash;over the four weeks between the date
 this proposal is due and the date you present to Mike and Sarah&mdash;very
-carefully. I want to see evidence of you thinking critically, and in a divergent
-manner, about TJL's business. What should TJL's top research priority be, and
-why? What makes this topic significant, actionable, and interesting? These are
-but two of the questions your proposal should address to touch on the first
-point above.
+carefully. I want to see evidence that you have thought critically, and in a
+divergent manner, about TJL's business. What should TJL's top research priority
+be, and why? What makes this topic significant, actionable, and interesting?
+These are but two of the questions that your proposal should address to touch on
+the first point above. The topic you plan to focus on should excite you, and
+this section of the proposal is your opportunity to show that excitement.
 
-Regarding the second point, show me that you have more than a surface-level
-understanding of the [juicelaundry point-of-sale data][juicelaundry] and the
-[Google Trends data][Google Trends], both of which you are being trained to
-analyze. At a minimum, you should highlight some `filter()` and `mutate()`
-statements that will get these datasets into the forms you need them in. In a
-best-case scenario, you will not only advance a detailed proposal about how you
-plan to utilize these datasets fully, but also propose to supplement the scope
-of your analyses with additional secondary datasets (think weather data, for
-example). It will also be outstanding if you propose to reach data-informed
-decisions about your chosen topic by way of creating new-to-the-world tidy
-datasets. You could supplement the `menu_item` and `sku` datasets in the
-juicelaundry package with comparable datasets for a competitor, such as Corner
-Juice, for example, if doing so will aid your decision making.
+Regarding the second point, I want to see that you have more than a
+surface-level understanding of the [juicelaundry point-of-sale
+data][juicelaundry] and the [Google Trends data][Google Trends], both of which
+you are being trained to analyze. At a minimum, you should highlight some
+`filter()` and `mutate()` statements that will get these datasets into the forms
+you need them in. In a best-case scenario, you will not only advance a detailed
+proposal about how you plan to utilize these datasets fully, but also propose to
+supplement the scope of your analyses with additional secondary datasets (think
+weather data, for example). It will also be exemplary if you propose to reach
+data-informed decisions about your chosen topic by way of creating
+new-to-the-world tidy datasets. You could supplement the `menu_item` and `sku`
+datasets in the juicelaundry package with comparable datasets for a competitor,
+such as Corner Juice, for example, if doing so would aid your decision making.
 
-For the third point, questions I want to see you address include: how do you
-plan on analyzing these datasets (i.e., with what methods?), and what artifacts
-(e.g., graphics and model estimates) do you plan on producing? For the fourth,
-be specific about the systems your group has agreed to put in place to increase
-the chances that you will develop analyses for this project in a [collaborative,
-accurate, and reproducible][[Parker 2017]] manner.
+For the third point, questions I want to see you convey answers to include: how
+do you plan on analyzing these datasets (i.e., with what methods?), and what
+artifacts (e.g., graphics and model estimates) do you plan on producing? For the
+fourth, be specific about the systems that your group has agreed to implement to
+increase the chances that you will develop analyses for this project in a
+[collaborative, accurate, and reproducible][[Parker 2017]] manner.
 
 On April 1, I will meet with each team for 30 minutes between the times of 11:00
 am and 2:30 pm in RRH 203. The purpose of these meetings will be to discuss your
-progress and help you create some momentum going into the final month.
+progress and help you create significant momentum going into the final month of
+the semester.
 
 ## Report Guidelines
 
@@ -300,7 +309,7 @@ all times.
 Your group should prepare your presentation as you would if you were presenting
 to Mike and Sarah in "the real world," with the goal of persuading them to
 pursue the action plan you are advancing. Ask for the highest realistic level of
-commitment you can, and try your best to be granted their approval.
+commitment you can, and try your best to receive their approval.
 
 After listening to your presentation, invited guests, your peers, and I will use
 the following guidelines to assess it and give you developmental feedback.
@@ -337,10 +346,11 @@ well referenced, and free of errors.
 [Grolemund and Wickham 2017, 28.1]: http://r4ds.had.co.nz/graphics-for-communication.html
 [Hadley 2017]: https://www.rstudio.com/resources/videos/data-science-in-the-tidyverse/
 [instagram]: https://www.instagram.com/
-[Jaworski and Kohli 1993]: https://bear.warrington.ufl.edu/weitz/mar7786/articles/jaworski%20and%20kohli.pdf
+[Jaworski and Kohli 1993]: https://pdfs.semanticscholar.org/82e7/864936822e1c97d5ebc9996fab705defcfdb.pdf
 [Johnson 2018]: https://nyti.ms/2C558Py
 [Jolles 2013]: http://www.amanet.org/training/articles/i-object-four-steps-to-handling-objections.aspx
-[JMR]: https://www.ama.org/publications/JournalOfMarketingResearch/Pages/JMRSubmissionGuidelines.aspx
+[jmr 1]: https://auth.ama.org/publications/JournalOfMarketingResearch/Pages/JMRSubmissionGuidelines.aspx
+[jmr 2]: https://auth.ama.org/publications/JournalOfMarketingResearch/Pages/JMR_Accepted_Ms.aspx
 [juicelaundry]: https://github.com/GCOM7140/juicelaundry#juicelaundry
 [Miller 2018]: https://www.nytimes.com/guides/smarterliving/resolution-ideas
 [Parker 2017]: https://peerj.com/preprints/3210/
@@ -354,9 +364,10 @@ well referenced, and free of errors.
 [style files]: https://style.tidyverse.org/files.html 
 [style pipes]: https://style.tidyverse.org/pipes.html
 [style syntax]: https://style.tidyverse.org/syntax.html
-[Table 1]: https://github.com/GCOM7140/class-sessions/raw/master/02_group-project-overview/01_readings/table-1-topic-choice-decision-matrix-template.docx
 [Tidyverse Style Guide]: https://style.tidyverse.org/
 [tjl]: https://www.thejuicelaundry.com/
+[topic choice decision matrix template]: https://github.com/GCOM7140/group-project/blob/master/docs/topic-choice-decision-matrix-template.docx
 [value model template]: https://github.com/GCOM7140/class-sessions/raw/master/02_group-project-overview/readings/value-model-template.docx
 [yelp]: https://www.yelp.com/
+[Zeithaml 1988]: https://www.jstor.org/stable/pdf/1251446.pdf?casa_token=Xa8qdat3R3sAAAAA:UIVbmoYyPjGk0G5lRYUvGjIkQUa0O_-0X109e03kfzy9oeyMjMco37hLxQHMmv3_gQPNrNP63Zjxa3rSS7urFo9WmRBwfjJJENx112_8N9RZr-zdEy85
 [Zhang and Shaw 2012]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-Crafting.pdf

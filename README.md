@@ -1,14 +1,6 @@
 # The Group Project
-
-## Table of Contents
- * [Overview and Objectives](#overview-and-objectives)
- * [Deliverables](#deliverables)
- * [Proposal Guidelines](#proposal-guidelines)
- * [Report Guidelines](#report-guidelines)
- * [Presentation Guidelines](#presentation-guidelines)
-
-### Overview and Objectives
-
+## Overview and Objectives
+### Project Overview
 The primary goal of this group project is to give you an opportunity to apply
 the skills you are learning in [R for Data Science][Grolemund and Wickham 2017]
 to the arena of [customer analytics][Bradlow, Fader, Yyengar, and Bernman], such
@@ -26,13 +18,12 @@ value. After all, optimizing collective value (i.e., prosperity) is arguably why
 society engages in commerce and, as a result, customer analytics in the first
 place ([Donaldson and Walsh 2015][]).
 
-#### The Juice Laundry
-
-TJL is an organic juice and smoothie bar with three locations, two in
-Charlottesville, VA, and one in Washington, DC. Founded by UVa alumni Mike and
-Sarah Keenan, TJL's mission is "to inspire healthy, organic, powerful change."
-In-store signage articulates Mike and Sarah's value proposition to customers as
-follows:
+### Company Overview
+As a brief summary, TJL is an organic juice and smoothie bar with three
+locations, two in Charlottesville, VA, and one in Washington, DC. Founded by UVa
+alumni Mike and Sarah Keenan, TJL's mission is "to inspire healthy, organic,
+powerful change." In-store signage articulates Mike and Sarah's value
+proposition to customers as follows:
 
 > The Juice Laundry was founded on the concept of keeping our bodies clean and
 healthy, starting with what we put into them. Raw, organic fruits and veggies
@@ -50,17 +41,17 @@ are Transparent. We Leave a Gentle Footprint." Missing in stores, however, are
 trash cans, as 100% of TJL's packaging is either compostable or reusable.
 
 For this group project, TJL offers a lab of sorts, somewhere you can talk with
-business owners, employees, and customers; develop and test ideas; analyze data;
+business owners, employees, and customers; analyze data; develop and test ideas;
 and, eventually, see the impact of your hard work right in our backyard on the
 Corner.
 
-#### Objectives
+### Objectives
 Your objectives are threefold: (1) identify an area of TJL's business that is
-worth looking into; (2) make a data-informed and well-principled decision on
-what direction TJL should go in; and (3) develop a comprehensive and convincing
-action plan that logically flows from what you learn.
+worth looking into; (2) evaluate three directions TJL could go in; and (3)
+develop a comprehensive and convincing action plan that logically flows from
+what you learn.
 
-##### Topic Identification
+#### Topic Identification
 In line with [Colquitt and George (2011)][Colquitt and George 2011], you should
 strive to identify and address a topic that:
 
@@ -85,18 +76,18 @@ strive to identify and address a topic that:
 
 As is reflected in [Table 1][], Mike and Sarah are interested in topics that
 focus on grand challenges, promise to offer actionable insights, and peak their
-curiosity. With these priorities in mind, you should be set to engage in the
-marketing process and help TJL further achieve a market orientation.
+curiosity. With these priorities in mind, you should be positoned to engage in
+the marketing process and help TJL further achieve a market orientation.
 
 While developing a list of potential topics to focus on, I encourage you to be
 divergent in your thinking ([Peng 2018][]). Begin by conducting extensive
-research on Elevate, Euromonitor, Factiva, Google Trends, Instagram, Yelp, etc.
-This research, which can also occur in TJL's and its competitors' storefronts,
-will guide you to challenges that TJL is facing (e.g., some consumers perceive
-that TJL offers low [value][Zeithaml 1988]) as well as promising alternatives
-that TJL could consider implementing to address these challenges (e.g.,
-launching an Instagram campaign focused on educating their followers about the
-true cost of food).
+research on [Elevate], [Euromonitor], [Factiva], [Google Trends], [Instagram],
+[Yelp], etc. This research, which can also occur in TJL's and its competitors'
+storefronts, will guide you to challenges that TJL is facing (e.g., some
+consumers perceive that TJL offers low [value][Zeithaml 1988]) as well as
+promising alternatives that TJL could consider implementing to address these
+challenges (e.g., launching an Instagram campaign focused on educating their
+followers about the true cost of food).
 
    __Pro tip__: Be radically open minded&mdash;and [productively
    stupid][Schwartz 2008]&mdash;during this first step and strive not to let
@@ -120,18 +111,52 @@ presentation.
    will be able to fully appreciate: (a) the challenges your topics are focused
    on overcoming and (b) the alternatives your research has led you to consider.
 
-#### Decision
-Focused on the topic you identify, develop a [value model][Johnson 2018]
+#### Alternative Evaluation
+Focused on the topic you identify, your next objective is to, in a concise and
+well-balanced manner, explain three fundamentally different strategic directions
+that TJL could go in. Further, you should arrive at and implement a set of
+criteria that you believe Mike and Sarah should use to make decisions of this
+sort.
 
-The data sets we'll cover in class for this purpose include the following:
+Taken together, these two components (alternatives and criteria) will allow you
+to employ a [value model][Johnson 2018] for decision-making purposes. You might
+find it helpful to structure your value model using [this template][value model
+template]. Overall, the goal is to evaluate a set of well-balanced alternatives
+with a ranked set of relevant decision criteria in order to propose a course of
+action in a convincing manner.
 
-* The [juicelaundry][] R data package that has transaction information for all
-of TJL's locations from October 11, 2016 to December 31, 2018.
-* [Google Trends][] - search interest data for topics relevant to The Juice
-Laundry.
+On this point, you should strive to explain your alternatives clearly and define
+your criteria well, so that the scores you assign to the alternatives in your
+value model will seem logical. In other words, try to increase the chances that
+separate people (namely, your group, peers, me, Mike, and Sarah) will more or
+less agree on the scores you assign to given alternative-criteria pairs and,
+thus, the logic underlying your strategic recommendation by explaining your
+alternatives clearly and defining your criteria cogently.
 
-### Deliverables
+The datasets we will cover in class to help you ground your decision making with
+[data-informed insights][Parker 2017/06/06] include:
 
+* The [juicelaundry][] R data package, which has point-of-sale transaction
+details for all of TJL's locations from October 11, 2016 to December 31, 2018.
+* [Google Trends][] data, which captures relative search interest for topics
+relevant to TJL's business.
+
+While analyzing and communicating insights about these and other datasets, the
+key is to describe the [provenance][Polich and Whitenack 2017] of your data and
+define the variables you are analyzing to make decisions [clearly, completely,
+and credibly][Zhang and Shaw 2012]. 
+
+#### Action Plan
+Having made your decision, your final objective is to develop an action plan
+covering all relevant elements of the marketing mix in detail (i.e., product,
+price, promotion, and place). Clients need to understand what has to be done
+(i.e., by who, when, what, where, why, and how?) before they can accept your
+claims and implement your recommendations. In order to set expectations, strive
+to establish goals related to consumers' attitudes, emotions, and/or actions as
+well as to TJL's triple bottom line (i.e., profits, people, and the planet) in
+[specific, measurable, achievable, relevant, and time-bound][Miller 2018] ways.
+
+## Deliverables
 There are three key deliverables for the group project:
 
 1. A proposal of no more than 25 pages. I will use the [proposal
@@ -145,15 +170,14 @@ developmental feedback. Submit your report via GitHub no later than April 25 at
 12:30 pm.
 
 3. A presentation of no more than 12 minutes, plus up to eight minutes of Q&A.
-Invited guests, your peers, and I will use the [presentation
+An agenda will guide when groups present. Make sure your final presentation
+title gets added to this agenda by submitting it no later than April 18 at 12:30
+pm. Invited guests, your peers, and I will use the [presentation
 guidelines](#presentation-guidelines) below to assess your presentation and give
-you developmental feedback. This [agenda][] will guide when groups present. Add
-your *final* presentation title to the [agenda][] via this Google Sheet no later
-than April 18 at 12:30 pm. Submit your slide deck via GitHub no later than April
-25 at 12:30 pm.
+you developmental feedback. Submit your slide deck via GitHub no later than
+April 25 at 12:30 pm.
 
-### Proposal Guidelines
-
+## Proposal Guidelines
 Your proposal should outline your plan for this group project and describe in
 detail:
 
@@ -198,15 +222,15 @@ On April 1, I will meet with each team for 30 minutes between the times of 11:00
 am and 2:30 pm in RRH 203. The purpose of these meetings will be to discuss your
 progress and help you create some momentum going into the final month.
 
-### Report Guidelines
+## Report Guidelines
 
-Your report should advocate for strategic change to The Juice Laundry's
-marketing mix. Base your action plan on the shoulders of (i) a topic with an
-impressive [anatomy][Colquitt and George 2011]; (ii) a decision-making process
-with strong [principles][Dalio 2017]; (iii) data that are described [clearly,
-completely, and credibly][Zhang and Shaw 2012]; (iv) a breadth and depth of
-analyses that are applied [accurately, collaboratively, and reproducibly][Parker
-2017]; and (v) [stylish writing][Sword 2012].
+Your report should advocate for strategic change to TJL's marketing mix. Base
+your action plan on the shoulders of (i) a topic with an impressive
+[anatomy][Colquitt and George 2011]; (ii) a decision-making process with strong
+[principles][Dalio 2017]; (iii) data that are described [clearly, completely,
+and credibly][Zhang and Shaw 2012]; (iv) a breadth and depth of analyses that
+are applied [accurately, collaboratively, and reproducibly][Parker 2017]; and
+(v) [stylish writing][Sword 2012].
 
 There is no one "right" way to organize this report; however, you should think
 carefully about what your audience (in this case, Mike and Sarah Keenan) already
@@ -216,7 +240,7 @@ I will use the following guidelines to assess your work and provide you with
 developmental feedback. Internalizing these guidelines will help you develop a
 report worthy of an exemplary grade.
 
-#### Decision-Making Principles (20%)
+### Decision-Making Principles (20%)
 * Cogent reasoning explains why the major decision being considered has an
 impressive [anatomy][Colquitt and George 2011].
 * The long-term, detrimental implications of inaction for The Juice Laundry are
@@ -227,7 +251,7 @@ ranked cogently.
 * The proposed course of action is very well reasoned, because said decision
 criteria are used to evaluate the alternatives rigorously.
 
-#### Data (20%)
+### Data (20%)
 * The [provenance][Polich and Whitenack 2017] and definitions of the data and
 variables being analyzed to make decisions are described [clearly, completely,
 and credibly][Zhang and Shaw 2012].
@@ -235,7 +259,7 @@ and credibly][Zhang and Shaw 2012].
 (e.g., red herrings).
 * Statements about data limitations are made at appropriate times.
 
-#### Method (20%)
+### Method (20%)
 * A breadth and depth of techniques covered in [R for Data Science][Grolemund
 and Wickham 2017] are applied [accurately, collaboratively, and
 reproducibly][Parker 2017].
@@ -247,18 +271,18 @@ phenomena][Grolemund and Wickham 2017, 3.3].
 * Hoofbeats are interpreted as signs of horses not [zebras][Sotos 2006].  
 * Statements about methodological limitations are made at appropriate times.
 
-#### Action Plan (20%)
+### Action Plan (20%)
 * All relevant elements of the marketing mix are covered in detail.  
 * What needs to be done (i.e., who, when, what, where, why, and how) is
 discussed expansively.
 * The overall recommendation being proposed is creative (i.e., novel and
 useful).
-* Goals related to consumers' attitudes, emotions, and actions as well as to
+* Goals related to consumers' attitudes, emotions, and/or actions as well as to
 TJL's triple bottom line (i.e., profits, people, and the planet) are set in
 [specific, measurable, achievable, relevant, and time-bound][Miller 2018] ways
 in order to establish expected results.
 
-#### Style \& Grammar (20%)
+### Style \& Grammar (20%)
 * The expectations that Prof. Patterson set in Communication&mdash;which
 include, but are not limited to, BLUF writing, SAS headings/tables/figures, and
 SEC plain English&mdash;are met or exceeded at all times.
@@ -272,8 +296,7 @@ all times.
 * The [Tidyverse Style Guide][] is adhered to at all times in the report's
 [files][style files], [syntax][style syntax], and [pipes][style pipes].
 
-### Presentation Guidelines
-
+## Presentation Guidelines
 Your group should prepare your presentation as you would if you were presenting
 to Mike and Sarah in "the real world," with the goal of persuading them to
 pursue the action plan you are advancing. Ask for the highest realistic level of
@@ -301,11 +324,11 @@ well referenced, and free of errors.
 [Allen 2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655
 [Bradlow, Fader, Yyengar, and Bernman]: https://www.coursera.org/learn/wharton-customer-analytics
 [Colquitt and George 2011]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf
-[comScore]: https://auth2.comscore.com/
 [Dalio 2017]: https://smile.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_3?ie=UTF8&qid=1522529948&sr=8-3&keywords=principles+ray+dalio
-[Dhakad et al. 2018]: https://github.com/GCOM7140/group-project/blob/master/agenda.md#invited-guests
 [Donaldson and Walsh 2015]: http://www.sciencedirect.com/science/article/pii/S0191308515000088
-[Euromonitor Passport]: http://proxy.its.virginia.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt
+[elevate]: https://www.elevatemealplan.com/uva-meal-plan
+[euromonitor]: http://proxy.its.virginia.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt
+[factiva]: http://proxy.its.virginia.edu/login?url=http://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnMDItMDIoMDAp5DByMU38ODJ9RcyqUUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA
 [Gallo 2017]:https://www.inc.com/carmine-gallo/a-self-made-billionaire-reveals-the-1-mental-hurdl.html
 [Google Trends]: https://trends.google.com/trends/
 [Grolemund and Wickham 2017]: http://r4ds.had.co.nz
@@ -313,6 +336,7 @@ well referenced, and free of errors.
 [Grolemund and Wickham 2017, 12]: https://r4ds.had.co.nz/tidy-data.html
 [Grolemund and Wickham 2017, 28.1]: http://r4ds.had.co.nz/graphics-for-communication.html
 [Hadley 2017]: https://www.rstudio.com/resources/videos/data-science-in-the-tidyverse/
+[instagram]: https://www.instagram.com/
 [Jaworski and Kohli 1993]: https://bear.warrington.ufl.edu/weitz/mar7786/articles/jaworski%20and%20kohli.pdf
 [Johnson 2018]: https://nyti.ms/2C558Py
 [Jolles 2013]: http://www.amanet.org/training/articles/i-object-four-steps-to-handling-objections.aspx
@@ -333,4 +357,6 @@ well referenced, and free of errors.
 [Table 1]: https://github.com/GCOM7140/class-sessions/raw/master/02_group-project-overview/01_readings/table-1-topic-choice-decision-matrix-template.docx
 [Tidyverse Style Guide]: https://style.tidyverse.org/
 [tjl]: https://www.thejuicelaundry.com/
+[value model template]: https://github.com/GCOM7140/class-sessions/raw/master/02_group-project-overview/readings/value-model-template.docx
+[yelp]: https://www.yelp.com/
 [Zhang and Shaw 2012]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-Crafting.pdf

@@ -207,7 +207,7 @@ this section of the proposal is your opportunity to show that excitement.
 
 Regarding the second point, I want to see that you have more than a
 surface-level understanding of the [juicelaundry point-of-sale
-data][juicelaundry] and the [Google Trends data][Google Trends], both of which
+data][juicelaundry] and [Google Trends data][Google Trends], both of which
 you are being trained to analyze. At a minimum, you should highlight some
 `filter()` and `mutate()` statements that will get these datasets into the forms
 you need them in. In a best-case scenario, you will not only advance a detailed
@@ -219,8 +219,8 @@ new-to-the-world tidy datasets. You could supplement the `menu_item` and `sku`
 datasets in the juicelaundry package with comparable datasets for a competitor,
 such as Corner Juice, for example, if doing so would aid your decision making.
 
-For the third point, questions I want to see you convey answers to include: how
-do you plan on analyzing these datasets (i.e., with what methods?), and what
+For the third point, some questions I want to see you convey answers to include:
+how do you plan on analyzing these datasets (i.e., with what methods?), and what
 artifacts (e.g., graphics and model estimates) do you plan on producing? For the
 fourth, be specific about the systems that your group has agreed to implement to
 increase the chances that you will develop analyses for this project in a

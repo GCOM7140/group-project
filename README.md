@@ -224,7 +224,7 @@ how do you plan on analyzing these datasets (i.e., with what methods?), and what
 artifacts (e.g., graphics and model estimates) do you plan on producing? For the
 fourth, be specific about the systems that your group has agreed to implement to
 increase the chances that you will develop analyses for this project in a
-[collaborative, accurate, and reproducible][[Parker 2017]] manner.
+[collaborative, accurate, and reproducible][Parker 2017] manner.
 
 On April 1, I will meet with each team for 30 minutes between the times of 11:00
 am and 2:30 pm in RRH 203. The purpose of these meetings will be to discuss your
@@ -300,8 +300,8 @@ Wickham 2017, 28.1].
 * Every sentence is grammatically correct, and all sentences flow together
 naturally.
 * The report is free of spelling errors.  
-* The [*Journal of Marketing Research* Style Guide][JMR] is adhered to at
-all times.
+* The *Journal of Marketing Research* Style Guide is adhered to at
+all times (see [here][jmr 1] and [here][jmr 2] for details).
 * The [Tidyverse Style Guide][] is adhered to at all times in the report's
 [files][style files], [syntax][style syntax], and [pipes][style pipes].
 

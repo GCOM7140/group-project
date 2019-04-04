@@ -168,7 +168,7 @@ purposes (see [here][jmr 1] and [here][jmr 2] for details). I will use the
 give you developmental feedback. Submit your proposal via GitHub no later than
 March 28 at 11:59 pm.
 
-2. A report of no more than 50 pages, using the stylistic requirements outlined
+2. A report of no more than 25 pages, using the stylistic requirements outlined
 in the _Journal of Marketing Research_ Style Guide for formatting purposes (see
 [here][jmr 1] and [here][jmr 2] for details). I will use the [report
 guidelines](#report-guidelines) below to assess your report and give you

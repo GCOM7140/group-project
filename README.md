@@ -3,7 +3,7 @@
 ### Project Overview
 The primary goal of this group project is to give you an opportunity to apply
 the skills you are learning in [R for Data Science][Grolemund and Wickham 2017]
-to the arena of [customer analytics][Bradlow, Fader, Yyengar, and Bernman], such
+and [Text Mining With R][Silge and Robinson 2017] to the arena of [customer analytics][Bradlow, Fader, Yyengar, and Bernman], such
 that you end up turning consumer/customer data into [significant, actionable,
 interesting, novel, and broad insights][Colquitt and George 2011] for [The Juice
 Laundry][tjl] (TJL), a local Charlottesville business that is partnering with us
@@ -55,7 +55,7 @@ logically flows from what you learn.
 In line with [Colquitt and George (2011)][Colquitt and George 2011], you should
 strive to identify and address a topic that:
 
-* __Takes on a grand challenge__ (i.e., has a compelling raison d'être)
+* __Takes on a grand challenge__ (i.e., has a compelling raison d'Ãªtre)
    + By aiming to solve a piece of a larger societal puzzle and, thus, having a
    compelling purpose (e.g., encouraging healthier eating habits, making
    commerce more sustainable).
@@ -159,14 +159,16 @@ people, and the planet) in [specific, measurable, achievable, relevant, and
 time-bound][Miller 2018] ways.
 
 ## Deliverables
-There are three key deliverables for the group project:
+There are three key deliverables for the group project, two of which will be formally graded:
 
-1. A proposal of no more than 25 pages, using the stylistic requirements
-outlined in the _Journal of Marketing Research_ Style Guide for formatting
-purposes (see [here][jmr 1] and [here][jmr 2] for details). I will use the
-[proposal guidelines](#proposal-guidelines) below to assess your proposal and
-give you developmental feedback. Submit your proposal via GitHub no later than
-March 28 at 11:59 pm.
+1. A 1-2 page memo outlining your proposed analytical plan.  This memo should identify
+the grand challenge that your team will be tackling and offer a high level description
+of how you plan on addressing that grand challenge (which variables and what methods
+may be appropriate for uncovering insights that can lead to recommendations in your
+final action plan).  No grades will be assigned to this proposal memo yet it will 
+offer a valuable opportunity to get feedback from your professors on both the 
+scope of your proposed project as well as the analytical strategy for addressing
+the challenge.  This memo must be submitted via GitHub no later than March 27 at 3:00 pm.
 
 2. A report of no more than 25 pages, using the stylistic requirements outlined
 in the _Journal of Marketing Research_ Style Guide for formatting purposes (see
@@ -359,6 +361,7 @@ well referenced, and free of errors.
 [Peng 2018]: https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/
 [Polich and Whitenack 2017]: https://dataskeptic.com/blog/episodes/2017/data-provenance-and-reproducibility-with-pachyderm
 [Schwartz 2008]: http://jcs.biologists.org/content/121/11/1771
+[Silge and Robinson 2017]: https://www.tidytextmining.com/
 [Sotos 2006]: https://en.wikipedia.org/wiki/Zebra_(medicine)
 [Sword 2012]: https://smile.amazon.com/Stylish-Academic-Writing-Helen-Sword/dp/0674064488/ref=sr_1_1?s=books&ie=UTF8&qid=1522530104&sr=1-1&keywords=stylish+academic+writing
 [style files]: https://style.tidyverse.org/files.html 

@@ -47,7 +47,7 @@ Corner.
 
 ### Objectives
 Your objectives are threefold: (1) identify an area of TJL's business that is
-worth looking into; (2) evaluate three directions that TJL could go in in this
+worth looking into; (2) evaluate several directions that TJL could go in in this
 respect; and (3) develop a comprehensive and convincing action plan that
 logically flows from what you learn.
 
@@ -113,11 +113,10 @@ research and reporting on for your group project report and presentation.
    and (b) the alternatives your research has led you to consider.
 
 #### Alternative Evaluation
-Focused on the topic you identify, your next objective is to, in a concise and
-well-balanced manner, explain three fundamentally different strategic directions
-that TJL could go in. Further, you should arrive at and implement a set of
-criteria that you believe Mike and Sarah should use to make decisions of this
-sort.
+Focused on the topic you identify, your next objective is to identify several
+fundamentally different strategic directions that TJL could go in. Further, you 
+should arrive at and implement a set of criteria that you believe Mike and Sarah 
+should use to make decisions of this sort.
 
 Taken together, these two components (alternatives and criteria) will allow you
 to employ a [value model][Johnson 2018] for decision-making purposes. You might
@@ -138,7 +137,9 @@ The datasets we will cover in class to help you support your decision making
 with [data-informed insights][Parker 2017/06/06] include:
 
 * The [juicelaundry][] R data package, which has point-of-sale transaction
-details for all of TJL's locations from October 11, 2016 to December 31, 2018.
+details for all of TJL's locations from October 11, 2016 to January 10, 2020, 
+customer survey data, which contains both numeric and text data, and 
+customer-supplied reviews posted to Google.
 * [Google Trends][] data, which can capture relative search interest and
 emerging trends for topics relevant to TJL's business.
 
@@ -157,6 +158,21 @@ set expectations, strive to establish goals related to consumers' attitudes,
 emotions, and/or actions as well as to TJL's triple bottom line (i.e., profits,
 people, and the planet) in [specific, measurable, achievable, relevant, and
 time-bound][Miller 2018] ways.
+
+### Scope Considerations
+When determining the specific topic you wish to explore and develop strategic
+directions TJL may wish to explore, be sure to think about how analytical 
+methods from both your Customer Analytics and Text Analytics courses can be used
+effectively.  You will be getting separate grades for each course so it is imperative 
+that you demonstrate proper uses of both text analytics and customer analytics.
+
+There are no firm requirements for the number of techniques/methods performed as 
+part of your analysis, however groups are encouraged to evaluate how they may be 
+able to generate recommendations from analyzing numeric data, text data, and some
+combination of both.  At a minimum, each group must generate at least one meaningful
+recommendation directly from the analysis of text data. Groups are strongly urged
+to identify an opportunity to incorporate the results of a text analysis into a
+model/procedure that also utilizes other numeric customer data provided to you.  
 
 ## Deliverables
 There are three key deliverables for the group project, two of which will be formally graded:
@@ -284,6 +300,8 @@ variables being analyzed to make decisions are described [clearly, completely,
 and credibly][Zhang and Shaw 2012].
 * Convincing reasons explain why certain data are given priority over others
 (e.g., red herrings).
+* An appropriate variety of data is included in the analysis to tackle the 
+core topic from multiple angles using a mixture of text and numeric data 
 * Statements about data limitations are made at appropriate times.
 
 ### Methods (25%)

@@ -174,48 +174,67 @@ the challenge.  This memo must be submitted via GitHub no later than March 27 at
 in the _Journal of Marketing Research_ Style Guide for formatting purposes (see
 [here][jmr 1] and [here][jmr 2] for details). I will use the [report
 guidelines](#report-guidelines) below to assess your report and give you
-developmental feedback. Submit your report via GitHub no later than April 25 at
+developmental feedback. Submit your report via GitHub no later than April 23 at
 12:30 pm.
 
-3. A presentation of no more than 12 minutes, plus up to eight minutes of Q&A.
+3. A presentation of no more than 15 minutes, plus up to 10 minutes of Q&A.
 An agenda will guide when groups present. Make sure your final presentation
 title gets added to this agenda by submitting it no later than April 18 at 12:30
 pm. Invited guests, your peers, and I will use the [presentation
 guidelines](#presentation-guidelines) below to assess your presentation and give
 you developmental feedback. Submit your slide deck via GitHub no later than
-April 25 at 12:30 pm.
+April 23 at 12:30 pm.
+
+## Grading Breakdown
+
+Your final grade for the project will be determined from both the report and 
+your presentation.  Certain elements of this grade will be consistent across both 
+courses (Style & Grammar and Presentation Skills) while others may diverge. Your 
+professors will independently review and evaluate your report and presentation, 
+with special attention to the portions of the analysis that relate to the content 
+covered in each course.  They will share their evaluations with each other and 
+discuss discrepancies, but it is possible that groups may receive different grades
+for each class.  While the grading categories will be the same for both courses, 
+there is a possibility that group performance in some categories may be stronger 
+for analyses aligning with one course as compared to the other.
+
+The following table summarizes the breakdown of final project grades
+
+Grading Component          | Percentage of Total Grade|
+---------------------------|:------------------------:|
+Decision-making principles |	15%                     |
+Data                       |	15%                     |
+Methods                    |	25%                     |
+Action Plan	               |  20%                     |
+Report Style & Grammar     |	10%                     |
+Presentation skills        |	15%                     |
+
 
 ## Proposal Guidelines
-Your proposal should outline your plan for this group project and describe in
-detail:
+Your proposal should outline your plan for this group project and describe:
 
-1. The topic that you plan to focus on and the process you engaged in to find
-it.
+1. The topic or primary research question that you plan to focus on 
 2. The data (i.e., datasets, rows, and columns) that you plan to analyze.
-3. The visualizations and models that you plan to create and estimate in order
-to turn the data you plan to analyze into market intelligence.
-4. The processes and procedures that you have developed as a group to ensure
-that your work is [collaborative, accurate, and reproducible][Parker 2017].
+3. The analytical procedures you believe will be appropriate in developing
+insights and recommendations from the data you plan on analyzing.
+
 
 There is no one "right" way to organize this proposal; however, you should make
 sure to outline what you plan to do&mdash;over the four weeks between the date
 this proposal is due and the date you present to Mike and Sarah&mdash;very
-carefully. I want to see evidence that you have thought critically, and in a
-divergent manner, about TJL's business. What should TJL's top research priority
-be, and why? What makes this topic significant, actionable, and interesting?
-These are but two of the questions that your proposal should address to touch on
-the first point above. The topic you plan to focus on should excite you, and
-this section of the proposal is your opportunity to show that excitement.
+carefully. While the memo must be concise, it should illustrate that your group
+has thought critically, and in a divergent manner,  about the TJL's business. 
+Your chosen topic/questions should be logical, significant, actionable, and 
+interesting.
 
-Regarding the second point, I want to see that you have more than a
+Regarding the second requirement for the memo, I want to see that you have more than a
 surface-level understanding of the [juicelaundry point-of-sale
 data][juicelaundry] and [Google Trends data][Google Trends], both of which
-you are being trained to analyze. At a minimum, you should highlight some
-`filter()` and `mutate()` statements that will get these datasets into the forms
-you need them in. In a best-case scenario, you will not only advance a detailed
-proposal about how you plan to utilize these datasets fully, but also propose to
-supplement the scope of your analyses with additional secondary datasets (think
-weather data, for example). It will also be exemplary if you propose to reach
+you are being trained to analyze. At a minimum, you should have already thought 
+about some`filter()` and `mutate()` statements that will get these datasets into 
+the forms you need them in. This is why it is important to not only describe the 
+topic or questions guiding your analysis but also describe the data you intend to
+use. Although not required, it will be exemplary if you propose to reach
 data-informed decisions about your chosen topic by way of creating
 new-to-the-world tidy datasets. You could supplement the `menu_item` and `sku`
 datasets in the juicelaundry package with comparable datasets for a competitor,
@@ -223,15 +242,14 @@ such as Corner Juice, for example, if doing so would aid your decision making.
 
 For the third point, some questions I want to see you convey answers to include:
 how do you plan on analyzing these datasets (i.e., with what methods?), and what
-artifacts (e.g., graphics and model estimates) do you plan on producing? For the
-fourth, be specific about the systems that your group has agreed to implement to
-increase the chances that you will develop analyses for this project in a
-[collaborative, accurate, and reproducible][Parker 2017] manner.
+artifacts (e.g., graphics and model estimates) do you plan on producing? 
 
-On April 1, I will meet with each team for 30 minutes between the times of 11:00
-am and 2:30 pm in RRH 203. The purpose of these meetings will be to discuss your
-progress and help you create significant momentum going into the final month of
-the semester.
+There is no grade associated with your proposal memo, however this is an opportunity
+to gain valuable feedback on your approach to satisfying the project requirements.
+Your professors will review each proposal memo in detail and will provide feedback
+meant to guide you toward a high-quality final deliverable.  If appropriate, a
+meeting may be scheduled to discuss the proposal in more detail and set your group
+on a path toward success.
 
 ## Report Guidelines
 
@@ -251,18 +269,16 @@ I will use the following guidelines to assess your work and provide you with
 developmental feedback. Internalizing these guidelines will help you develop a
 report worthy of an exemplary grade.
 
-### Decision-Making Principles (20%)
+### Decision-Making Principles (15%)
 * Cogent reasoning explains why the major decision being considered has an
 impressive [anatomy][Colquitt and George 2011].
 * The long-term, detrimental implications of inaction for The Juice Laundry are
 argued concretely.
-* Alternative courses of action are identified in a balanced, convincing manner.
 * Decision criteria relevant to the major decision at hand are defined and
 ranked cogently.
-* The proposed course of action is very well reasoned, because said decision
-criteria are used to evaluate the alternatives rigorously.
+* The proposed course of action is very well reasoned
 
-### Data (20%)
+### Data (15%)
 * The [provenance][Polich and Whitenack 2017] and definitions of the data and
 variables being analyzed to make decisions are described [clearly, completely,
 and credibly][Zhang and Shaw 2012].
@@ -270,10 +286,12 @@ and credibly][Zhang and Shaw 2012].
 (e.g., red herrings).
 * Statements about data limitations are made at appropriate times.
 
-### Method (20%)
+### Methods (25%)
 * A breadth and depth of techniques covered in [R for Data Science][Grolemund
-and Wickham 2017] are applied [accurately, collaboratively, and
-reproducibly][Parker 2017].
+and Wickham 2017] and [Text Mining With R][Silge and Robinson 2017] are applied 
+[accurately, collaboratively, and reproducibly][Parker 2017].
+* Techniques performed complement one another and create synergies that offer 
+deeper insights than the individual analyses may offer independently.
 * A knowledgeable individual could [reproduce][Peng 2011] the report's findings
 with ease, because the group's GitHub repository provides access to not only the
 report, but also self-contained, executable code and the data being analyzed.
@@ -288,12 +306,14 @@ phenomena][Grolemund and Wickham 2017, 3.3].
 discussed expansively.
 * The overall recommendation being proposed is creative (i.e., novel and
 useful).
+* Recommendations stem from analytical results, thus providing legitimacy to the
+action plan
 * Goals related to consumers' attitudes, emotions, and/or actions as well as to
 TJL's triple bottom line (i.e., profits, people, and the planet) are set in
 [specific, measurable, achievable, relevant, and time-bound][Miller 2018] ways
 in order to establish expected results.
 
-### Style \& Grammar (20%)
+### Style \& Grammar (10%)
 * The expectations that Prof. Patterson set in Communication&mdash;which
 include, but are not limited to, BLUF writing, SAS headings/tables/figures, and
 SEC plain English&mdash;are met or exceeded at all times.
@@ -316,7 +336,7 @@ commitment you can, and try your best to receive their approval.
 After listening to your presentation, invited guests, your peers, and I will use
 the following guidelines to assess it and give you developmental feedback.
 Internalizing these guidelines will help you deliver a presentation worthy of an
-exemplary grade.
+exemplary grade (15% of the project grade).
 
 * The group discussed the data they analyzed in a [simple, easy-to-understand
 way][Allen 2017].

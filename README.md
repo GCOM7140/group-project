@@ -3,7 +3,7 @@
 ### Project Overview
 The primary goal of this group project is to give you an opportunity to apply
 the skills you are learning in [R for Data Science][Grolemund and Wickham 2017]
-to the arena of [customer analytics][Bradlow, Fader, Yyengar, and Bernman], such
+and [Text Mining With R][Silge and Robinson 2017] to the arena of [customer analytics][Bradlow, Fader, Yyengar, and Bernman], such
 that you end up turning consumer/customer data into [significant, actionable,
 interesting, novel, and broad insights][Colquitt and George 2011] for [The Juice
 Laundry][tjl] (TJL), a local Charlottesville business that is partnering with us
@@ -47,7 +47,7 @@ Corner.
 
 ### Objectives
 Your objectives are threefold: (1) identify an area of TJL's business that is
-worth looking into; (2) evaluate three directions that TJL could go in in this
+worth looking into; (2) evaluate several directions that TJL could go in in this
 respect; and (3) develop a comprehensive and convincing action plan that
 logically flows from what you learn.
 
@@ -55,7 +55,7 @@ logically flows from what you learn.
 In line with [Colquitt and George (2011)][Colquitt and George 2011], you should
 strive to identify and address a topic that:
 
-* __Takes on a grand challenge__ (i.e., has a compelling raison d'être)
+* __Takes on a grand challenge__ (i.e., has a compelling raison d'Ãªtre)
    + By aiming to solve a piece of a larger societal puzzle and, thus, having a
    compelling purpose (e.g., encouraging healthier eating habits, making
    commerce more sustainable).
@@ -113,11 +113,10 @@ research and reporting on for your group project report and presentation.
    and (b) the alternatives your research has led you to consider.
 
 #### Alternative Evaluation
-Focused on the topic you identify, your next objective is to, in a concise and
-well-balanced manner, explain three fundamentally different strategic directions
-that TJL could go in. Further, you should arrive at and implement a set of
-criteria that you believe Mike and Sarah should use to make decisions of this
-sort.
+Focused on the topic you identify, your next objective is to identify several
+fundamentally different strategic directions that TJL could go in. Further, you 
+should arrive at and implement a set of criteria that you believe Mike and Sarah 
+should use to make decisions of this sort.
 
 Taken together, these two components (alternatives and criteria) will allow you
 to employ a [value model][Johnson 2018] for decision-making purposes. You might
@@ -138,7 +137,9 @@ The datasets we will cover in class to help you support your decision making
 with [data-informed insights][Parker 2017/06/06] include:
 
 * The [juicelaundry][] R data package, which has point-of-sale transaction
-details for all of TJL's locations from October 11, 2016 to December 31, 2018.
+details for all of TJL's locations from October 11, 2016 to January 10, 2020, 
+customer survey data, which contains both numeric and text data, and 
+customer-supplied reviews posted to Google.
 * [Google Trends][] data, which can capture relative search interest and
 emerging trends for topics relevant to TJL's business.
 
@@ -158,62 +159,98 @@ emotions, and/or actions as well as to TJL's triple bottom line (i.e., profits,
 people, and the planet) in [specific, measurable, achievable, relevant, and
 time-bound][Miller 2018] ways.
 
-## Deliverables
-There are three key deliverables for the group project:
+### Scope Considerations
+When determining the specific topic you wish to explore and develop strategic
+directions TJL may wish to explore, be sure to think about how analytical 
+methods from both your Customer Analytics and Text Analytics courses can be used
+effectively.  You will be getting separate grades for each course so it is imperative 
+that you demonstrate proper uses of both text analytics and customer analytics.
 
-1. A proposal of no more than 25 pages, using the stylistic requirements
-outlined in the _Journal of Marketing Research_ Style Guide for formatting
-purposes (see [here][jmr 1] and [here][jmr 2] for details). I will use the
-[proposal guidelines](#proposal-guidelines) below to assess your proposal and
-give you developmental feedback. Submit your proposal via GitHub no later than
-March 28 at 11:59 pm.
+There are no firm requirements for the number of techniques/methods performed as 
+part of your analysis, however groups are encouraged to evaluate how they may be 
+able to generate recommendations from analyzing numeric data, text data, and some
+combination of both.  At a minimum, each group must generate at least one meaningful
+recommendation directly from the analysis of text data. Groups are strongly urged
+to identify an opportunity to incorporate the results of a text analysis into a
+model/procedure that also utilizes other numeric customer data provided to you.  
+
+## Deliverables
+There are three key deliverables for the group project, two of which will be formally graded:
+
+1. A 1-2 page memo outlining your proposed analytical plan.  This memo should identify
+the grand challenge that your team will be tackling and offer a high level description
+of how you plan on addressing that grand challenge (which variables and what methods
+may be appropriate for uncovering insights that can lead to recommendations in your
+final action plan).  No grades will be assigned to this proposal memo yet it will 
+offer a valuable opportunity to get feedback from your professors on both the 
+scope of your proposed project as well as the analytical strategy for addressing
+the challenge.  This memo must be submitted via GitHub no later than March 27 at 3:00 pm.
 
 2. A report of no more than 25 pages, using the stylistic requirements outlined
 in the _Journal of Marketing Research_ Style Guide for formatting purposes (see
 [here][jmr 1] and [here][jmr 2] for details). I will use the [report
 guidelines](#report-guidelines) below to assess your report and give you
-developmental feedback. Submit your report via GitHub no later than April 25 at
+developmental feedback. Submit your report via GitHub no later than April 23 at
 12:30 pm.
 
-3. A presentation of no more than 12 minutes, plus up to eight minutes of Q&A.
+3. A presentation of no more than 15 minutes, plus up to 10 minutes of Q&A.
 An agenda will guide when groups present. Make sure your final presentation
 title gets added to this agenda by submitting it no later than April 18 at 12:30
 pm. Invited guests, your peers, and I will use the [presentation
 guidelines](#presentation-guidelines) below to assess your presentation and give
 you developmental feedback. Submit your slide deck via GitHub no later than
-April 25 at 12:30 pm.
+April 23 at 12:30 pm.
+
+## Grading Breakdown
+
+Your final grade for the project will be determined from both the report and 
+your presentation.  Certain elements of this grade will be consistent across both 
+courses (Style & Grammar and Presentation Skills) while others may diverge. Your 
+professors will independently review and evaluate your report and presentation, 
+with special attention to the portions of the analysis that relate to the content 
+covered in each course.  They will share their evaluations with each other and 
+discuss discrepancies, but it is possible that groups may receive different grades
+for each class.  While the grading categories will be the same for both courses, 
+there is a possibility that group performance in some categories may be stronger 
+for analyses aligning with one course as compared to the other.
+
+The following table summarizes the breakdown of final project grades
+
+Grading Component          | Percentage of Total Grade|
+---------------------------|:------------------------:|
+Decision-making principles |	15%                     |
+Data                       |	15%                     |
+Methods                    |	25%                     |
+Action Plan	               |  20%                     |
+Report Style & Grammar     |	10%                     |
+Presentation skills        |	15%                     |
+
 
 ## Proposal Guidelines
-Your proposal should outline your plan for this group project and describe in
-detail:
+Your proposal should outline your plan for this group project and describe:
 
-1. The topic that you plan to focus on and the process you engaged in to find
-it.
+1. The topic or primary research question that you plan to focus on 
 2. The data (i.e., datasets, rows, and columns) that you plan to analyze.
-3. The visualizations and models that you plan to create and estimate in order
-to turn the data you plan to analyze into market intelligence.
-4. The processes and procedures that you have developed as a group to ensure
-that your work is [collaborative, accurate, and reproducible][Parker 2017].
+3. The analytical procedures you believe will be appropriate in developing
+insights and recommendations from the data you plan on analyzing.
+
 
 There is no one "right" way to organize this proposal; however, you should make
 sure to outline what you plan to do&mdash;over the four weeks between the date
 this proposal is due and the date you present to Mike and Sarah&mdash;very
-carefully. I want to see evidence that you have thought critically, and in a
-divergent manner, about TJL's business. What should TJL's top research priority
-be, and why? What makes this topic significant, actionable, and interesting?
-These are but two of the questions that your proposal should address to touch on
-the first point above. The topic you plan to focus on should excite you, and
-this section of the proposal is your opportunity to show that excitement.
+carefully. While the memo must be concise, it should illustrate that your group
+has thought critically, and in a divergent manner,  about the TJL's business. 
+Your chosen topic/questions should be logical, significant, actionable, and 
+interesting.
 
-Regarding the second point, I want to see that you have more than a
+Regarding the second requirement for the memo, I want to see that you have more than a
 surface-level understanding of the [juicelaundry point-of-sale
 data][juicelaundry] and [Google Trends data][Google Trends], both of which
-you are being trained to analyze. At a minimum, you should highlight some
-`filter()` and `mutate()` statements that will get these datasets into the forms
-you need them in. In a best-case scenario, you will not only advance a detailed
-proposal about how you plan to utilize these datasets fully, but also propose to
-supplement the scope of your analyses with additional secondary datasets (think
-weather data, for example). It will also be exemplary if you propose to reach
+you are being trained to analyze. At a minimum, you should have already thought 
+about some`filter()` and `mutate()` statements that will get these datasets into 
+the forms you need them in. This is why it is important to not only describe the 
+topic or questions guiding your analysis but also describe the data you intend to
+use. Although not required, it will be exemplary if you propose to reach
 data-informed decisions about your chosen topic by way of creating
 new-to-the-world tidy datasets. You could supplement the `menu_item` and `sku`
 datasets in the juicelaundry package with comparable datasets for a competitor,
@@ -221,15 +258,14 @@ such as Corner Juice, for example, if doing so would aid your decision making.
 
 For the third point, some questions I want to see you convey answers to include:
 how do you plan on analyzing these datasets (i.e., with what methods?), and what
-artifacts (e.g., graphics and model estimates) do you plan on producing? For the
-fourth, be specific about the systems that your group has agreed to implement to
-increase the chances that you will develop analyses for this project in a
-[collaborative, accurate, and reproducible][Parker 2017] manner.
+artifacts (e.g., graphics and model estimates) do you plan on producing? 
 
-On April 1, I will meet with each team for 30 minutes between the times of 11:00
-am and 2:30 pm in RRH 203. The purpose of these meetings will be to discuss your
-progress and help you create significant momentum going into the final month of
-the semester.
+There is no grade associated with your proposal memo, however this is an opportunity
+to gain valuable feedback on your approach to satisfying the project requirements.
+Your professors will review each proposal memo in detail and will provide feedback
+meant to guide you toward a high-quality final deliverable.  If appropriate, a
+meeting may be scheduled to discuss the proposal in more detail and set your group
+on a path toward success.
 
 ## Report Guidelines
 
@@ -249,29 +285,31 @@ I will use the following guidelines to assess your work and provide you with
 developmental feedback. Internalizing these guidelines will help you develop a
 report worthy of an exemplary grade.
 
-### Decision-Making Principles (20%)
+### Decision-Making Principles (15%)
 * Cogent reasoning explains why the major decision being considered has an
 impressive [anatomy][Colquitt and George 2011].
 * The long-term, detrimental implications of inaction for The Juice Laundry are
 argued concretely.
-* Alternative courses of action are identified in a balanced, convincing manner.
 * Decision criteria relevant to the major decision at hand are defined and
 ranked cogently.
-* The proposed course of action is very well reasoned, because said decision
-criteria are used to evaluate the alternatives rigorously.
+* The proposed course of action is very well reasoned
 
-### Data (20%)
+### Data (15%)
 * The [provenance][Polich and Whitenack 2017] and definitions of the data and
 variables being analyzed to make decisions are described [clearly, completely,
 and credibly][Zhang and Shaw 2012].
 * Convincing reasons explain why certain data are given priority over others
 (e.g., red herrings).
+* An appropriate variety of data is included in the analysis to tackle the 
+core topic from multiple angles using a mixture of text and numeric data 
 * Statements about data limitations are made at appropriate times.
 
-### Method (20%)
+### Methods (25%)
 * A breadth and depth of techniques covered in [R for Data Science][Grolemund
-and Wickham 2017] are applied [accurately, collaboratively, and
-reproducibly][Parker 2017].
+and Wickham 2017] and [Text Mining With R][Silge and Robinson 2017] are applied 
+[accurately, collaboratively, and reproducibly][Parker 2017].
+* Techniques performed complement one another and create synergies that offer 
+deeper insights than the individual analyses may offer independently.
 * A knowledgeable individual could [reproduce][Peng 2011] the report's findings
 with ease, because the group's GitHub repository provides access to not only the
 report, but also self-contained, executable code and the data being analyzed.
@@ -286,12 +324,14 @@ phenomena][Grolemund and Wickham 2017, 3.3].
 discussed expansively.
 * The overall recommendation being proposed is creative (i.e., novel and
 useful).
+* Recommendations stem from analytical results, thus providing legitimacy to the
+action plan
 * Goals related to consumers' attitudes, emotions, and/or actions as well as to
 TJL's triple bottom line (i.e., profits, people, and the planet) are set in
 [specific, measurable, achievable, relevant, and time-bound][Miller 2018] ways
 in order to establish expected results.
 
-### Style \& Grammar (20%)
+### Style \& Grammar (10%)
 * The expectations that Prof. Patterson set in Communication&mdash;which
 include, but are not limited to, BLUF writing, SAS headings/tables/figures, and
 SEC plain English&mdash;are met or exceeded at all times.
@@ -314,7 +354,7 @@ commitment you can, and try your best to receive their approval.
 After listening to your presentation, invited guests, your peers, and I will use
 the following guidelines to assess it and give you developmental feedback.
 Internalizing these guidelines will help you deliver a presentation worthy of an
-exemplary grade.
+exemplary grade (15% of the project grade).
 
 * The group discussed the data they analyzed in a [simple, easy-to-understand
 way][Allen 2017].
@@ -359,6 +399,7 @@ well referenced, and free of errors.
 [Peng 2018]: https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/
 [Polich and Whitenack 2017]: https://dataskeptic.com/blog/episodes/2017/data-provenance-and-reproducibility-with-pachyderm
 [Schwartz 2008]: http://jcs.biologists.org/content/121/11/1771
+[Silge and Robinson 2017]: https://www.tidytextmining.com/
 [Sotos 2006]: https://en.wikipedia.org/wiki/Zebra_(medicine)
 [Sword 2012]: https://smile.amazon.com/Stylish-Academic-Writing-Helen-Sword/dp/0674064488/ref=sr_1_1?s=books&ie=UTF8&qid=1522530104&sr=1-1&keywords=stylish+academic+writing
 [style files]: https://style.tidyverse.org/files.html 

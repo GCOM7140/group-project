@@ -135,11 +135,9 @@ professors on both the scope of your proposed project as well as the analytical
 strategy for addressing the challenge. This memo must be submitted via email to
 both Prof. Boichuk and Prof. Mauer no later than March 27 at 3:00 pm.
 
-2. A report of no more than 25 pages, using the stylistic requirements outlined
-in the _Journal of Marketing Research_ Style Guide for formatting purposes (see
-[here][jmr 1] and [here][jmr 2] for details). We will use the [report
+2. A report of no more than 25 pages, 12-point font, double-spaced (excluding references, exhibits, and appendices). We will use the [report
 guidelines](#report-guidelines) below to assess your report and give you
-developmental feedback. Submit your report via GitHub no later than April 22 at
+developmental feedback. Submit your report along with any scripts used to perform your analyses via email no later than April 22 at
 3:00 pm.
 
 3. A presentation of no more than 15 minutes, plus up to 10 minutes of Q&A. An
@@ -228,7 +226,9 @@ and credibly][Zhang and Shaw 2012]; (iv) a breadth and depth of analyses that
 are applied [accurately, collaboratively, and reproducibly][Parker 2017]; and
 (v) [stylish writing][Sword 2012].
 
-There is no one "right" way to organize this report; however, you should think
+Your report should contain the following sections: (1) title page, (2) executive summary, (3) main body (see “Content” above), (4) references, (5) exhibits, and, potentially, (6) appendices. Before you submit your final document, you’ll want to make sure it is as error free as possible, clearly communicated, and professionally designed—i.e., client-ready. Note: Producing client-ready business documents is time consuming. Plan early and revisit often how you will work collaboratively to design, create and deliver your final client documents.
+
+There is no one "right" way to organize the main body of the report; however, you should think
 carefully about what your audience (in this case, Mike and Sarah Keenan) already
 knows and prioritize discussing original analysis that you have conducted over
 general statements about TJL's business, for example. After reading your report,
@@ -286,11 +286,11 @@ include, but are not limited to, BLUF writing, SAS headings/tables/figures, and
 SEC plain English&mdash;are met or exceeded at all times.
 * Tables and figures are all formatted properly and [effectively][Grolemund and
 Wickham 2017, 28.1].
+* Appendices are used appropriately, as needed
 * Every sentence is grammatically correct, and all sentences flow together
 naturally.
 * The report is free of spelling errors.  
-* The *Journal of Marketing Research* Style Guide is adhered to at
-all times (see [here][jmr 1] and [here][jmr 2] for details).
+* All references adhere to the [HBS Citation Guidelines][] (endnotes, reference list)
 * The [Tidyverse Style Guide][] is adhered to at all times in the report's
 [files][style files], [syntax][style syntax], and [pipes][style pipes].
 
@@ -338,6 +338,7 @@ well referenced, and free of errors.
 [Grolemund and Wickham 2017, 12]: https://r4ds.had.co.nz/tidy-data.html
 [Grolemund and Wickham 2017, 28.1]: http://r4ds.had.co.nz/graphics-for-communication.html
 [Hadley 2017]: https://www.rstudio.com/resources/videos/data-science-in-the-tidyverse/
+[HBS Citation Guidelines]:https://www.library.hbs.edu/content/download/49322/file/HBS%20Citation%20Guide%20%202019-20.pdf
 [ibisworld]: http://proxy.its.virginia.edu/login?url=http://www.ibisworld.com/
 [instagram]: https://www.instagram.com/
 [Jaworski and Kohli 1993]: https://pdfs.semanticscholar.org/82e7/864936822e1c97d5ebc9996fab705defcfdb.pdf

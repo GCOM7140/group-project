@@ -19,11 +19,11 @@ society engages in commerce ([Donaldson and Walsh 2015][]) and, as a result,
 customer and text analytics in the first place.
 
 ### Company Overview
-As a brief summary, TJL is an organic juice and smoothie bar with three
-locations, two in Charlottesville, VA, and one in Washington, DC. Founded by UVa
-alumni Mike and Sarah Keenan, TJL's mission is "to inspire healthy, organic,
-powerful change." In-store signage articulates Mike and Sarah's [value
-proposition][] to customers as follows:
+As a brief summary, TJL is an organic juice and smoothie bar with five
+locations, three in Charlottesville, VA, one in Richmond, VA and one in 
+Washington, DC. Founded by UVa alumni Mike and Sarah Keenan, TJL's mission 
+is "to inspire healthy, organic, powerful change." In-store signage articulates 
+Mike and Sarah's [value proposition][] to customers as follows:
 
 > The Juice Laundry was founded on the concept of keeping our bodies clean and
 healthy, starting with what we put into them. Raw, organic fruits and veggies
@@ -133,12 +133,13 @@ recommendations in your final action plan). No grades will be assigned to this
 proposal memo yet it does offer a valuable opportunity to get feedback from your
 professors on both the scope of your proposed project as well as the analytical
 strategy for addressing the challenge. This memo must be submitted via email to
-both Prof. Boichuk and Prof. Mauer no later than March 27 at 3:00 pm.
+both Prof. Boichuk and Prof. Maurer no later than March 27 at 3:00 pm.
 
-2. A report of no more than 25 pages, 12-point font, double-spaced (excluding references, exhibits, and appendices). We will use the [report
+2. A report of no more than 25 pages, 12-point font, double-spaced (excluding 
+references, exhibits, and appendices). We will use the [report
 guidelines](#report-guidelines) below to assess your report and give you
-developmental feedback. Submit your report along with any scripts used to perform your analyses via email no later than April 22 at
-3:00 pm.
+developmental feedback. Submit your report along with any scripts used to perform 
+your analyses via email no later than April 22 at 3:00 pm.
 
 3. A presentation of no more than 15 minutes, plus up to 10 minutes of Q&A. An
 agenda will guide when groups present. Make sure your final presentation title
@@ -146,7 +147,7 @@ gets added to the agenda by submitting it no later than April 16 at 12:30 pm.
 Invited guests, your peers, and your professors will use the [presentation
 guidelines](#presentation-guidelines) below to assess your presentation and give
 you developmental feedback. Submit your slide deck via email to both Prof.
-Boichuk and Prof. Maue no later than April 22 at 3:00 pm.
+Boichuk and Prof. Maurer no later than April 22 at 3:00 pm.
 
 ## Grading Breakdown
 
@@ -156,7 +157,7 @@ courses (Style & Grammar and Presentation Skills) while others may diverge. Your
 professors will independently review and evaluate your report and presentation,
 giving special attention to the portions of your analysis that relate to the
 content covered in each course. They will share their evaluations with each
-other and discuss discrepancies, but it is possible that groups may receive
+other and discuss discrepancies, hence it is possible that groups may receive
 different grades for each class. While the grading categories will be the same
 for both courses, there is a possibility that group performance in some
 categories may be stronger for analyses aligning with one course as compared to
@@ -226,7 +227,13 @@ and credibly][Zhang and Shaw 2012]; (iv) a breadth and depth of analyses that
 are applied [accurately, collaboratively, and reproducibly][Parker 2017]; and
 (v) [stylish writing][Sword 2012].
 
-Your report should contain the following sections: (1) title page, (2) executive summary, (3) main body (see “Content” above), (4) references, (5) exhibits, and, potentially, (6) appendices. Before you submit your final document, you’ll want to make sure it is as error free as possible, clearly communicated, and professionally designed—i.e., client-ready. Note: Producing client-ready business documents is time consuming. Plan early and revisit often how you will work collaboratively to design, create and deliver your final client documents.
+Your report should contain the following sections: (1) title page, (2) executive 
+summary, (3) main body (see “Content” above), (4) references, (5) exhibits, and, 
+potentially, (6) appendices. Before you submit your final document, you’ll want 
+to make sure it is as error free as possible, clearly communicated, and 
+professionally designed—i.e., client-ready. Note: Producing client-ready business 
+documents is time consuming. Plan early and revisit often how you will work 
+collaboratively to design, create and deliver your final client documents.
 
 There is no one "right" way to organize the main body of the report; however, you should think
 carefully about what your audience (in this case, Mike and Sarah Keenan) already

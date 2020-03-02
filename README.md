@@ -41,10 +41,10 @@ We are Transparent. We Leave a Gentle Footprint." Missing in stores, however,
 are trash cans, as 100% of TJL's packaging is either [compostable][] or
 reusable.
 
-For this group project, TJL offers a "[lab of sorts][]," somewhere you can talk
-with business owners, employees, and customers; analyze data; develop and test
-ideas; and, eventually, see the impact of your hard work right in our backyard
-[at the AFC][] and [on the Corner][].
+For this group project, TJL is offering us a "[lab of sorts][]," somewhere you
+can talk with business owners, employees, and customers; analyze data; develop
+and test ideas; and, eventually, see the impact of your hard work right in our
+backyard [at the AFC][] and [on the Corner][].
 
 ### Objectives
 Your objectives are twofold: (1) identify an area of TJL's business that is
@@ -55,12 +55,12 @@ that logically flows from what you learn.
 While developing a list of potential topics to focus on, we encourage you to be
 divergent in your thinking ([Peng 2018][]). Begin today by conducting secondary
 research on platforms such as [Business Source Complete], [Euromonitor],
-[Factiva], and [IBISWorld]. Then, with a better understanding of the landscape
-The Juice Laundry operates in, conduct primary research using online sources,
-such as [Elevate], [Instagram], and [Yelp], and personal interviews, which can
-occur in TJL's and its competitors' storefronts with their permission so long as
-you present yourself as a student doing research for a class project rather than
-an employee of The Juice Laundry.
+[Factiva], [IBISWorld], and [Statista]. Then, with a better understanding of the
+landscape The Juice Laundry operates in, conduct primary research using online
+sources, such as [Elevate], [Instagram], [Yelp], and personal interviews, which
+can occur in TJL's and its competitors' storefronts with their permission so
+long as you present yourself as a student doing research for a class project
+rather than an employee of The Juice Laundry.
 
 These two modes of research will guide you to challenges that TJL is facing
 (e.g., some consumers perceive that TJL offers low [value][Zeithaml 1988]) as
@@ -68,13 +68,13 @@ well as promising alternatives that TJL could consider implementing to address
 these challenges (e.g., launching an advertising campaign focused on educating
 potential customers about the true cost of food).
 
-The datasets we are giving you access to so you can further support your
+Two datasets that we are giving you access to so you can further support your
 decision making with [data-informed insights][Parker 2017/06/06] include:
 
 * The [juicelaundry][] R data package, which has point-of-sale transaction
-details for all of TJL's locations from October 11, 2016 to January 31, 2020, 
-customer survey data, which contains both numeric and text data, and 
-customer-supplied reviews posted to Google.
+details for all of TJL's locations from October 11, 2016 to February 29, 2020,
+customer survey data, which contains both numeric and text data, and customer
+reviews posted to Google.
 * [Google Trends][] data, which can capture relative search interest and
 emerging trends for topics relevant to TJL's business.
 
@@ -113,7 +113,7 @@ is imperative that you demonstrate proper uses of both customer analytics and
 text analytics.
 
 There are no firm requirements for the number of techniques/methods you should
-be performing as part of your analysis; however; groups are encouraged to
+be performing as part of your analysis; however, groups are encouraged to
 evaluate how they may be able to generate recommendations from analyzing numeric
 data, text data, and some combination of both. At a minimum, each group must
 generate at least one meaningful recommendation directly from the analysis of
@@ -128,18 +128,20 @@ formally graded:
 1. A 1-2 page memo outlining your proposed analytical plan. This memo should
 identify the topic that your team will be tackling and offer a high-level
 description of how you plan on addressing that topic (which variables and what
-methods may be appropriate for uncovering insights that can lead to
+methods may be appropriate for uncovering insights that could lead to
 recommendations in your final action plan). No grades will be assigned to this
 proposal memo yet it does offer a valuable opportunity to get feedback from your
 professors on both the scope of your proposed project as well as the analytical
-strategy for addressing the challenge. This memo must be submitted via email to
-both Prof. Boichuk and Prof. Maurer no later than March 27 at 3:00 pm.
+strategy you are proposing to address the challenge you are focused on. This
+memo must be submitted via email to both Prof. Boichuk and Prof. Maurer no later
+than March 27 at 3:00 pm.
 
-2. A report of no more than 25 pages, 12-point font, double-spaced (excluding 
+2. A report of no more than 25 pages, 12-point font, double-spaced (excluding
 references, exhibits, and appendices). We will use the [report
 guidelines](#report-guidelines) below to assess your report and give you
-developmental feedback. Submit your report along with any scripts used to perform 
-your analyses via email no later than April 22 at 3:00 pm.
+developmental feedback. Submit your report along with any scripts and data you
+used to perform your analyses via email to both Prof. Boichuk and Prof. Maurer
+no later than April 22 at 3:00 pm.
 
 3. A presentation of no more than 15 minutes, plus up to 10 minutes of Q&A. An
 agenda will guide when groups present. Make sure your final presentation title
@@ -156,12 +158,11 @@ your presentation. Certain elements of this grade will be consistent across both
 courses (Style & Grammar and Presentation Skills) while others may diverge. Your
 professors will independently review and evaluate your report and presentation,
 giving special attention to the portions of your analysis that relate to the
-content covered in each course. They will share their evaluations with each
-other and discuss discrepancies, hence it is possible that groups may receive
+content covered in their courses. They will share their evaluations with each
+other and discuss discrepancies; hence, it is possible that groups may receive
 different grades for each class. While the grading categories will be the same
-for both courses, there is a possibility that group performance in some
-categories may be stronger for analyses aligning with one course as compared to
-the other.
+for both courses, group performance in some categories may be stronger for
+analyses aligning with one course as compared to the other.
 
 The following table summarizes the breakdown of how final project grades will be
 determined:
@@ -171,17 +172,16 @@ Grading Component          | Percentage of Total Grade|
 Decision-making principles |	15%                     |
 Data                       |	15%                     |
 Methods                    |	25%                     |
-Action Plan	               |  20%                     |
-Report Style & Grammar     |	10%                     |
+Action plan	               |  20%                     |
+Report style & grammar     |	10%                     |
 Presentation skills        |	15%                     |
-
 
 ## Proposal Guidelines
 Your proposal should outline your plan for this group project and describe:
 
-1. The topic or primary research question that you plan to focus on 
+1. The topic or primary research question that you plan to focus on. 
 2. The data (i.e., datasets, rows, and columns) that you plan to analyze.
-3. The analytical procedures you believe will be appropriate for developing
+3. The analytical procedures that you believe will be appropriate for developing
 insights and recommendations from the data you plan on analyzing.
 
 There is no one "right" way to organize this proposal; however, you should make
@@ -205,8 +205,8 @@ new-to-the-world tidy datasets. You could supplement the `menu_item` and `sku`
 datasets in the juicelaundry package with comparable datasets for a competitor,
 such as Corner Juice, for example, if doing so would aid your decision making.
 
-For the third requirement, some questions we want to see you convey answers to
-include: how do you plan on analyzing these datasets (i.e., with what methods?),
+For the third requirement, two questions we want to see you convey answers to
+include: How do you plan on analyzing these datasets (i.e., with what methods?),
 and what artifacts (e.g., graphics and model estimates) do you plan on
 producing?
 
@@ -214,8 +214,8 @@ There is no grade associated with your proposal memo; however, this is an
 opportunity to gain valuable feedback on the approach you have devised to
 satisfy the project requirements. Your professors will review your proposal memo
 in detail and provide feedback meant to guide you toward a high-quality final
-deliverable. If appropriate, a meeting may be scheduled to discuss the proposal
-in more detail and set your group on a path toward success.
+deliverable. If appropriate, a meeting may be scheduled to discuss your proposal
+in more detail and ensure that your group is on a path toward success.
 
 ## Report Guidelines
 
@@ -227,25 +227,27 @@ and credibly][Zhang and Shaw 2012]; (iv) a breadth and depth of analyses that
 are applied [accurately, collaboratively, and reproducibly][Parker 2017]; and
 (v) [stylish writing][Sword 2012].
 
-Your report should contain the following sections: (1) title page, (2) executive 
-summary, (3) main body (see “Content” above), (4) references, (5) exhibits, and, 
-potentially, (6) appendices. Before you submit your final document, you’ll want 
-to make sure it is as error free as possible, clearly communicated, and 
-professionally designed—i.e., client-ready. Note: Producing client-ready business 
-documents is time consuming. Plan early and revisit often how you will work 
-collaboratively to design, create and deliver your final client documents.
+Your report should contain the following sections: (1) title page, (2) executive
+summary, (3) main body, (4) references, (5) exhibits, and, potentially, (6)
+appendices. Before you submit your final document, you will want to make sure it
+is as error free as possible, clearly communicated, and professionally
+designed&mdash;i.e., client-ready. Note: Producing client-ready business
+documents is time consuming. Plan early and review your progress often to make
+sure that you are working collaboratively to design, create, and deliver a final
+client-ready document.
 
-There is no one "right" way to organize the main body of the report; however, you should think
-carefully about what your audience (in this case, Mike and Sarah Keenan) already
-knows and prioritize discussing original analysis that you have conducted over
-general statements about TJL's business, for example. After reading your report,
-we will use the following guidelines to assess your work and provide you with
-developmental feedback. Internalizing these guidelines will help you develop a
-report worthy of an exemplary grade.
+There is no one "right" way to organize the main body of the report; however,
+you should think carefully about what your audience (in this case, Mike and
+Sarah Keenan) already knows and prioritize discussing original analysis that you
+have conducted over general statements about TJL's business, for example. 
+
+After reading your report, we will use the following guidelines to assess your
+work and provide you with developmental feedback. Internalizing these guidelines
+will help you develop a report worthy of an exemplary grade.
 
 ### Decision-Making Principles (15%)
-* Cogent reasoning explains why the major topic being considered has an
-impressive [anatomy][Colquitt and George 2011].
+* Cogent reasoning explains why the topic being considered has an impressive
+[anatomy][Colquitt and George 2011].
 * The long-term, detrimental implications of inaction for The Juice Laundry are
 argued concretely.
 * The proposed course of action is very well reasoned.
@@ -264,8 +266,8 @@ core topic from multiple angles using a mixture of numeric and text data.
 * A breadth and depth of techniques covered in [R for Data Science][Grolemund
 and Wickham 2017] and [Text Mining With R][Silge and Robinson 2017] are applied 
 [accurately, collaboratively, and reproducibly][Parker 2017].
-* Techniques performed complement one another and create synergies that offer 
-deeper insights than the individual analyses may offer independently.
+* The techniques being performed complement one another and create synergies
+that offer deeper insights than the individual analyses may offer independently.
 * A knowledgeable individual could [reproduce][Peng 2011] the report's findings
 with ease, because the group's submission provides access to not only the
 report, but also self-contained, executable code and the data being analyzed.
@@ -280,7 +282,7 @@ phenomena][Grolemund and Wickham 2017, 3.3].
 discussed expansively.
 * The overall recommendation being proposed is creative (i.e., novel and
 useful).
-* Recommendations stem from analytical results, thus providing legitimacy to the
+* Recommendations stem from analytical results, which provides legitimacy to the
 action plan.
 * Goals related to consumers' attitudes, emotions, and/or actions as well as to
 TJL's triple bottom line (i.e., profits, people, and the planet) are set in
@@ -293,24 +295,27 @@ include, but are not limited to, BLUF writing, SAS headings/tables/figures, and
 SEC plain English&mdash;are met or exceeded at all times.
 * Tables and figures are all formatted properly and [effectively][Grolemund and
 Wickham 2017, 28.1].
-* Appendices are used appropriately, as needed
+* Appendices are used appropriately and as needed.
 * Every sentence is grammatically correct, and all sentences flow together
 naturally.
 * The report is free of spelling errors.  
-* All references adhere to the [HBS Citation Guidelines][] (endnotes, reference list)
-* The [Tidyverse Style Guide][] is adhered to at all times in the report's
-[files][style files], [syntax][style syntax], and [pipes][style pipes].
+* All references, including endnotes and reference list entries, adhere to the
+[HBS Citation Guidelines][].
+* The [Tidyverse Style Guide][] is adhered to at all times with respect to the
+report's [files][style files], [syntax][style syntax], and [pipes][style pipes].
 
 ## Presentation Guidelines
 Your group should prepare your presentation as you would if you were presenting
 to Mike and Sarah in "the real world," with the goal of persuading them to
 pursue the action plan you are advancing. Ask for the highest realistic level of
-commitment you can, and try your best to receive their approval.
+commitment you can at the end of your presentation, and try your best to receive
+their approval.
 
 After listening to your presentation, invited guests, your peers, and your
 professors will use the following guidelines to assess it and give you
 developmental feedback. Internalizing these guidelines will help you deliver a
-presentation worthy of an exemplary grade (worth 15% of the project grade).
+presentation, which constitutes 15% of the group project grade, that is worthy
+of an exemplary grade.
 
 * The group built a case for the action plan they proposed with a breadth and
 depth of well-principled analyses that motivated me to accept their claims.
@@ -368,6 +373,7 @@ well referenced, and free of errors.
 [slogan]: https://www.instagram.com/p/Bf_D0ZRHzEL/?taken-by=thejuicelaundry
 [Sotos 2006]: https://en.wikipedia.org/wiki/Zebra_(medicine)
 [Sword 2012]: https://smile.amazon.com/Stylish-Academic-Writing-Helen-Sword/dp/0674064488/ref=sr_1_1?s=books&ie=UTF8&qid=1522530104&sr=1-1&keywords=stylish+academic+writing
+[statista]: http://proxy01.its.virginia.edu/login?url=https://www.statista.com
 [style files]: https://style.tidyverse.org/files.html 
 [style pipes]: https://style.tidyverse.org/pipes.html
 [style syntax]: https://style.tidyverse.org/syntax.html

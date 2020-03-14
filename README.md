@@ -58,9 +58,9 @@ research on platforms such as [Business Source Complete], [Euromonitor],
 [Factiva], [IBISWorld], and [Statista]. Then, with a better understanding of the
 landscape The Juice Laundry operates in, conduct primary research using online
 sources, such as [Elevate], [Instagram], [Yelp], and personal interviews, which
-can occur in TJL's and its competitors' storefronts with their permission so
+can occur with TJL's and its competitors' employees with their permission so
 long as you present yourself as a student doing research for a class project
-rather than an employee of The Juice Laundry.
+rather than as an employee of The Juice Laundry.
 
 These two modes of research will guide you to challenges that TJL is facing
 (e.g., some consumers perceive that TJL offers low [value][Zeithaml 1988]) as
@@ -122,8 +122,8 @@ the results of a text analysis into a model/procedure that also utilizes other
 numeric customer data being provided to you.
 
 ## Deliverables
-There are three key deliverables for the group project, two of which will be
-formally graded:
+There are ~~three~~ two key deliverables for the group project, ~~two~~ one of
+which will be formally graded:
 
 1. A 1-2 page memo outlining your proposed analytical plan. This memo should
 identify the topic that your team will be tackling and offer a high-level
@@ -134,7 +134,7 @@ proposal memo yet it does offer a valuable opportunity to get feedback from your
 professors on both the scope of your proposed project as well as the analytical
 strategy you are proposing to address the challenge you are focused on. This
 memo must be submitted via email to both Prof. Boichuk and Prof. Maurer no later
-than March 27 at 3:00 pm.
+than ~~March 27~~ April 3 at 3:00 pm.
 
 2. A report of no more than 25 pages, 12-point font, double-spaced (excluding
 references, exhibits, and appendices). We will use the [report
@@ -143,38 +143,39 @@ developmental feedback. Submit your report along with any scripts and data you
 used to perform your analyses via email to both Prof. Boichuk and Prof. Maurer
 no later than April 22 at 3:00 pm.
 
-3. A presentation of no more than 15 minutes, plus up to 10 minutes of Q&A. An
+3. ~~A presentation of no more than 15 minutes, plus up to 10 minutes of Q&A. An
 agenda will guide when groups present. Make sure your final presentation title
 gets added to the agenda by submitting it no later than April 16 at 12:30 pm.
 Invited guests, your peers, and your professors will use the [presentation
 guidelines](#presentation-guidelines) below to assess your presentation and give
 you developmental feedback. Submit your slide deck via email to both Prof.
-Boichuk and Prof. Maurer no later than April 22 at 3:00 pm.
+Boichuk and Prof. Maurer no later than April 22 at 3:00 pm.~~
 
 ## Grading Breakdown
 
-Your final grade for the project will be determined from both the report and
-your presentation. Certain elements of this grade will be consistent across both
-courses (Style & Grammar and Presentation Skills) while others may diverge. Your
-professors will independently review and evaluate your report and presentation,
-giving special attention to the portions of your analysis that relate to the
-content covered in their courses. They will share their evaluations with each
-other and discuss discrepancies; hence, it is possible that groups may receive
-different grades for each class. While the grading categories will be the same
-for both courses, group performance in some categories may be stronger for
-analyses aligning with one course as compared to the other.
+Your final grade for the project will be determined based on ~~both~~ the
+report~~ and your presentation~~. Certain elements of this grade will be
+consistent across both courses (Style & Grammar~~ and Presentation Skills~~)
+while others may diverge. Your professors will independently review and evaluate
+your report~~ and presentation~~, giving special attention to the portions of
+your analysis that relate to the content covered in their courses. They will
+share their evaluations with each other and discuss discrepancies; hence, it is
+possible that groups may receive different grades for each class. While the
+grading categories will be the same for both courses, group performance in some
+categories may be stronger for analyses aligning with one course as compared to
+the other.
 
 The following table summarizes the breakdown of how final project grades will be
 determined:
 
 Grading Component          | Percentage of Total Grade|
 ---------------------------|:------------------------:|
-Decision-making principles |	15%                     |
+Decision-making principles |	~~15%~~ 20%             |
 Data                       |	15%                     |
 Methods                    |	25%                     |
-Action plan	               |  20%                     |
-Report style & grammar     |	10%                     |
-Presentation skills        |	15%                     |
+Action plan	               |  ~~20%~~ 25%             |
+Report style & grammar     |	~~10%~~ 15%             |
+~~Presentation skills~~    |	~~15%~~                 |
 
 ## Proposal Guidelines
 Your proposal should outline your plan for this group project and describe:
@@ -245,7 +246,7 @@ After reading your report, we will use the following guidelines to assess your
 work and provide you with developmental feedback. Internalizing these guidelines
 will help you develop a report worthy of an exemplary grade.
 
-### Decision-Making Principles (15%)
+### Decision-Making Principles (~~15%~~ 10%)
 * Cogent reasoning explains why the topic being considered has an impressive
 [anatomy][Colquitt and George 2011].
 * The long-term, detrimental implications of inaction for The Juice Laundry are
@@ -276,7 +277,7 @@ phenomena][Grolemund and Wickham 2017, 3.3].
 * Hoofbeats are interpreted as signs of horses not [zebras][Sotos 2006].  
 * Statements about methodological limitations are made at appropriate times.
 
-### Action Plan (20%)
+### Action Plan (~~20%~~ 25%)
 * All relevant elements of the marketing mix are covered in detail.  
 * What needs to be done (i.e., who, when, what, where, why, and how) is
 discussed expansively.
@@ -289,7 +290,7 @@ TJL's triple bottom line (i.e., profits, people, and the planet) are set in
 [specific, measurable, achievable, relevant, and time-bound][Miller 2018] ways
 in order to establish expected results.
 
-### Style \& Grammar (10%)
+### Style \& Grammar (~~10%~~ 15%)
 * The expectations that Prof. Patterson set in Communication&mdash;which
 include, but are not limited to, BLUF writing, SAS headings/tables/figures, and
 SEC plain English&mdash;are met or exceeded at all times.
@@ -304,31 +305,31 @@ naturally.
 * The [Tidyverse Style Guide][] is adhered to at all times with respect to the
 report's [files][style files], [syntax][style syntax], and [pipes][style pipes].
 
-## Presentation Guidelines
-Your group should prepare your presentation as you would if you were presenting
-to Mike and Sarah in "the real world," with the goal of persuading them to
-pursue the action plan you are advancing. Ask for the highest realistic level of
-commitment you can at the end of your presentation, and try your best to receive
-their approval.
+## ~~Presentation Guidelines~~
+~~Your group should prepare your presentation as you would if you were
+presenting to Mike and Sarah in "the real world," with the goal of persuading
+them to pursue the action plan you are advancing. Ask for the highest realistic
+level of commitment you can at the end of your presentation, and try your best
+to receive their approval.~~
 
-After listening to your presentation, invited guests, your peers, and your
+~~After listening to your presentation, invited guests, your peers, and your
 professors will use the following guidelines to assess it and give you
 developmental feedback. Internalizing these guidelines will help you deliver a
 presentation, which constitutes 15% of the group project grade, that is worthy
-of an exemplary grade.
+of an exemplary grade.~~
 
-* The group built a case for the action plan they proposed with a breadth and
-depth of well-principled analyses that motivated me to accept their claims.
-* The group discussed the data they analyzed in a [simple, easy-to-understand
-way][Allen 2017].
-* The group was captivating, edutaining, and eye-catching, a "[fusion of
-scientific rigor with canny attention-grabbing][Allen 2017]."
-* The group presented as a team (i.e., their contributions were comparable and
-complementary).
-* The group's slides were [self-explanatory][Grolemund and Wickham 2017, 28.1],
-well referenced, and free of errors.
-* The group responded to questions and reservations [appropriately][Jolles
-2013].
+* ~~The group built a case for the action plan they proposed with a breadth and
+depth of well-principled analyses that motivated me to accept their claims.~~
+* ~~The group discussed the data they analyzed in a [simple, easy-to-understand
+way][Allen 2017].~~
+* ~~The group was captivating, edutaining, and eye-catching, a "[fusion of
+scientific rigor with canny attention-grabbing][Allen 2017]."~~
+* ~~The group presented as a team (i.e., their contributions were comparable and
+complementary).~~
+* ~~The group's slides were [self-explanatory][Grolemund and Wickham 2017,
+28.1], well referenced, and free of errors.~~
+* ~~The group responded to questions and reservations [appropriately][Jolles
+2013].~~
 
 [agenda]: https://github.com/GCOM7140/group-project/blob/master/agenda.md#customer-analytics-group-project-presentations
 [Allen 2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655

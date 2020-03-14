@@ -134,7 +134,7 @@ proposal memo yet it does offer a valuable opportunity to get feedback from your
 professors on both the scope of your proposed project as well as the analytical
 strategy you are proposing to address the challenge you are focused on. This
 memo must be submitted via email to both Prof. Boichuk and Prof. Maurer no later
-than ~~March 27~~ April 3 at 3:00 pm.
+than ~~March 27~~ April 1 at 3:00 pm.
 
 2. A report of no more than 25 pages, 12-point font, double-spaced (excluding
 references, exhibits, and appendices). We will use the [report

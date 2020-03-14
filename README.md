@@ -246,7 +246,7 @@ After reading your report, we will use the following guidelines to assess your
 work and provide you with developmental feedback. Internalizing these guidelines
 will help you develop a report worthy of an exemplary grade.
 
-### Decision-Making Principles (~~15%~~ 10%)
+### Decision-Making Principles (~~15%~~ 20%)
 * Cogent reasoning explains why the topic being considered has an impressive
 [anatomy][Colquitt and George 2011].
 * The long-term, detrimental implications of inaction for The Juice Laundry are

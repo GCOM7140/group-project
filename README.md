@@ -154,10 +154,10 @@ Boichuk and Prof. Maurer no later than April 22 at 3:00 pm.~~
 ## Grading Breakdown
 
 Your final grade for the project will be determined based on ~~both~~ the
-report~~ and your presentation~~. Certain elements of this grade will be
-consistent across both courses (Style & Grammar~~ and Presentation Skills~~)
+report ~~and your presentation~~. Certain elements of this grade will be
+consistent across both courses (Style & Grammar ~~and Presentation Skills~~)
 while others may diverge. Your professors will independently review and evaluate
-your report~~ and presentation~~, giving special attention to the portions of
+your report ~~and presentation~~, giving special attention to the portions of
 your analysis that relate to the content covered in their courses. They will
 share their evaluations with each other and discuss discrepancies; hence, it is
 possible that groups may receive different grades for each class. While the

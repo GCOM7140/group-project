@@ -57,10 +57,10 @@ divergent in your thinking ([Peng 2018][]). Begin today by conducting secondary
 research on platforms such as [Business Source Complete], [Euromonitor],
 [Factiva], [IBISWorld], and [Statista]. Then, with a better understanding of the
 landscape The Juice Laundry operates in, conduct primary research using online
-sources, such as [Elevate], [Instagram], [Yelp], and personal interviews, which
-can occur with TJL's and its competitors' employees with their permission so
-long as you present yourself as a student doing research for a class project
-rather than as an employee of The Juice Laundry.
+sources, such as [Elevate], [Instagram], and [Yelp]~~, and personal interviews,
+which can occur with TJL's and its competitors' customers with their permission
+so long as you present yourself as a student doing research for a class project
+rather than as an employee of The Juice Laundry.~~
 
 These two modes of research will guide you to challenges that TJL is facing
 (e.g., some consumers perceive that TJL offers low [value][Zeithaml 1988]) as

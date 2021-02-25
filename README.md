@@ -130,6 +130,7 @@ project as well as the analytical strategy you are proposing to implement. This
 memo must be submitted via email to both Prof. Boichuk and Prof. Maurer no later
 than April 2 at 5:00 pm.
 
+### Final Deliverables
 3. A report of no more than 25 pages, 12-point font, double-spaced (excluding
 references, exhibits, and appendices). We will use the [report
 guidelines](#report-guidelines) below to assess your report and give you

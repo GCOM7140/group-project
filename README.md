@@ -212,22 +212,22 @@ serve as a "Team Charter" to help hold all team members accountable for the work
 they contribute to the final deliverable.
 
 In terms of the second question, you will not have access to most of the data
-outlined in the Data and Methods Advice section of this group project
-description when you compile this memo. However, you will be provided with data
-models/dictionaries that describe all of the data that will be available to you.
-Using these data models, formulate a plan for how you will begin exploring the
-data such that you can gain a deeper understanding of the business and the
-challenges Mike and Sarah have tasked you with addressing. This process will
-involve thinking about how to best combine disparate data, initial queries you
-might execute to extract data for exploratory analysis, and answers you hope to
-find such that you can begin refining the scope of your efforts for the
-remainder of the project.
+outlined in the [Data and Methods Advice](#Data and Methods Advice) section of 
+this group project description when you compile this memo. However, you will be 
+provided with data models/dictionaries that describe all of the data that will 
+be available to you. Using these data models, formulate a plan for how you will 
+begin exploring the data such that you can gain a deeper understanding of the 
+business and the challenges Mike and Sarah have tasked you with addressing. This 
+process will involve thinking about how to best combine disparate data, initial 
+queries you might execute to extract data for exploratory analysis, and answers 
+you hope to find such that you can begin refining the scope of your efforts for 
+the remainder of the project.
 
 For the third question, there is no requirement that you analyze additional data
-not provided by your professors.  However, final submissions that exceed
-expectations will incorporate some form of additional, external data. At this
-stage, you should simply think about what data may assist you in developing a
-more robust recommendation for TJL. Your professors will most likely not have
+beyond what is provided by your professors.  However, final submissions that 
+exceed expectations will incorporate some form of additional, external data. At 
+this stage, you should simply think about what data may assist you in developing 
+a more robust recommendation for TJL. Your professors will most likely not have
 this data readily available and it will be your responsibility to gather it. As
 such, an informal cost-benefit analysis is necessary: Is the additional time
 spent collecting, cleaning, and analyzing this data worth the additional

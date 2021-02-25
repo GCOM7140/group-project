@@ -68,18 +68,22 @@ insights][Parker 2017/06/06].
 
 ### Data and Methods Advice
 As you get started on this project, we encourage you to be divergent in your
-thinking ([Peng 2018][]). Begin today by conducting secondary research on
+thinking (see [Peng 2018][]). Begin today by conducting secondary research on
 platforms such as [Business Source Complete], [Euromonitor], [Factiva],
-[IBISWorld], and [Statista]. Then, with a better understanding of the industry
-and landscape that The Juice Laundry operates in, conduct primary research via
-relevant online sites, such as [Elevate], [Instagram], and [Yelp].
+[IBISWorld], [Statista], and other platforms (see the [Commerce LibGuide] for
+options). Then, with a better understanding of the industry and landscape that
+TJL operates in, conduct primary research via relevant online sites, such as
+[Elevate], [Instagram], and [Yelp].
 
 In class, we will analyze the following data sets:  
 
-* The [juicelaundry][] R data package, which includes point-of-sale transaction
-details for TJL's locations on the Corner and in the AFC, as well as information about a set of juice and smoothie bars' Instagram accounts and the engagement
-they have generated from their posts.  
-* Google Review data, which contains the text comments and star rating of all reviews posted to Google Maps/Places for The Juice Laundry and selected other juice and smoothie bars.
+* The {juicelaundry} data package, which includes point-of-sale transaction
+details for TJL's locations on the Corner and in the AFC, as well as information
+about a select set of other juice and smoothie bars' Instagram accounts and the
+engagement they have generated from their posts.
+* Google Review data, which contains the text comments and star rating of all
+reviews posted to Google Maps/Places for TJL and a select set of other juice and
+smoothie bars.
 * [Google Trends][] data, which can capture relative search interest and
 emerging trends for topics that are relevant to TJL's business.
 
@@ -92,7 +96,7 @@ Whitenack 2017] of your data parsimoniously and to define the variables you
 analyze [clearly, completely, and credibly][Zhang and Shaw 2012].
 
    __Pro tip__: Be [radically open minded]&mdash;and [productively
-   stupid][Schwartz 2008]&mdash;from the get go and strive not to let
+   stupid][Schwartz 2008]&mdash;from the get go and strive to not let
    confirmation bias contaminate your findings as you make sense of the market
    that TJL operates in ([Gallo 2017][]).
 
@@ -107,43 +111,55 @@ so it is imperative that you demonstrate proper uses of methods being covered in
 both courses. There are no firm requirements for the number of techniques you
 need to perform as part of your analysis; however, we encourage you to generate
 recommendations from the analysis of numeric data, text data, and some
-combination of both. We also strongly urge you to identify and act on
+combination of both. As such, we strongly encourage you to identify and act on
 opportunities to incorporate the results of text analyses into models/procedures
-that utilize the numeric customer data being provided to you.
+that utilize numeric customer data.
 
 ## Deliverables
-There are a total of four key deliverables for the group project, two of which will serve as status checks and two that will be
-formally graded:
+There are a total of four key deliverables for the group project, two of which
+will serve as status checks and two that will be formally graded:
 
 ### Status Checks
-1.  A 1-2 page memo outlining your team’s high-level strategy for organizing itself and preparing for data analysis.  This memo will serve as a written representation of your team’s journey through the [business understanding][] phase of TDSP. To prepare this memo, teams must first discuss each team member’s strengths and weaknesses to establish where each team member may productively contribute to the final deliverables.  Teams must then review the data models/dictionaries provided to them and chart a path for how to perform exploratory data analysis.  There is no formal grade for this deliverable, rather it will be used as a mechanism for ensuring accountability within the team and for general guidance from your professor to maximize the efficiency by which you begin the data exploration process. This memo will be evaluated only by Professor Maurer as it aligns with the processes specific to the Big Data and Text Analytics course.  Memos should be submitted via email to Professor Maurer no later than 5:00 PM on March 19
+1.  A 1-2 page memo outlining your team's high-level strategy for organizing
+itself and preparing for data analysis. This memo will serve as a written
+representation of your team's journey through the [business understanding][]
+phase of TDSP. To prepare this memo, teams must first discuss each team member's
+strengths and weaknesses to establish where each team member may productively
+contribute to the final submissions. Teams must then review the data
+models/dictionaries provided to them and chart a path for how to perform
+exploratory data analysis. There is no formal grade for this deliverable, rather
+it will be used as a mechanism for ensuring accountability within the team and
+for general guidance from your professor to maximize the efficiency by which you
+begin the data exploration process. This memo will be evaluated only by
+Professor Maurer, as it aligns with processes specific to Big Data & Text
+Analytics.  Memos should be submitted via email to Professor Maurer no later
+than 5:00 pm on March 19.
 
 2.  A 1-2 page memo outlining one or two potential ideas for your Instagram
 campaign, and preliminary analyses (based on secondary and primary data) that
 could serve as the foundation for your proposed path(s) forward. This memo
 should offer a high-level description of how you plan to create a data-informed
-Instagram campaign. Which variables and methods you plan to leverage to uncover
-insights, and how might these insights come to life in your Instagram campaign?
-No grade will be assigned to this memo. However, it does offer a valuable
-opportunity for you to get feedback from us on both the scope of your proposed
-project as well as the analytical strategy you are proposing to implement. This
-memo must be submitted via email to both Prof. Boichuk and Prof. Maurer no later
-than April 2 at 5:00 pm.
+Instagram campaign. Which variables and methods do you plan to leverage to
+uncover insights, and how might these insights come to life in your Instagram
+campaign? No grade will be assigned to this memo. However, it does offer a
+valuable opportunity for you to get feedback from us on both the scope of your
+proposed project as well as the analytical strategy you are proposing to
+implement. This memo must be submitted via email to both Prof. Boichuk and Prof.
+Maurer no later than 5:00 pm on April 2.
 
-### Final Deliverables
+### Final Submissions
 3. A report of no more than 25 pages, 12-point font, double-spaced (excluding
 references, exhibits, and appendices). We will use the [report
 guidelines](#report-guidelines) below to assess your report and give you
 developmental feedback. Submit your report along with any scripts and data you
 used to perform your analyses via email to both Prof. Boichuk and Prof. Maurer
-no later than May 2 at 5:00 pm.
+no later than 5:00 pm on May 2.
 
 4. A presentation of no more than 20 minutes, plus up to 10 minutes of Q&A. An
 agenda will guide when groups present. Your peers and your professors will use
 the [presentation guidelines](#presentation-guidelines) below to assess your
 presentation and give you developmental feedback. Submit your slide deck via
-email to both Prof. Boichuk and Prof. Maurer no later than May 2 at 5:00 pm.
-
+email to both Prof. Boichuk and Prof. Maurer no later than 5:00 pm on May 2.
 
 ## Grading Breakdown
 
@@ -171,22 +187,65 @@ Report style & grammar     |	10%                     |
 Presentation skills        |	15%                     |
 
 ## Status Check #1 Guidelines
-This memo will ultimatelly address three primary questions:
-1. How will your team be organized and what roles will each team member assume to ensure a high-quality final deliverable?
+This memo will ultimately address three primary questions:
+1. How will your team be organized and what roles will each team member assume
+to ensure a high-quality final deliverable?
 2. How will you approach the data exploration phase of the project?
-3. Are there any additional data points that may assist you in delivering an impactful recommendation to The Juice Laundry?
+3. Are there any additional data points that may assist you in delivering an
+impactful recommendation to TJL?
 
-In terms of point number one, you should have a reasonably strong working relationship with your group after your experiences working as a group in GCOM 7240.  At the end of the project, each team member will be asked to evaluate themselves and their teammates on whether they have a legitimate claim to ownership of the final deliverable.  Take this opportunity to plan how each team member will actively engage and establish a claim to ownership of the finished product. Your group is undoubtedly composed of analysts, thinkers, and writers at different stages of their respective journeys. In fact, it’s natural for group members to assume different roles, make unique contributions, and even go above and beyond at different points in time. While there are no pre-defined titles or roles you are expected to adhere to, share with one another your passions for where you want to contribute and document them in this memo.  Teams are encouraged to rotate responsibilities such that they have an opportunity to engage more deeply in an area where another teammate took the lead on previous group work.  This will serve as a "Team Charter" to help hold all team members accountable for the work they will contribute to the final deliverable.
+In terms of point number one, you should have a reasonably strong working
+relationship with your group based on your experiences in GCOM 7240. At the end
+of the project, each team member will be asked to evaluate themselves and their
+teammates on whether they have a legitimate claim to ownership of the final
+submissions. Take this opportunity to plan how each team member will actively
+engage and establish a claim to ownership of the finished product. Your group is
+undoubtedly composed of analysts, thinkers, and writers at different stages of
+their respective journeys. In fact, it's natural for group members to assume
+different roles, make unique contributions, and even go above and beyond at
+different points in time. While there are no pre-defined titles or roles you are
+expected to adhere to, share with one another your passions for where you want
+to contribute and document them in this memo. Teams are encouraged to rotate
+responsibilities such that they have an opportunity to engage more deeply in an
+area where another teammate took the lead on previous group work. This will
+serve as a "Team Charter" to help hold all team members accountable for the work
+they contribute to the final deliverable.
 
-In terms of the second question, you will not have access to the data when you compile this memo.  However, you will be provided with data models/dictionaries that describe the data that is available to you.  Using these data models, formulate a plan for how to begin exploring the data such that you can gain a deeper understanding of the business and the challenges they have tasked you with addressing.  This will involve thinking about how to best combine disparate data, the types of initial queries to execute to extract data for exploratory analysis, and what answers you hope to find such that you can begin refining the scope of your efforts for the remainder of the project.
+In terms of the second question, you will not have access to most of the data
+outlined in the Data and Methods Advice section of this group project
+description when you compile this memo. However, you will be provided with data
+models/dictionaries that describe all of the data that will be available to you.
+Using these data models, formulate a plan for how you will begin exploring the
+data such that you can gain a deeper understanding of the business and the
+challenges Mike and Sarah have tasked you with addressing. This process will
+involve thinking about how to best combine disparate data, initial queries you
+might execute to extract data for exploratory analysis, and answers you hope to
+find such that you can begin refining the scope of your efforts for the
+remainder of the project.
 
-For the third question, there is no requirement that you analyze additional data not provided by your professors.  However, deliverables that exceed expectations will incorporate some form of additional, external data.  At this stage, you should simply think about what data may assist in developing a more robust recommendation for The Juice Laundry.  Your professors will most likely not have this data readily available and it will be your responsibility to gather additional data.  As such an informal cost-benefit analysis is necessary: Is the additional time spent collecting, cleaning, and analyzing this data worth the additional insights that may emerge from it?  In many cases, the costs will exceed the benefits, but you are still encouraged to think about the topics covered in Big Data and Text Analytics and how a business like the Juice Laundry could yield greater insights from a variety of data sources.
+For the third question, there is no requirement that you analyze additional data
+not provided by your professors.  However, final submissions that exceed
+expectations will incorporate some form of additional, external data. At this
+stage, you should simply think about what data may assist you in developing a
+more robust recommendation for TJL. Your professors will most likely not have
+this data readily available and it will be your responsibility to gather it. As
+such, an informal cost-benefit analysis is necessary: Is the additional time
+spent collecting, cleaning, and analyzing this data worth the additional
+insights that may emerge from it? In many cases, the costs will exceed the
+benefits, but you are still encouraged to think about the topics covered in Big
+Data & Text Analytics and how a business like TJL could yield greater insights
+from a variety of data sources.
 
-This memo will only need to be addressed to Professor Maurer as it specifically relates to the concepts covered in your Big Data course.  No grade will be awarded, however this is a great opportunity to receive valuable feedback on how to efficiently begin analyzing data in preparation for your second status check.
+This memo will only need to be addressed to Professor Maurer as it specifically
+relates to concepts covered in Big Data & Text Analytics. No grade will be
+awarded; however, this is a great opportunity to receive valuable feedback on
+how you can efficiently begin analyzing data in preparation for your second
+status check.
 
 
 ## Status Check #2 Guidelines
-This memo should refine your original plan based on your initial exploration of the data.  Specifically, the memo must describe:
+This memo should refine your original plan based on your initial exploration of
+the data.  Specifically, it should describe:
 
 1. One or two potential ideas for your Instagram campaign. 
 2. The data (i.e., data sets, rows, and columns) that you plan to analyze.
@@ -201,16 +260,17 @@ has thought critically, and in a divergent manner, about TJL's business. Your
 idea(s) should have the potential to become a concrete, comprehensive, and
 convincing Instagram campaign that logically stems from data-informed insights.
 
-Regarding the second requirement for the memo, we want to see that you have more
-than a surface-level understanding of the [juicelaundry point-of-sale
-data][juicelaundry], Google Review data, and [Google Trends data][Google
-Trends], all of which you are being trained to analyze. At a minimum, you should
-have already thought about and experimented with some`filter()` and `mutate()` statements that will
-get these datasets into the forms you need them in. This is why it is important
+Regarding the second requirement for this memo, we want to see that you have
+more than a surface-level understanding of the {juicelaundry} point-of-sale
+data, Google Review data, and [Google Trends][Google Trends] data, all of which
+you are being trained to analyze. At a minimum, you should have already thought
+about and experimented with some`filter()` and `mutate()` statements that will
+get these data sets into the forms you need them in. This is why it is important
 to not only describe your analysis but also describe the data you intend to use.
-Although not required, it will be exemplary if you describe any new-to-the-world tidy datasets that you compiled since composing your first status check memo. For example, you
-could supplement the `menu_item` and `sku` datasets in the juicelaundry package
-with comparable datasets for a competitor, such as Corner Juice, for example, if
+Although not required, it will be exemplary if you describe any new-to-the-world
+tidy datasets that you compiled since composing your first status check memo.
+For example, you could supplement the `sku` data set in the {juicelaundry}
+package with comparable datas ets for a competitor, such as Corner Juice, if
 doing so would aid your decision making.
 
 For the third requirement, two questions we want to see you convey answers to
@@ -218,12 +278,12 @@ include: How do you plan on analyzing these data sets (i.e., with what
 methods?), and what artifacts (e.g., graphics and model estimates) do you plan
 on producing?
 
-Again, there is no grade associated with your proposal memo; however, this is an
+Again, there is no grade associated with this status check; however, this is an
 opportunity to gain valuable feedback on the approach you have devised to
-satisfy the project requirements. Your professors will review your proposal memo
-in detail and provide feedback meant to guide you toward a high-quality final
-deliverable. If appropriate, a meeting may be scheduled to discuss your proposal
-in more detail and ensure that your group is on a path toward success.
+satisfy the project requirements. Your professors will review your memo in
+detail and provide feedback meant to guide you toward a high-quality final
+report and presentation. If appropriate, a meeting may be scheduled to discuss
+your memo in more detail and ensure that your group is on a path toward success.
 
 ## Report Guidelines
 
@@ -240,7 +300,7 @@ appendices. Before you submit your final document, make sure it is as error free
 as possible, clearly communicated, and professionally designed&mdash;i.e.,
 client-ready. Note: Producing client-ready business documents is time consuming.
 Plan early and review your progress often to make sure that you are working
-collaboratively to design, create, and deliver a final client-ready document.
+collaboratively to design, create, and deliver a client-ready document.
 
 There is no one "right" way to organize the main body of the report; however,
 you should think carefully about what your audience (in this case, Mike and
@@ -253,10 +313,13 @@ will help you develop a report worthy of an exemplary grade.
 
 ### Decision-Making Principles (15%)
 * Cogent reasoning explains why the Instagram campaign you are recommending is
-sure to succeed.
+likely to succeed.
 * Long-term, detrimental implications of not implementing your Instagram
-campaign for The Juice Laundry are argued concretely.
+campaign for TJL are argued concretely.
 * The proposed course of action is very well reasoned.
+* Hoofbeats are interpreted as signs of horses not [zebras][Sotos 2006].  
+* The recommended Instagram campgain stems from analytical results, which
+provides legitimacy to it.
 
 ### Data (15%)
 * The [provenance][Polich and Whitenack 2017] and definitions of the data and
@@ -272,31 +335,29 @@ decision-making from multiple angles using a mixture of numeric and text data.
 and Wickham 2017] and [Text Mining With R][Silge and Robinson 2017] are applied 
 [accurately, collaboratively, and reproducibly][Parker 2017].
 * The techniques being performed complement one another and create synergies
-that offer deeper insights than the individual analyses may offer independently.
+that offer deeper insights than the individual analyses would offer
+independently.
 * A knowledgeable individual could [reproduce][Peng 2011] the report's findings
 with ease, because the group's submission provides access to not only the
 report, but also self-contained, executable code and the data being analyzed.
 * Visualizations are used in ways that force the reader to notice [unexpected
 phenomena][Grolemund and Wickham 2017, 3.3].
-* Hoofbeats are interpreted as signs of horses not [zebras][Sotos 2006].  
 * Statements about methodological limitations are made at appropriate times.
 
 ### Action Plan (20%)
 * All relevant elements of your Instagram campaign are covered in detail.  
-* What should be posted (i.e., picture, caption, location, tags) and why it
-should be posted at the time you recommend is discussed expansively.
+* What should be posted (i.e., picture, caption, location, tags) and when it
+should be posted are outlined fully.
 * The overall recommendation being proposed is creative (i.e., novel and
 useful).
-* Recommendations stem from analytical results, which provides legitimacy to the
-action plan.
 * Goals related to follower engagement and sales are set in [specific,
 measurable, achievable, relevant, and time-bound][Miller 2018] ways in order to
 establish expected results.
 
 ### Style \& Grammar (10%)
-* The expectations that Prof. Patterson set in Communication&mdash;which
-include, but are not limited to, BLUF writing, SAS headings/tables/figures, and
-SEC plain English&mdash;are met or exceeded at all times.
+* The expectations set in Communication&mdash;which include, but are not limited
+to, BLUF writing, SAS headings/tables/figures, and SEC plain English&mdash;are
+met or exceeded at all times.
 * Tables and figures are all formatted properly and [effectively][Grolemund and
 Wickham 2017, 28.1].
 * Appendices are used appropriately and as needed.
@@ -311,15 +372,15 @@ report's [files][style files], [syntax][style syntax], and [pipes][style pipes].
 ## Presentation Guidelines
 Your group should prepare your presentation as you would if you were presenting
 to Mike and Sarah in "the real world," with the goal of persuading them to
-implement the Instagram campaign you are advancing. Ask for the highest
+actually implement the Instagram campaign you are advancing. Ask for the highest
 realistic level of commitment you can at the end of your presentation, and try
-your best to receive their approval.
+your best to receive their approval during the Q&A period.
 
 After listening to your presentation, invited guests, your peers, and your
 professors will use the following guidelines to assess it and give you
 developmental feedback. Internalizing these guidelines will help you deliver a
-presentation, which constitutes 15% of the group project grade, that is worthy
-of an exemplary grade.
+presentation, which constitutes one-third of the group project grade, that is
+worthy of an exemplary grade.
 
 * The group built a case for the Instagram campaign they proposed with a breadth
 and depth of well-principled analyses that motivated me to accept their claims.
@@ -339,6 +400,7 @@ complementary).
 [at the AFC]: https://www.thejuicelaundry.com/about/locations/the-afc
 [Bradlow, Fader, Yyengar, and Bernman]: https://www.coursera.org/learn/wharton-customer-analytics
 [Business Source Complete]: http://proxy.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=bth
+[commerce libguide]: https://guides.lib.virginia.edu/commerce
 [compostable]: https://www.instagram.com/p/B2TwAjcFoPx/
 [Colquitt and George 2011]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf
 [Dalio 2017]: https://smile.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_3?ie=UTF8&qid=1522529948&sr=8-3&keywords=principles+ray+dalio
@@ -353,7 +415,7 @@ complementary).
 [Grolemund and Wickham 2017, 3.3]: http://r4ds.had.co.nz/data-visualisation.html#aesthetic-mappings
 [Grolemund and Wickham 2017, 12]: https://r4ds.had.co.nz/tidy-data.html
 [Grolemund and Wickham 2017, 28.1]: http://r4ds.had.co.nz/graphics-for-communication.html
-[Hadley 2017]: https://www.rstudio.com/resources/videos/data-science-in-the-tidyverse/
+[Hadley 2017]: https://rstudio.com/resources/rstudioconf-2017/data-science-in-the-tidyverse-hadley-wickham/
 [HBS Citation Guidelines]:https://www.library.hbs.edu/content/download/49322/file/HBS%20Citation%20Guide%20%202019-20.pdf
 [ibisworld]: http://proxy.its.virginia.edu/login?url=http://www.ibisworld.com/
 [instagram]: https://www.instagram.com/
@@ -388,5 +450,5 @@ complementary).
 [value proposition]: https://www.instagram.com/p/BYoOJaPjCGz/?taken-by=thejuicelaundry
 [yelp]: https://www.yelp.com/
 [Zeithaml 1988]: https://www.jstor.org/stable/pdf/1251446.pdf?casa_token=Xa8qdat3R3sAAAAA:UIVbmoYyPjGk0G5lRYUvGjIkQUa0O_-0X109e03kfzy9oeyMjMco37hLxQHMmv3_gQPNrNP63Zjxa3rSS7urFo9WmRBwfjJJENx112_8N9RZr-zdEy85
-[Zhang and Shaw 2012]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-Crafting.pdf
+[Zhang and Shaw 2012]: https://journals.aom.org/doi/10.5465/amj.2012.4001
 [business understanding]: https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle-business-understanding

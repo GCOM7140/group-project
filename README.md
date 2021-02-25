@@ -79,7 +79,7 @@ In class, we will analyze the following data sets:
 * The [juicelaundry][] R data package, which includes point-of-sale transaction
 details for TJL's locations on the Corner and in the AFC, as well as information about a set of juice and smoothie bars' Instagram accounts and the engagement
 they have generated from their posts.  
-* Placeholder for Google Review data (can you summarize it here, Chris?).
+* Google Review data, which contains the text comments and star rating of all reviews posted to Google Maps/Places for The Juice Laundry and selected other juice and smoothie bars.
 * [Google Trends][] data, which can capture relative search interest and
 emerging trends for topics that are relevant to TJL's business.
 
@@ -112,14 +112,16 @@ opportunities to incorporate the results of text analyses into models/procedures
 that utilize the numeric customer data being provided to you.
 
 ## Deliverables
-There are three key deliverables for the group project, two of which will be
+There are a total of four key deliverables for the group project, two of which will serve as status checks and two that will be
 formally graded:
 
-1. A 1-2 page memo outlining one or two potential ideas for your Instagram
+### Status Checks
+1.  A 1-2 page memo outlining your team’s high-level strategy for organizing itself and preparing for data analysis.  This memo will serve as a written representation of your team’s journey through the [business understanding][] phase of TDSP. To prepare this memo, teams must first discuss each team member’s strengths and weaknesses to establish where each team member may productively contribute to the final deliverables.  Teams must then review the data models/dictionaries provided to them and chart a path for how to perform exploratory data analysis that will help them zero in on a specific analytical plan that will address the stated business requirements.  There is no formal grade for this deliverable, rather it will be used as a mechanism for ensuring accountability within the team and for general guidance from your professor to maximize the efficiency by which you begin the data exploration process. This memo will be evaluated only by Professor Maurer as it aligns with the processes specific to the Big Data and Text Analytics course.  Memos should be submitted via email to Professor Maurer no later than 5:00 PM on March 19
+3.  A 1-2 page memo outlining one or two potential ideas for your Instagram
 campaign, and preliminary analyses (based on secondary and primary data) that
 could serve as the foundation for your proposed path(s) forward. This memo
 should offer a high-level description of how you plan to create a data-informed
-Instagram campaign. Which variables and methods do plan to leverage to uncover
+Instagram campaign. Which variables and methods you plan to leverage to uncover
 insights, and how might these insights come to life in your Instagram campaign?
 No grade will be assigned to this memo. However, it does offer a valuable
 opportunity for you to get feedback from us on both the scope of your proposed
@@ -165,8 +167,23 @@ Action plan	               |  20%                     |
 Report style & grammar     |	10%                     |
 Presentation skills        |	15%                     |
 
-## Proposal Guidelines
-Your proposal should outline your plan for this group project and describe:
+## Status Check #1 Guidelines
+This memo will ultimatelly address three primary questions:
+1. How will your team be organized and what roles will each team member assume to ensure a high-quality final deliverable?
+2. How will you approach the data exploration phase of the project?
+3. Are there any additional data points that may assist you in delivering an impactful recommendation to The Juice Laundry?
+
+In terms of point number one, you should have a reasonably strong working relationship with your group after your experiences working on the Hilton project in GCOM 7240.  Engage in honest and constructive discussion with your team members about each other's strengths and areas for improvement to determine how to efficiently utilize your resources and talents for this project.  At the end of the project, each team member will be asked to evaluate their legitimate claim to ownership of the final deliverabl as well as the legitimate claim to ownership for all of their team members.  Take this opportunity to plan how each team member will actively engage and establish a claim to ownership of the finished product. Your group is undoubtedly composed of analysts, thinkers, and writers at different stages of their respective journeys. In fact, it’s natural for group members to assume different roles, make unique contributions, and even go above and beyond at different points in time. While there are no pre-defined titles or roles you are expected to adhere to, share with one another your passions for where you want to contribute and document them in this memo.  Teams may also use this as opportunity to rotate responsibilities such that they have an opportunity to engage more deeply in an area where another teammate took the lead on the Hilton project.  This can serve as a "Team Charter" to help hold all team members accountable for the work they will contribute to the final deliverable.
+
+In terms of the second question, you will not have access to the data when you compile this memo.  However, you will be provided with data models/dictionaries that describe the data that is available to you.  Using these data models, formulate a plan for how to begin exploring the data such that you can gain a deeper understanding of the business and the challenges they have tasked you with addressing.  Ultimately, your exploration of the data in this manner may yield inadequate results, but it is important to have a plan for how to familiarize yourselves with the data.  This will involve thinking about how to best combine disparate data, what types of initial queries to execute to extract data for exploratory analysis, and what answers you hope to find that will enable to you to better understand the business and begin formulating an Instagram campaign strategy.
+
+For the third question, there is no requirement that you identify and include additional data not provided to you in your analyses.  However, deliverables that exceed expectations will incorporate some form of additional, external data.  At this stage, you should simply think about what data may assist in developing a more robust recommendation for The Juice Laundry.  Your professors will most likely not have this data readily available and it will be your responsibility to gather additional data.  As such an informal cost-benefit analysis is necessary. Is the additional time spent collecting, cleaning, and analyzing this data worth the additional insights that may emerge from it?  In many cases, the costs will exceed the benefits, but you are still encouraged to think about the topics covered in Big Data and Text Analytics and how organizations can yield greater insights from a variety of data sources.
+
+This memo will only need to be addressed to Professor Maurer as it specifically relates to the concepts covered in your Big Data course.  No grade will be awarded, however this is a great opportunity to receive valuable feedback on how to efficiently begin analyzing data in preparation for your second status check.
+
+
+## Status Check #2 Guidelines
+This memo should refine your original plan based on your initial exploration of the data.  Specifically, the memo must describe:
 
 1. One or two potential ideas for your Instagram campaign. 
 2. The data (i.e., data sets, rows, and columns) that you plan to analyze.
@@ -185,11 +202,10 @@ Regarding the second requirement for the memo, we want to see that you have more
 than a surface-level understanding of the [juicelaundry point-of-sale
 data][juicelaundry], Google Review data, and [Google Trends data][Google
 Trends], all of which you are being trained to analyze. At a minimum, you should
-have already thought about some`filter()` and `mutate()` statements that will
+have already thought about and experimented with some`filter()` and `mutate()` statements that will
 get these datasets into the forms you need them in. This is why it is important
 to not only describe your analysis but also describe the data you intend to use.
-Although not required, it will be exemplary if you propose to reach
-data-informed decisions by way of creating new-to-the-world tidy datasets. You
+Although not required, it will be exemplary if you describe any new-to-the-world tidy datasets that you compiled since composing your first status check memo. For example, you
 could supplement the `menu_item` and `sku` datasets in the juicelaundry package
 with comparable datasets for a competitor, such as Corner Juice, for example, if
 doing so would aid your decision making.
@@ -370,3 +386,4 @@ complementary).
 [yelp]: https://www.yelp.com/
 [Zeithaml 1988]: https://www.jstor.org/stable/pdf/1251446.pdf?casa_token=Xa8qdat3R3sAAAAA:UIVbmoYyPjGk0G5lRYUvGjIkQUa0O_-0X109e03kfzy9oeyMjMco37hLxQHMmv3_gQPNrNP63Zjxa3rSS7urFo9WmRBwfjJJENx112_8N9RZr-zdEy85
 [Zhang and Shaw 2012]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-Crafting.pdf
+[business understanding]: https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle-business-understanding

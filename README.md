@@ -153,13 +153,13 @@ references, exhibits, and appendices). We will use the [report
 guidelines](#report-guidelines) below to assess your report and give you
 developmental feedback. Submit your report along with any scripts and data you
 used to perform your analyses via email to both Prof. Boichuk and Prof. Maurer
-no later than 5:00 pm on May 2.
+no later than 12:30 pm on May 4.
 
 4. A presentation of no more than 20 minutes, plus up to 10 minutes of Q&A. An
 agenda will guide when groups present. Your peers and your professors will use
 the [presentation guidelines](#presentation-guidelines) below to assess your
 presentation and give you developmental feedback. Submit your slide deck via
-email to both Prof. Boichuk and Prof. Maurer no later than 5:00 pm on May 2.
+email to both Prof. Boichuk and Prof. Maurer no later than 12:30 pm on May 4.
 
 ## Grading Breakdown
 

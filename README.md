@@ -5,9 +5,9 @@ This group project will give you an opportunity to apply the skills you are
 learning in [R for Data Science][Grolemund and Wickham 2017] and [Text Mining
 With R][Silge and Robinson 2017] to the arenas of customer and text analytics,
 such that you will end up turning numeric and text data into significant,
-actionable, and interesting insights for [The Juice Laundry][tjl] (TJL), a local
-Charlottesville business that is partnering with us for the purposes of this
-group project.
+actionable, and interesting insights for [Meals on Wheels of
+Charlottesville/Albemarle][cvillemeals] (C'ville Meals), a local nonprofit
+organization that is partnering with us for the purposes of this group project.
 
 The more you engage in [this process of data science][Hadley 2017], the better
 you will be at [generating, disseminating, and responding][Jaworski and Kohli
@@ -403,6 +403,7 @@ complementary).
 [commerce libguide]: https://guides.lib.virginia.edu/commerce
 [compostable]: https://www.instagram.com/p/B2TwAjcFoPx/
 [Colquitt and George 2011]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf
+[cvillemeals]: https://www.cvillemeals.org/
 [Dalio 2017]: https://smile.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_3?ie=UTF8&qid=1522529948&sr=8-3&keywords=principles+ray+dalio
 [defining principles]: https://www.instagram.com/p/BizUfw1lLqu/?taken-by=thejuicelaundry
 [Donaldson and Walsh 2015]: http://www.sciencedirect.com/science/article/pii/S0191308515000088

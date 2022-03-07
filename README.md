@@ -18,11 +18,12 @@ value. After all, optimizing collective value (i.e., prosperity) is arguably why
 society engages in commerce ([Donaldson and Walsh 2015][]) and, as a result,
 customer and text analytics in the first place.
 
-### Company Overview
-As a brief summary, C'ville Meals strives to improve the health and support the
-independence and dignity of its homebound neighbors. With an active volunteer
-force of over 400, C'ville Meals serves around 5,000 meals to approximately 275
-clients every month in the city of Charlottesville and the county of Albemarle.
+### Organization Overview
+C'ville Meals strives to improve the health and support the independence and
+dignity of its homebound neighbors. With an active volunteer force of over 400,
+C'ville Meals serves around 4,500 meals to approximately 275 clients every month
+in the city of Charlottesville and the county of Albemarle. More information on
+C'ville Meals is available at www.cvillemeals.org.
 
 For this group project, C'ville Meals is offering us a lab of sorts," somewhere
 you can talk with its staff, including Executive Director Robin Wynn Goldstein;
@@ -88,7 +89,7 @@ check, a report, and a presentation:
 
 ### Status Check
 A 1-2 page memo outlining one or two potential ideas for your Instagram
-campaign, and preliminary analyses (based on secondary and primary data) that
+campaign and preliminary analyses (based on secondary and primary data) that
 could serve as the foundation for your proposed path(s) forward. This memo
 should offer a high-level description of how you plan to create a data-informed
 Instagram campaign. What month or 30-day period in the June 2022 to May 2023
@@ -97,7 +98,7 @@ leverage to uncover insights, and how might these insights come to life in your
 Instagram campaign? No grade will be assigned to this memo. However, it does
 offer a valuable opportunity for you to get feedback from us on both the scope
 of your proposed project as well as the analytical strategy you are proposing to
-implement. Submit this memo here than 5:00 pm on March 25.
+implement. Submit this memo here no later than 5:00 pm on March 25.
 
 ### Final Submissions
 3. A report of no more than 25 pages, 12-point font, double-spaced (excluding

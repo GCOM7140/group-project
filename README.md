@@ -26,7 +26,7 @@ meals to approximately 275 clients every month in the city of Charlottesville
 and the county of Albemarle. More information on C'ville Meals is available at
 www.cvillemeals.org.
 
-For this group project, C'ville Meals is offering us a lab of sorts," somewhere
+For this group project, C'ville Meals is offering us a lab of sorts, somewhere
 you can talk with its staff, including Executive Director Robin Wynn Goldstein;
 analyze data; develop ideas; and, eventually, see the impact of your hard work
 in our community.

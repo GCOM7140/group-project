@@ -26,12 +26,12 @@ meals to approximately 275 clients every month in the city of Charlottesville
 and the county of Albemarle. More information on C'ville Meals is available at
 www.cvillemeals.org.
 
+### Project Scope
 For this group project, C'ville Meals is offering us a lab of sorts, somewhere
 you can talk with its staff, including Executive Director Robin Wynn Goldstein;
 analyze data; develop ideas; and, eventually, see the impact of your hard work
 in our community.
 
-### Project Scope
 The specific ask from Robin is for you to develop a month's worth of
 Instagram content for C'ville Meals' Instagram account,
 [@cvillemeals](https://www.instagram.com/cvillemeals/). 

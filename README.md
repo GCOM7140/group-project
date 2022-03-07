@@ -20,10 +20,11 @@ customer and text analytics in the first place.
 
 ### Organization Overview
 C'ville Meals strives to improve the health and support the independence and
-dignity of its homebound neighbors. With an active volunteer force of over 400,
-C'ville Meals serves around 4,500 meals to approximately 275 clients every month
-in the city of Charlottesville and the county of Albemarle. More information on
-C'ville Meals is available at www.cvillemeals.org.
+dignity of its homebound neighbors. With an active volunteer force of over 400
+drivers and four dedicated staff members, C'ville Meals serves around 4,500
+meals to approximately 275 clients every month in the city of Charlottesville
+and the county of Albemarle. More information on C'ville Meals is available at
+www.cvillemeals.org.
 
 For this group project, C'ville Meals is offering us a lab of sorts," somewhere
 you can talk with its staff, including Executive Director Robin Wynn Goldstein;

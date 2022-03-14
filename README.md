@@ -33,15 +33,41 @@ analyze data; develop ideas; and, eventually, see the impact of your hard work
 in our community.
 
 The specific ask from Robin is for you to develop a month's worth of
-Instagram content for C'ville Meals' Instagram account,
+Instagram content for C'ville Meals' Instagram account:
 [@cvillemeals](https://www.instagram.com/cvillemeals/). 
 
-Robin is excited to hear your ideas for month-long campaigns that can be themed
-(i.e., focused on a specific topic) and your ideas for posts or campaigns that
-stem from the analysis of donor and follower behavior.
+Robin is excited to hear your ideas for month-long campaigns, which can be
+themed (i.e., focused on a specific topic), and your ideas that stem from the
+analysis of donor and follower behavior. Themes that Robin put forward for your
+consideration include the following:
 
-Therefore, your objectives are twofold: (1) identify a month or 30-day period in
-the June 2022 to May 2023 time frame and (2) develop a concrete, comprehensive,
+* Spring Appeal: We plan to focus on our new tagline "the hidden hungry" in our
+spring appeal, which will go out in May 2022. Our goal is to raise $25k by the
+end of the month with snail mail appeals and peer-to-peer campaigns engaging
+volunteers. An Instagram campaign that complemented these marketing activities
+and could increase the amount we raise in the month of May would be exciting to
+see.
+* Taste This!: In August and September of 2022, our focus will be on driving
+ticket sales for our annual fundraiser, Taste This!, while highlighting
+sponsors, our venue partnership with Pro Re Nata, participating restaurants, and
+the band that will play. Our goals for this event are to sell out and raise
+additional money through a silent auction.
+* End-of-year appeal: Much like the Spring Appeal, we will look to increase
+donations through snail mail and social media. However, there will not be a push
+for peer-to-peer campaigning among our volunteers or a specified dollar amount.
+The last two months of the year, we also promote our Subaru Share the Love
+Event.
+* March for Meals: the entire month of March in 2023 could be spent on community
+education (in conjunction with Meals on Wheels across the country) and culminate
+in an series of posts during the last week of the month, which is Champions week
+??? where local celebrities and local/state/federal politicians will help deliver
+meals to raise awareness for the needs of our homebound community.
+* Volunteer Appreciation Month: we celebrate our volunteers every April, and we
+are interested learning how we can best highlight individual volunteers
+throughout the month of April 2023 while putting out calls for new volunteers.
+
+Consider your objectives as twofold: (1) identify a month or 30-day period in
+the May 2022 to April 2023 time frame and (2) develop a concrete, comprehensive,
 and convincing Instagram campaign that logically stems from [data-informed
 insights][Parker 2017/06/06].
 
@@ -54,7 +80,7 @@ options). Then, with a better understanding of the landscape that C'ville Meals
 operates in, conduct primary research via relevant online sites, such as
 [Facebook], [Instagram], and [Twitter].
 
-In class, we will analyze data available in the {mealsonwheels} R package, which
+In class, we will analyze data available in the {cvillemeals} R package, which
 includes C'ville Meals' donation records, as well as information about a related
 set of Instagram accounts and the engagement they have generated. Get to know
 this data as soon as you can to increase the likelihood that your Instagram
@@ -99,7 +125,7 @@ leverage to uncover insights, and how might these insights come to life in your
 Instagram campaign? No grade will be assigned to this memo. However, it does
 offer a valuable opportunity for you to get feedback from us on both the scope
 of your proposed project as well as the analytical strategy you are proposing to
-implement. Submit this memo here no later than 5:00 pm on March 25.
+implement. Submit this memo here no later than 11:59 pm on April 5.
 
 ### Final Submissions
 3. A report of no more than 25 pages, 12-point font, double-spaced (excluding
@@ -160,14 +186,14 @@ comprehensive, and convincing Instagram campaign that logically stems from
 data-informed insights.
 
 Regarding the second requirement for this memo, we want to see that you have
-more than a surface-level understanding of the {mealsonwheels} data package,
+more than a surface-level understanding of the {cvillemeals} data package,
 which you are being trained to analyze. At a minimum, you should have already
 thought about and experimented with some`filter()` and `mutate()` statements
 that will get these data sets into the forms you need them in. This is why it is
 important to describe not only your analysis but also the data you intend to
 use. Although not required, it will be exemplary if you describe any
 new-to-the-world tidy datasets that you compiled or plan to compile. For
-example, you could supplement the `post` table in the {mealsonwheels} package
+example, you could supplement the `post` table in the {cvillemeals} package
 with comparable data for another account that has successfully implemented a
 month-long Instagram campaign.
 

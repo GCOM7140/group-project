@@ -54,12 +54,12 @@ auction we organize.
 increase donations through snail mail and social media. However, we have not set
 a target for how much we want to raise at the end of this year. Your analysis of
 historical donations could help us set a target for this year. During the last
-two months of the year, we also promote our Subaru Share the Love Event.  
+two months of the year, we also promote our Subaru Share the Love Event. 
 * March for Meals: The entire month of March in 2023 could be spent on community
 education (in conjunction with Meals on Wheels across the country) and culminate
-in an series of posts during the last week of the month, which is Champions week
-- where local celebrities and local/state/federal politicians help deliver meals
-to raise awareness for the needs of our homebound community.  
+in an series of posts during the last week of the month, which is Champions
+week, where local celebrities and local/state/federal politicians will help
+deliver meals to raise awareness for the needs of our homebound community.
 * Volunteer Appreciation Month: we celebrate our volunteers every April, and we
 are interested learning how we could best highlight individual volunteers
 throughout the month of April 2023 while putting out calls for new volunteers.

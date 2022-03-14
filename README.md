@@ -9,7 +9,7 @@ actionable, and interesting insights for [Meals on Wheels of
 Charlottesville/Albemarle][cvillemeals] (C'ville Meals), a local nonprofit
 organization that is partnering with us for the purposes of this group project.
 
-The more you engage in [this process of data science][Hadley 2017], the better
+The more you engage in [the process of data science][Hadley 2017], the better
 you will be at [generating, disseminating, and responding][Jaworski and Kohli
 1993] to market intelligence. Improving your ability to perform these three core
 activities will in turn allow you to help companies&mdash;especially those you
@@ -20,56 +20,54 @@ customer and text analytics in the first place.
 
 ### Organization Overview
 C'ville Meals strives to improve the health and support the independence and
-dignity of its homebound neighbors. With an active volunteer force of over 400
+dignity of our homebound neighbors. With an active volunteer force of over 400
 drivers and four dedicated staff members, C'ville Meals serves around 4,500
 meals to approximately 275 clients every month in the city of Charlottesville
 and the county of Albemarle. More information on C'ville Meals is available at
 www.cvillemeals.org.
 
 ### Project Scope
-For this group project, C'ville Meals is offering us a lab of sorts, somewhere
-you can talk with its staff, including Executive Director Robin Wynn Goldstein;
+For this group project, C'ville Meals is offering us a lab of sorts, wherein you
+can talk with its staff, including Executive Director Robin Wynn Goldstein;
 analyze data; develop ideas; and, eventually, see the impact of your hard work
 in our community.
 
-The specific ask from Robin is for you to develop a month's worth of
-Instagram content for C'ville Meals' Instagram account:
-[@cvillemeals](https://www.instagram.com/cvillemeals/). 
-
-Robin is excited to hear your ideas for month-long campaigns, which can be
-themed (i.e., focused on a specific topic), and your ideas that stem from the
-analysis of donor and follower behavior. Themes that Robin put forward for your
-consideration include the following:
+The specific ask from Robin is for you to develop a month's worth of Instagram
+content for C'ville Meals' Instagram account:
+[@cvillemeals](https://www.instagram.com/cvillemeals/). Furthermore, Robin is
+excited to hear themed ideas (i.e., ideas focused on a specific topic) and ideas
+that stem from your analysis of donor behavior and Instagram data. Themes that
+Robin put forward for your consideration include the following:
 
 * Spring Appeal: We plan to focus on our new tagline "the hidden hungry" in our
 spring appeal, which will go out in May 2022. Our goal is to raise $25k by the
-end of the month with snail mail appeals and peer-to-peer campaigns engaging
+end of the month with snail mail appeals and peer-to-peer campaigns that engage
 volunteers. An Instagram campaign that complemented these marketing activities
-and could increase the amount we raise in the month of May would be exciting to
+and that increased the amount we raise in the month of May would be exciting to
 see.
-* Taste This!: In August and September of 2022, our focus will be on driving
-ticket sales for our annual fundraiser, Taste This!, while highlighting
-sponsors, our venue partnership with Pro Re Nata, participating restaurants, and
-the band that will play. Our goals for this event are to sell out and raise
-additional money through a silent auction.
-* End-of-year appeal: Much like the Spring Appeal, we will look to increase
-donations through snail mail and social media. However, there will not be a push
-for peer-to-peer campaigning among our volunteers or a specified dollar amount.
-The last two months of the year, we also promote our Subaru Share the Love
-Event.
-* March for Meals: the entire month of March in 2023 could be spent on community
+* Taste This!: In August and September of 2022, our focus will be on (a) driving
+ticket sales for our annual fundraiser, Taste This!, and (b) highlighting event
+sponsors, our venue partner, Pro Re Nata, and the band that will play. Our goals
+for this event are to sell out and raise additional money through the silent
+auction we organize.
+* End-of-year appeal: In the months of November and December, we will look to
+increase donations through snail mail and social media. However, we have not set
+a target for how much we want to raise at the end of this year. Your analysis of
+historical donations could help us set a target for this year. During the last
+two months of the year, we also promote our Subaru Share the Love Event.  
+* March for Meals: The entire month of March in 2023 could be spent on community
 education (in conjunction with Meals on Wheels across the country) and culminate
 in an series of posts during the last week of the month, which is Champions week
-??? where local celebrities and local/state/federal politicians will help deliver
-meals to raise awareness for the needs of our homebound community.
+- where local celebrities and local/state/federal politicians help deliver meals
+to raise awareness for the needs of our homebound community.  
 * Volunteer Appreciation Month: we celebrate our volunteers every April, and we
-are interested learning how we can best highlight individual volunteers
+are interested learning how we could best highlight individual volunteers
 throughout the month of April 2023 while putting out calls for new volunteers.
 
-Consider your objectives as twofold: (1) identify a month or 30-day period in
-the May 2022 to April 2023 time frame and (2) develop a concrete, comprehensive,
-and convincing Instagram campaign that logically stems from [data-informed
-insights][Parker 2017/06/06].
+Given the above, you should consider your objectives as twofold: (1) identify a
+month or 30-day period in the May 2022 to April 2023 time frame and (2) develop
+a concrete, comprehensive, and convincing Instagram campaign that logically
+stems from [data-informed insights][Parker 2017/06/06].
 
 ### Data and Methods Advice
 As you get started on this project, we encourage you to be divergent in your

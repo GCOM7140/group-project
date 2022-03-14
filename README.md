@@ -84,14 +84,14 @@ set of Instagram accounts and the engagement they have generated. Get to know
 this data as soon as you can to increase the likelihood that your Instagram
 campaign will rest on a strong foundation of data-informed insights.
 
-As always, it will be important for you to describe the [provenance][Polich and
+It will also be important for you to describe the [provenance][Polich and
 Whitenack 2017] of your data parsimoniously and to define the variables you
 analyze [clearly, completely, and credibly][Zhang and Shaw 2012].
 
    __Pro tip__: Be [radically open minded]&mdash;and [productively
-   stupid][Schwartz 2008]&mdash;from the get go and strive to not let
-   confirmation bias contaminate your findings as you make sense of the market
-   that TJL operates in ([Gallo 2017][]).
+   stupid][Schwartz 2008]&mdash;from the get go and strive not to let
+   confirmation bias contaminate your findings as you make sense of the
+   landscape that C'ville Meals operates in ([Gallo 2017][]).
 
    __Pro tip__: Organize your observations into tidy data sets, such as those
    discussed in [Chapter 12][Grolemund and Wickham 2017, 12] of R for Data
@@ -109,35 +109,34 @@ opportunities to incorporate the results of text analyses into models/procedures
 that utilize numeric customer data.
 
 ## Deliverables
-There are a total of three key deliverables for the group project, one status
+There are a total of three key deliverables for the group project, a status
 check, a report, and a presentation:
 
 ### Status Check
-A 1-2 page memo outlining one or two potential ideas for your Instagram
+A two page memo outlining a promising idea for your Instagram
 campaign and preliminary analyses (based on secondary and primary data) that
-could serve as the foundation for your proposed path(s) forward. This memo
+could serve as the foundation for your proposed path forward. This memo
 should offer a high-level description of how you plan to create a data-informed
-Instagram campaign. What month or 30-day period in the June 2022 to May 2023
+Instagram campaign. What month or 30-day period in the May 2022 to April 2023
 time frame would you focus on? Which variables and methods do you plan to
 leverage to uncover insights, and how might these insights come to life in your
 Instagram campaign? No grade will be assigned to this memo. However, it does
 offer a valuable opportunity for you to get feedback from us on both the scope
 of your proposed project as well as the analytical strategy you are proposing to
-implement. Submit this memo here no later than 11:59 pm on April 5.
+implement. Submit this memo via Blackboard no later than 11:59 pm on April 5.
 
 ### Final Submissions
 3. A report of no more than 25 pages, 12-point font, double-spaced (excluding
 references, exhibits, and appendices). We will use the [report
 guidelines](#report-guidelines) below to assess your report and give you
 developmental feedback. Submit your report along with any scripts and data you
-used to perform your analyses [here][report-submission-link] no later than 5:00
-pm on April 24.
+used to perform your analyses via Blackboard no later than 5:00 pm on April 24.
 
 4. A presentation of no more than 20 minutes, plus up to 10 minutes of Q&A. An
 agenda will guide when groups present. Your peers and your professors will use
 the [presentation guidelines](#presentation-guidelines) below to assess your
-presentation and give you developmental feedback. Submit your slide deck
-[here][presentation-submission-link] no later than 5:00 pm on April 24.
+presentation and give you developmental feedback. Submit your slide deck via
+Blackboard no later than 5:00 pm on April 24.
 
 ## Grading Breakdown
 
@@ -166,34 +165,33 @@ Presentation skills        |	15%                     |
 
 ## Status Check Guidelines
 
-This memo should outline one or two potential paths forward based on your
-initial exploration of the data.  Specifically, it should describe:
+This memo should outline a promising path forward based on your initial
+exploration of the data.  Specifically, it should describe:
 
-1. One or two potential ideas for your Instagram campaign. 
-2. The data (i.e., data sets, rows, and columns) that you plan to analyze.
+1. Your idea for a month-long Instagram campaign. 
+2. The data (i.e., data sets, rows, and columns) that you plan to incorporate in
+your analyses.
 3. Analytical procedures that you believe are appropriate for developing
 insights and recommendations from the data you plan on analyzing.
 
 There is no one "right" way to organize this proposal; however, you should make
-sure to outline what you plan to do&mdash;over the four weeks between the date
-this proposal is due and the week you present to Robin&mdash;very carefully.
-While your memo must be concise, it should illustrate that your group has
-thought critically, and in a divergent manner, about C'ville Meals'
-organization. Your idea(s) should have the potential to become a concrete,
-comprehensive, and convincing Instagram campaign that logically stems from
-data-informed insights.
+sure to outline what you plan to do&mdash;between the date this proposal is due
+and the week you present to Robin&mdash;very carefully. While your memo must be
+concise, it should illustrate that your group has thought critically, and in a
+divergent manner, about C'ville Meals' organization. Your idea(s) should have
+the potential to become a concrete, comprehensive, and convincing Instagram
+campaign that logically stems from data-informed insights.
 
 Regarding the second requirement for this memo, we want to see that you have
-more than a surface-level understanding of the {cvillemeals} data package,
-which you are being trained to analyze. At a minimum, you should have already
-thought about and experimented with some`filter()` and `mutate()` statements
-that will get these data sets into the forms you need them in. This is why it is
-important to describe not only your analysis but also the data you intend to
-use. Although not required, it will be exemplary if you describe any
-new-to-the-world tidy datasets that you compiled or plan to compile. For
-example, you could supplement the `post` table in the {cvillemeals} package
-with comparable data for another account that has successfully implemented a
-month-long Instagram campaign.
+more than a surface-level understanding of the {cvillemeals} data package, which
+you are being trained to analyze. At a minimum, you should have already thought
+about and experimented with {dplyr} statements to get these data sets into the
+forms you need them in. This is why it is important to describe not only your
+analysis but also the data you intend to use. Although not required, it will be
+exemplary if you describe any new-to-the-world tidy datasets that you have
+compiled or plan to compile. For example, you could supplement the `post` table
+in the {cvillemeals} package with comparable data for another account that has
+successfully implemented a relevant month-long Instagram campaign.
 
 For the third requirement, two questions we want to see you convey answers to
 include: How do you plan on analyzing these data sets (i.e., with what
@@ -210,12 +208,12 @@ your memo in more detail and ensure that your group is on a path toward success.
 ## Report Guidelines
 
 Your report should advocate for an Instagram campaign that C'ville Meals could
-put into place in the June 2022 to May 2023 time frame. Base your recommendation
-on (i) a decision-making process with strong [principles][Dalio 2017]; (iii)
-data that are described [clearly, completely, and credibly][Zhang and Shaw
-2012]; (iv) a breadth and depth of analyses that are applied [accurately,
-collaboratively, and reproducibly][Parker 2017]; and (v) [stylish writing][Sword
-2012].
+put into place in the Mayy 2022 to April 2023 time frame. Base your
+recommendation on (i) a decision-making process with strong [principles][Dalio
+2017]; (iii) data that are described [clearly, completely, and credibly][Zhang
+and Shaw 2012]; (iv) a breadth and depth of analyses that are applied
+[accurately, collaboratively, and reproducibly][Parker 2017]; and (v) [stylish
+writing][Sword 2012].
 
 Your report should contain the following sections: (1) title page, (2) executive
 summary, (3) main body, (4) references, (5) exhibits, and, potentially, (6)

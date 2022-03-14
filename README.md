@@ -348,7 +348,7 @@ complementary).
 [Parker 2017]: https://peerj.com/preprints/3210/
 [Parker 2017/06/06]: https://twitter.com/hspter/status/872135582100578304
 [Peng 2011]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383002/
-[Peng 2018]: https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/
+[Peng 2018]: https://simplystatistics.org/posts/2018-09-14-divergent-and-convergent-phases-of-data-analysis/
 [Polich and Whitenack 2017]: https://dataskeptic.com/blog/episodes/2017/data-provenance-and-reproducibility-with-pachyderm
 [radically open minded]: https://www.inc.com/carmine-gallo/a-self-made-billionaire-reveals-the-1-mental-hurdl.html
 [Schwartz 2008]: http://jcs.biologists.org/content/121/11/1771

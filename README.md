@@ -208,7 +208,7 @@ your memo in more detail and ensure that your group is on a path toward success.
 ## Report Guidelines
 
 Your report should advocate for an Instagram campaign that C'ville Meals could
-put into place in the Mayy 2022 to April 2023 time frame. Base your
+put into place in the May 2022 to April 2023 time frame. Base your
 recommendation on (i) a decision-making process with strong [principles][Dalio
 2017]; (iii) data that are described [clearly, completely, and credibly][Zhang
 and Shaw 2012]; (iv) a breadth and depth of analyses that are applied

@@ -113,9 +113,9 @@ There are a total of three key deliverables for the group project, a status
 check, a report, and a presentation:
 
 ### Status Check
-A two-page memo outlining a promising idea for your Instagram
-campaign and preliminary analyses (based on secondary and primary data) that
-could serve as the foundation for your proposed path forward. This memo
+A two-page memo outlining a promising idea for your Instagram campaign 
+and preliminary analyses (based on secondary and, perhaps, primary data) 
+that could serve as the foundation for your proposed path forward. This memo
 should offer a high-level description of how you plan to create a data-informed
 Instagram campaign. What month or 30-day period in the May 2022 to April 2023
 time frame would you focus on? Which variables and methods do you plan to

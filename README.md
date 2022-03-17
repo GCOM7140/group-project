@@ -113,7 +113,7 @@ There are a total of three key deliverables for the group project, a status
 check, a report, and a presentation:
 
 ### Status Check
-A two page memo outlining a promising idea for your Instagram
+A two-page memo outlining a promising idea for your Instagram
 campaign and preliminary analyses (based on secondary and primary data) that
 could serve as the foundation for your proposed path forward. This memo
 should offer a high-level description of how you plan to create a data-informed

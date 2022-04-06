@@ -161,7 +161,7 @@ Data                       |	15%                     |
 Methods                    |	25%                     |
 Action plan	               |  20%                     |
 Report style & grammar     |	10%                     |
-Presentation skills        |	15%                     |
+Presentation               |	15%                     |
 
 ## Status Check Guidelines
 
@@ -300,8 +300,7 @@ your best to receive her approval during the Q&A period.
 After listening to your presentation, invited guests, your peers, and your
 professors will use the following guidelines to assess it and give you
 developmental feedback. Internalizing these guidelines will help you deliver a
-presentation, which constitutes one-third of the group project grade, that is
-worthy of an exemplary grade.
+presentation that is worthy of an exemplary grade.
 
 * The group built a case for the Instagram campaign they proposed with a breadth
 and depth of well-principled analyses that motivated me to accept their claims.

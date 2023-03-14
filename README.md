@@ -2,12 +2,9 @@
 ## Overview and Objectives
 ### General Overview
 This group project will give you an opportunity to apply the skills you are
-learning in [R for Data Science][Grolemund and Wickham 2017] and [Text Mining
-With R][Silge and Robinson 2017] to the arenas of customer and text analytics,
-such that you will end up turning numeric and text data into significant,
-actionable, and interesting insights for [Meals on Wheels of
-Charlottesville/Albemarle][cvillemeals] (C'ville Meals), a local nonprofit
-organization that is partnering with us for the purposes of this group project.
+learning in [R for Data Science][Grolemund and Wickham 2017] to the arena of
+customer analytics, such that you will end up turning numeric and text data into
+significant, actionable, and interesting insights.
 
 The more you engage in [the process of data science][Hadley 2017], the better
 you will be at [generating, disseminating, and responding][Jaworski and Kohli
@@ -16,73 +13,30 @@ activities will in turn allow you to help companies&mdash;especially those you
 want to work for&mdash;achieve a market orientation and optimize collective
 value. After all, optimizing collective value (i.e., prosperity) is arguably why
 society engages in commerce ([Donaldson and Walsh 2015][]) and, as a result,
-customer and text analytics in the first place.
-
-### Organization Overview
-C'ville Meals strives to improve the health and support the independence and
-dignity of our homebound neighbors. With an active volunteer force of over 400
-drivers and four dedicated staff members, C'ville Meals serves around 4,500
-meals to approximately 275 clients every month in the city of Charlottesville
-and the county of Albemarle. More information on C'ville Meals is available at
-www.cvillemeals.org.
+customer analytics in the first place.
 
 ### Project Scope
-For this group project, C'ville Meals is offering us a lab of sorts, wherein you
-can talk with its staff, including Executive Director Robin Wynn Goldstein;
-analyze data; develop ideas; and, eventually, see the impact of your hard work
-in our community.
-
-The specific ask from Robin is for you to develop a month's worth of Instagram
-content for C'ville Meals' Instagram account:
-[@cvillemeals](https://www.instagram.com/cvillemeals/). Furthermore, Robin is
-excited to hear themed ideas (i.e., ideas focused on a specific topic) and ideas
-that stem from your analysis of donor behavior and Instagram data. Themes that
-Robin put forward for your consideration include the following:
-
-* Spring Appeal: We plan to focus on our new tagline "the hidden hungry" in our
-spring appeal, which will go out in May 2022. Our goal is to raise $25k by the
-end of the month with snail mail appeals and peer-to-peer campaigns that engage
-volunteers. An Instagram campaign that complemented these marketing activities
-and that increased the amount we raise in the month of May would be exciting to
-see.
-* Taste This!: In August and September of 2022, our focus will be on (a) driving
-ticket sales for our annual fundraiser, Taste This!, and (b) highlighting event
-sponsors, our venue partner, Pro Re Nata, and the band that will play. Our goals
-for this event are to sell out and raise additional money through the silent
-auction we organize.
-* End-of-year appeal: In the months of November and December, we will look to
-increase donations through snail mail and social media. However, we have not set
-a target for how much we want to raise at the end of this year. Your analysis of
-historical donations could help us set a target for this year. During the last
-two months of the year, we also promote our Subaru Share the Love Event. 
-* March for Meals: The entire month of March in 2023 could be spent on community
-education (in conjunction with Meals on Wheels across the country) and culminate
-in an series of posts during the last week of the month, which is Champions
-week, where local celebrities and local/state/federal politicians will help
-deliver meals to raise awareness for the needs of our homebound community.
-* Volunteer Appreciation Month: we celebrate our volunteers every April, and we
-are interested learning how we could best highlight individual volunteers
-throughout the month of April 2023 while putting out calls for new volunteers.
+For this group project, Twitter offers us a lab of sorts, wherein you can
+analyze its users data, develop ideas, and turn them into compelling
+recommendations. The specific ask is for you to develop a month's worth of
+Twitter content for an automaker.
 
 Given the above, you should consider your objectives as twofold: (1) identify a
-month or 30-day period in the May 2022 to April 2023 time frame and (2) develop
-a concrete, comprehensive, and convincing Instagram campaign that logically
-stems from [data-informed insights][Parker 2017/06/06].
+month or 30-day period in the May 2023 to April 2024 time frame and (2) develop
+a concrete, comprehensive, and convincing set of tweets that logically stem from
+[data-informed insights][Parker 2017/06/06].
 
 ### Data and Methods Advice
-As you get started on this project, we encourage you to be divergent in your
+As you get started on this project, I encourage you to be divergent in your
 thinking (see [Peng 2018][]). Begin *today* by conducting secondary research on
 platforms such as [Business Source Complete], [Euromonitor], [Factiva],
 [IBISWorld], [Statista], and other platforms (see the [Commerce LibGuide] for
-options). Then, with a better understanding of the landscape that C'ville Meals
-operates in, conduct primary research via relevant online sites, such as
+options). Then, with a better understanding of the landscape that automakers
+operate in, conduct primary research via relevant online sites, such as
 [Facebook], [Instagram], and [Twitter].
 
-In class, we will analyze data available in the {cvillemeals} R package, which
-includes C'ville Meals' donation records, as well as information about a related
-set of Instagram accounts and the engagement they have generated. Get to know
-this data as soon as you can to increase the likelihood that your Instagram
-campaign will rest on a strong foundation of data-informed insights.
+In class, we will analyze data available in the {tslatwtr} R package, which
+includes information about a related set of Twitter accounts and the engagement they have generated. Get to know this data as soon as you can to increase the likelihood that your Twitter campaign will rest on a strong foundation of data-informed insights.
 
 It will also be important for you to describe the [provenance][Polich and
 Whitenack 2017] of your data parsimoniously and to define the variables you

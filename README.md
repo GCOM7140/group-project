@@ -1,112 +1,90 @@
 # The Group Project
 ## Overview and Objectives
 ### General Overview
-This group project will give you an opportunity to apply the skills you are
-learning in [R for Data Science][Grolemund and Wickham 2017] to the arena of
-customer analytics, such that you will end up turning numeric and text data into
-significant, actionable, and interesting insights.
+This group project will allow you to apply the skills you are learning in [R for
+Data Science][Grolemund and Wickham 2017] to customer analytics, such that you
+will turn numeric and text data into significant, actionable, and interesting
+insights.
 
-The more you engage in [the process of data science][Hadley 2017], the better
-you will be at [generating, disseminating, and responding][Jaworski and Kohli
-1993] to market intelligence. Improving your ability to perform these three core
-activities will in turn allow you to help companies&mdash;especially those you
-want to work for&mdash;achieve a market orientation and optimize collective
-value. After all, optimizing collective value (i.e., prosperity) is arguably why
-society engages in commerce ([Donaldson and Walsh 2015][]) and, as a result,
-customer analytics in the first place.
+The more you engage in [data science][Hadley 2017], the better you will be at
+[generating, disseminating, and responding][Jaworski and Kohli 1993] to market
+intelligence. Improving your ability to perform these three core activities
+will, in turn, allow you to help companies&mdash;especially those you want to
+work for&mdash;achieve a market orientation and optimize collective value. After
+all, optimizing collective value (i.e., prosperity) is arguably why society
+engages in commerce ([Donaldson and Walsh 2015][]) and, as a result, customer
+analytics in the first place.
 
 ### Project Scope
-For this group project, Twitter offers us a lab of sorts, wherein you can
-analyze its users data, develop ideas, and turn them into compelling
-recommendations. The specific ask is for you to develop a month's worth of
-Twitter content for an automaker.
-
-Given the above, you should consider your objectives as twofold: (1) identify a
-month or 30-day period in the May 2023 to April 2024 time frame and (2) develop
-a concrete, comprehensive, and convincing set of tweets that logically stem from
-[data-informed insights][Parker 2017/06/06].
+For this group project, Twitter offers us a training ground wherein you can
+analyze its users' data, develop ideas, and turn them into compelling
+recommendations. The specific ask is for you to create a month's worth of
+Twitter content for an automaker. Also, your objectives are twofold: (1)
+identify a month or 30-day period in the May 2023 to April 2024 time frame and
+(2) develop a concrete, comprehensive, and convincing set of tweets that
+logically stem from [data-informed insights][Parker 2017/06/06].
 
 ### Data and Methods Advice
-As you get started on this project, I encourage you to be divergent in your
-thinking (see [Peng 2018][]). Begin *today* by conducting secondary research on
+As you start this project, I encourage you to think divergently (see [Peng 2018][]). You can begin *today* by conducting secondary research on
 platforms such as [Business Source Complete], [Euromonitor], [Factiva],
 [IBISWorld], [Statista], and other platforms (see the [Commerce LibGuide] for
 options). Then, with a better understanding of the landscape that automakers
 operate in, conduct primary research via relevant online sites, such as
 [Facebook], [Instagram], and [Twitter].
 
-In class, we will analyze data available in the {tslatwtr} R package, which
-includes information about a related set of Twitter accounts and the engagement they have generated. Get to know this data as soon as you can to increase the likelihood that your Twitter campaign will rest on a strong foundation of data-informed insights.
+In class, we will analyze data in the {tslatwtr} R package, including
+information about a related set of Twitter accounts. Knowing this data inside
+and out will increase the likelihood that your project will rest on a solid
+foundation of data-informed insights.
 
-It will also be important for you to describe the [provenance][Polich and
-Whitenack 2017] of your data parsimoniously and to define the variables you
-analyze [clearly, completely, and credibly][Zhang and Shaw 2012].
+For example, you should strive to describe the [provenance][Polich and Whitenack
+2017] of the data in the {tslatwtr} package parsimoniously and to define the
+variables you analyze [clearly, completely, and credibly][Zhang and Shaw 2012].
 
    __Pro tip__: Be [radically open minded]&mdash;and [productively
    stupid][Schwartz 2008]&mdash;from the get go and strive not to let
    confirmation bias contaminate your findings as you make sense of the
-   landscape that C'ville Meals operates in ([Gallo 2017][]).
+   automotive landscape ([Gallo 2017][]).
 
-   __Pro tip__: Organize your observations into tidy data sets, such as those
-   discussed in [Chapter 12][Grolemund and Wickham 2017, 12] of R for Data
-   Science so you can summarize them statistically and visually. This process
-   will add rigor to your analysis and the insights you generate.
-
-Finally, be sure to apply the methods you learn in Customer Analytics and Big
-Data & Text Analytics effectively. You will get separate grades for each course,
-so it is imperative that you demonstrate proper uses of methods being covered in
-both courses. There are no firm requirements for the number of techniques you
-need to perform as part of your analysis; however, we encourage you to generate
-recommendations from the analysis of numeric data, text data, and some
-combination of both. As such, we strongly encourage you to identify and act on
-opportunities to incorporate the results of text analyses into models/procedures
-that utilize numeric customer data.
+   __Pro tip__: Organize data you collect tidily (see [Chapter 12][Grolemund and
+   Wickham 2017, 12] of R for Data Science) so that you can summarize it
+   statistically and visually with ease using the {tidyverse} package. This
+   process will add rigor to your analysis and the insights you generate.
 
 ## Deliverables
-There are a total of three key deliverables for the group project, a status
-check, a report, and a presentation:
+There are three key deliverables for the group project: a status check, a
+report, and a presentation:
 
 ### Status Check
-A two-page memo outlining a promising idea for your Instagram campaign 
-and preliminary analyses (based on secondary and, perhaps, primary data) 
-that could serve as the foundation for your proposed path forward. This memo
-should offer a high-level description of how you plan to create a data-informed
-Instagram campaign. What month or 30-day period in the May 2022 to April 2023
-time frame would you focus on? Which variables and methods do you plan to
-leverage to uncover insights, and how might these insights come to life in your
-Instagram campaign? No grade will be assigned to this memo. However, it does
-offer a valuable opportunity for you to get feedback from us on both the scope
-of your proposed project as well as the analytical strategy you are proposing to
-implement. Submit this memo via Blackboard no later than 11:59 pm on April 5.
+A two-page memo outlining promising ideas for your month of Twitter content and
+preliminary analyses (based on secondary and, perhaps, primary research) that
+could be the foundation for your proposed path forward. This memo should offer a
+high-level description of how you plan to create a data-informed recommendation.
+What month or 30-day period in the May 2023 to April 2024 time frame will you
+focus on? Which variables and methods do you plan to leverage to uncover
+insights, and how might these insights come to life in your tweets? No grade
+will be assigned to this memo. However, it does offer a valuable opportunity for
+you to get feedback on the scope of your proposed project and the analytical
+strategy you are proposing to implement. Submit this memo by email to the TA,
+Michael Xia (zx4cn@virginia.edu), no later than 5:00 pm on March 31.
 
 ### Final Submissions
-3. A report of no more than 25 pages, 12-point font, double-spaced (excluding
-references, exhibits, and appendices). We will use the [report
+3. A report of no more than 20 pages, 12-point font, double-spaced (excluding
+references, exhibits, and appendices). I will use the [report
 guidelines](#report-guidelines) below to assess your report and give you
-developmental feedback. Submit your report along with any scripts and data you
-used to perform your analyses via Blackboard no later than 11:59 pm on April 24.
+developmental feedback. Submit your report along with the scripts and data you
+used to perform your analyses via Blackboard no later than 11:59 pm on April 19.
 
 4. A presentation of no more than 20 minutes, plus up to 10 minutes of Q&A. An
-agenda will guide when groups present. Your peers and your professors will use
-the [presentation guidelines](#presentation-guidelines) below to assess your
+agenda will guide when groups present. Your peers and I will use the
+[presentation guidelines](#presentation-guidelines) below to assess your
 presentation and give you developmental feedback. Submit your slide deck via
-Blackboard no later than 11:59 pm on April 24.
+Blackboard no later than 11:59 pm on April 19.
 
 ## Grading Breakdown
 
-Your final grade for the project will be determined based on both your report
-and presentation. Certain elements of this grade will be consistent across both
-courses (Style & Grammar and Presentation Skills) while others may diverge. Your
-professors will independently review and evaluate your report and presentation,
-giving special attention to the portions of your analysis that relate to the
-content covered in their courses. They will share their evaluations with each
-other and discuss discrepancies; hence, it is possible that groups may receive
-different grades for each class. While the grading categories will be the same
-for both courses, group performance in some categories may be stronger for
-analyses aligning with one course as compared to the other.
-
-The following table summarizes the breakdown of how final project grades will be
-determined:
+Your final grade for the group project will be determined based on both your
+report and presentation, according to the following breakdown:
 
 Grading Component          | Percentage of Total Grade|
 ---------------------------|:------------------------:|
@@ -120,9 +98,9 @@ Presentation               |	15%                     |
 ## Status Check Guidelines
 
 This memo should outline a promising path forward based on your initial
-exploration of the data.  Specifically, it should describe:
+exploration of secondary and primary data.  Specifically, it should describe:
 
-1. Your idea for a month-long Instagram campaign. 
+1. Your idea for a month-long set of Twitter content. 
 2. The data (i.e., data sets, rows, and columns) that you plan to incorporate in
 your analyses.
 3. Analytical procedures that you believe are appropriate for developing
@@ -130,39 +108,39 @@ insights and recommendations from the data you plan on analyzing.
 
 There is no one "right" way to organize this proposal; however, you should make
 sure to outline what you plan to do&mdash;between the date this proposal is due
-and the week you present to Robin&mdash;very carefully. While your memo must be
-concise, it should illustrate that your group has thought critically, and in a
-divergent manner, about C'ville Meals' organization. Your idea(s) should have
-the potential to become a concrete, comprehensive, and convincing Instagram
-campaign that logically stems from data-informed insights.
+and the week you present&mdash;very carefully. While your memo must be concise,
+it should illustrate that your group has thought critically, and in a divergent
+manner, about the automakers and their competitive positions. Your idea(s)
+should have the potential to become a concrete, comprehensive, and convincing
+recommendation that logically stems from data-informed insights.
 
-Regarding the second requirement for this memo, we want to see that you have
-more than a surface-level understanding of the {cvillemeals} data package, which
-you are being trained to analyze. At a minimum, you should have already thought
-about and experimented with {dplyr} statements to get these data sets into the
-forms you need them in. This is why it is important to describe not only your
+Regarding the second requirement for this memo, I want to see that you have
+more than a surface-level understanding of the {tslatwtr} data package, which
+you will be trained to analyze. At a minimum, you should have already thought
+about and experimented with {dplyr} statements to get its data sets into the
+forms you need them in. That is why it is important to describe not only your
 analysis but also the data you intend to use. Although not required, it will be
-exemplary if you describe any new-to-the-world tidy datasets that you have
-compiled or plan to compile. For example, you could supplement the `post` table
-in the {cvillemeals} package with comparable data for another account that has
-successfully implemented a relevant month-long Instagram campaign.
+exemplary if you describe any new-to-the-world tidy data sets that you have
+compiled or plan to compile. For example, you could supplement the `tweet` table
+in the {tslatwtr} package with comparable data for another account that has
+successfully implemented a month-long Twitter campaign using the Twitter API.
 
-For the third requirement, two questions we want to see you convey answers to
+For the third requirement, two questions I want to see you convey answers to
 include: How do you plan on analyzing these data sets (i.e., with what
 methods?), and what artifacts (e.g., graphics and model estimates) do you plan
 on producing?
 
 Again, there is no grade associated with this status check; however, this is an
 opportunity to gain valuable feedback on the approach you have devised to
-satisfy the project requirements. Your professors will review your memo in
-detail and provide feedback meant to guide you toward a high-quality final
-report and presentation. If appropriate, a meeting may be scheduled to discuss
-your memo in more detail and ensure that your group is on a path toward success.
+satisfy the project requirements. I will review your memo in detail and provide
+feedback meant to guide you toward a high-quality final report and presentation.
+If appropriate, I may schedule a meeting to discuss your memo in more detail and
+ensure that your group is on a path toward success.
 
 ## Report Guidelines
 
-Your report should advocate for an Instagram campaign that C'ville Meals could
-put into place in the May 2022 to April 2023 time frame. Base your
+Your report should advocate for a set of tweets that a major automaker could
+put into place in the May 2023 to April 2024 time frame. Base your
 recommendation on (i) a decision-making process with strong [principles][Dalio
 2017]; (iii) data that are described [clearly, completely, and credibly][Zhang
 and Shaw 2012]; (iv) a breadth and depth of analyses that are applied
@@ -178,23 +156,22 @@ Plan early and review your progress often to make sure that you are working
 collaboratively to design, create, and deliver a client-ready document.
 
 There is no one "right" way to organize the main body of the report; however,
-you should think carefully about what your audience (in this case, Robin Wynn
-Goldstein) already knows and prioritize discussing original analysis that you
-conducted over general statements about C'ville Meals, for example.
+you should think carefully about what your audience (in this case, the social
+media team of a major automaker) already knows and prioritize discussing
+original analysis that you conducted over general statements about the
+automotive industry, for example.
 
-After reading your report, we will use the following guidelines to assess your
+After reading your report, I will use the following guidelines to assess your
 work and provide you with developmental feedback. Internalizing these guidelines
 will help you develop a report worthy of an exemplary grade.
 
 ### Decision-Making Principles (15%)
-* Cogent reasoning explains why the Instagram campaign you are recommending is
+* Cogent reasoning explains why the set of tweets you are recommending is
 likely to succeed.
-* Long-term, detrimental implications of not implementing your Instagram
-campaign for C'ville Meals are argued concretely.
-* The proposed course of action is very well reasoned.
+* Long-term, detrimental implications of not implementing your recommendation 
+are argued concretely.
 * Hoofbeats are interpreted as signs of horses not [zebras][Sotos 2006].  
-* The recommended Instagram campaign stems from analytical results, which
-provides legitimacy to it.
+* Analytical results provide legitimacy to the recommendation.
 
 ### Data (15%)
 * The [provenance][Polich and Whitenack 2017] and definitions of the data and
@@ -202,13 +179,13 @@ variables being analyzed to make decisions are described [clearly, completely,
 and credibly][Zhang and Shaw 2012].
 * Convincing reasons explain why certain data are given priority (over others).
 * An appropriate variety of data is included in the analysis to inform
-decision-making from multiple angles using a mixture of numeric and text data.
+decision-making from multiple angles.
 * Statements about data limitations are made at appropriate times.
 
 ### Methods (25%)
 * A breadth and depth of techniques covered in [R for Data Science][Grolemund
-and Wickham 2017] and [Text Mining With R][Silge and Robinson 2017] are applied 
-[accurately, collaboratively, and reproducibly][Parker 2017].
+and Wickham 2017] are applied [accurately, collaboratively, and
+reproducibly][Parker 2017].
 * The techniques being performed complement one another and create synergies
 that offer deeper insights than the individual analyses would offer
 independently.
@@ -220,8 +197,8 @@ phenomena][Grolemund and Wickham 2017, 3.3].
 * Statements about methodological limitations are made at appropriate times.
 
 ### Action Plan (20%)
-* All relevant elements of your Instagram campaign are covered in detail.  
-* What should be posted (i.e., picture, caption, location, tags) and when it
+* All relevant elements of your recommendation are covered in detail.  
+* What should be tweeted (i.e., pictures, captions, tags) and when it
 should be posted are outlined fully.
 * The overall recommendation being proposed is creative (i.e., novel and
 useful).
@@ -246,18 +223,18 @@ report's [files][style files], [syntax][style syntax], and [pipes][style pipes].
 
 ## Presentation Guidelines
 Your group should prepare your presentation as you would if you were presenting
-to Robin in "the real world," with the goal of persuading her to actually
-implement the Instagram campaign you are advancing. Ask for the highest
-realistic level of commitment you can at the end of your presentation, and try
-your best to receive her approval during the Q&A period.
+to the company you choose in "the real world," with the goal of persuading its
+team to actually implement the recommendation you are advancing. Ask for the
+highest realistic level of commitment you can at the end of your presentation,
+and try your best to receive her approval during the Q&A period.
 
-After listening to your presentation, invited guests, your peers, and your
-professors will use the following guidelines to assess it and give you
-developmental feedback. Internalizing these guidelines will help you deliver a
-presentation that is worthy of an exemplary grade.
+After listening to your presentation, your peers and I will use the following
+guidelines to assess it and give you developmental feedback. Internalizing these
+guidelines will help you deliver a presentation that is worthy of an exemplary
+grade.
 
-* The group built a case for the Instagram campaign they proposed with a breadth
-and depth of well-principled analyses that motivated me to accept their claims.
+* The group built a case for its recommendation they proposed with a breadth and
+depth of well-principled analyses that motivated me to accept their claims.
 * The group discussed the data they analyzed in a [simple, easy-to-understand
 way][Allen 2017].
 * The group was captivating, edutaining, and eye-catching, a "[fusion of
@@ -281,7 +258,7 @@ complementary).
 [Donaldson and Walsh 2015]: http://www.sciencedirect.com/science/article/pii/S0191308515000088
 [euromonitor]: http://proxy.its.virginia.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt
 [facebook]: https://www.facebook.com/
-[factiva]: http://proxy.its.virginia.edu/login?url=http://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnMDItMDIoMDAp5DByMU38ODJ9RcyqUUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA
+[factiva]: http://proxy1.library.virginia.edu/login?url=https://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnNTamN9apN96s5DByWa3w3DB94cj0WErBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA
 [Gallo 2017]:https://www.inc.com/carmine-gallo/a-self-made-billionaire-reveals-the-1-mental-hurdl.html
 [Google Trends]: https://trends.google.com/trends/
 [Grolemund and Wickham 2017]: http://r4ds.had.co.nz

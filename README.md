@@ -46,8 +46,8 @@ variables you analyze [clearly, completely, and credibly][Zhang and Shaw 2012].
    confirmation bias contaminate your findings as you make sense of the
    automotive landscape ([Gallo 2017][]).
 
-   __Pro tip__: Organize data you collect tidily (see [Chapter 12][Grolemund and
-   Wickham 2017, 12] of R for Data Science) so that you can summarize it
+   __Pro tip__: Organize the data you collect tidily (see [Chapter 12][Grolemund
+   and Wickham 2017, 12] of R for Data Science) so you can summarize it
    statistically and visually with ease using the {tidyverse} package. This
    process will add rigor to your analysis and the insights you generate.
 

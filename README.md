@@ -36,33 +36,33 @@ package, which houses information about a related set of Twitter accounts and
 their tweets. Knowing this data inside and out will increase the likelihood that
 your project rests on a solid foundation of data-informed insights.
 
-For example, you should strive to describe the [provenance][Polich and Whitenack
-2017] of the data in the {tslatwtr} package parsimoniously and to define the
-variables you analyze [clearly, completely, and credibly][Zhang and Shaw 2012].
-Be [radically open minded]&mdash;and [productively stupid][Schwartz
-2008]&mdash;from the get go and strive not to let confirmation bias contaminate
-your findings as you make sense of the automotive landscape ([Gallo 2017][]). As
-you collect data, do so tidily (see [Chapter 12][Grolemund and Wickham 2017, 12]
-of R for Data Science) so you can summarize it statistically and visually with
-ease using the {tidyverse} package. This process will add rigor to your analysis
-and the insights you generate.
+Strive to describe the [provenance][Polich and Whitenack 2017] of the data in
+the {tslatwtr} package parsimoniously and to define the variables you analyze
+[clearly, completely, and credibly][Zhang and Shaw 2012]. Be [radically open
+minded]&mdash;and [productively stupid][Schwartz 2008]&mdash;from the get go and
+strive not to let confirmation bias contaminate your findings as you make sense
+of the automotive landscape ([Gallo 2017][]). As you collect data, do so tidily
+(see [Chapter 12][Grolemund and Wickham 2017, 12] of R for Data Science) so you
+can summarize it statistically and visually with ease using the {tidyverse}
+package. This process will add rigor to your analysis and the insights you
+generate.
 
 ## Deliverables
-There are three key deliverables for the group project: a status check, a
-report, and a presentation:
+There are three key deliverables for this group project: a status check, a
+report, and a presentation.
 
 ### Status Check
-A two-page memo outlining promising ideas for your month of Twitter content and
-preliminary analyses (based on secondary and, perhaps, primary research) that
-could be the foundation for your proposed path forward. This memo should offer a
-high-level description of how you plan to create a data-informed recommendation.
-What month or 30-day period in the May 2023 to April 2024 time frame will you
-focus on? Which variables and methods do you plan to leverage to uncover
-insights, and how might these insights come to life in your tweets? No grade
-will be assigned to this memo. However, it does offer a valuable opportunity for
-you to get feedback on the scope of your proposed project and the analytical
-strategy you are proposing to implement. Submit this memo by email to the TA,
-Michael Xia (zx4cn@virginia.edu), no later than 5:00 pm on March 31.
+A two-page memo outlining promising ideas, preliminary analyses (based on
+secondary and primary research), and the foundation of your proposed path
+forward. This memo should offer a high-level description of how you plan to
+create a data-informed recommendation. What month or 30-day period in the May
+2023 to April 2024 time frame will you focus on? Which variables and methods do
+you plan to leverage to uncover insights, and how might these insights come to
+life in your tweets? No grade will be assigned to this memo. However, it does
+offer a valuable opportunity for you to get feedback on the scope of your
+proposed project and the analytical strategy you are proposing to implement.
+Submit this memo by email to the TA, Michael Xia (zx4cn@virginia.edu), no later
+than 5:00 pm on March 31.
 
 ### Final Submissions
 3. A report of no more than 20 pages, 12-point font, double-spaced (excluding
@@ -79,8 +79,8 @@ Blackboard no later than 11:59 pm on April 19.
 
 ## Grading Breakdown
 
-Your final grade for the group project will be determined based on both your
-report and presentation, according to the following breakdown:
+Your final grade for the group project will be determined based on your report
+and presentation, according to the following breakdown:
 
 Grading Component          | Percentage of Total Grade|
 ---------------------------|:------------------------:|
@@ -136,26 +136,25 @@ ensure that your group is on a path toward success.
 ## Report Guidelines
 
 Your report should advocate for a set of tweets that a major automaker could
-put into place in the May 2023 to April 2024 time frame. Base your
-recommendation on (i) a decision-making process with strong [principles][Dalio
-2017]; (iii) data that are described [clearly, completely, and credibly][Zhang
-and Shaw 2012]; (iv) a breadth and depth of analyses that are applied
-[accurately, collaboratively, and reproducibly][Parker 2017]; and (v) [stylish
-writing][Sword 2012].
+publish in the May 2023 to April 2024 time frame. Base your recommendation on
+(i) a decision-making process with strong [principles][Dalio 2017]; (iii) data
+that are described [clearly, completely, and credibly][Zhang and Shaw 2012];
+(iv) a breadth and depth of analyses that are applied [accurately,
+collaboratively, and reproducibly][Parker 2017]; and (v) [stylish writing][Sword
+2012].
 
 Your report should contain the following sections: (1) title page, (2) executive
 summary, (3) main body, (4) references, (5) exhibits, and, potentially, (6)
 appendices. Before you submit your final document, make sure it is as error free
 as possible, clearly communicated, and professionally designed&mdash;i.e.,
-client-ready. Note: Producing client-ready business documents is time consuming.
+client-ready. Producing client-ready business documents is time consuming.
 Plan early and review your progress often to make sure that you are working
 collaboratively to design, create, and deliver a client-ready document.
 
-There is no one "right" way to organize the main body of the report; however,
-you should think carefully about what your audience (in this case, the social
-media team of a major automaker) already knows and prioritize discussing
-original analysis that you conducted over general statements about the
-automotive industry, for example.
+There is no one "right" way to organize the main body of your report; however,
+you should think carefully about what your audience (in this case, a major
+automaker) already knows and prioritize discussing original analysis that you
+conducted over general statements about the automotive industry, for example.
 
 After reading your report, I will use the following guidelines to assess your
 work and provide you with developmental feedback. Internalizing these guidelines

@@ -25,31 +25,27 @@ identify a month or 30-day period in the May 2023 to April 2024 time frame and
 logically stem from [data-informed insights][Parker 2017/06/06].
 
 ### Data and Methods Advice
-As you start this project, I encourage you to think divergently (see [Peng 2018][]). You can begin *today* by conducting secondary research on
+As you start this project, I encourage you to think *divergently* (see [Peng 2018][]). You can begin today by conducting secondary research on
 platforms such as [Business Source Complete], [Euromonitor], [Factiva],
 [IBISWorld], [Statista], and other platforms (see the [Commerce LibGuide] for
-options). Then, with a better understanding of the landscape that automakers
-operate in, conduct primary research via relevant online sites, such as
-[Facebook], [Instagram], and [Twitter].
+options). With a thorough understanding of the landscape automakers are
+operating in, you will be in a better position to conduct primary research.
 
-In class, we will analyze data in the {tslatwtr} R package, including
-information about a related set of Twitter accounts. Knowing this data inside
-and out will increase the likelihood that your project will rest on a solid
-foundation of data-informed insights.
+In class, we will conduct primary research by analyzing data in the {tslatwtr} R
+package, which houses information about a related set of Twitter accounts and
+their tweets. Knowing this data inside and out will increase the likelihood that
+your project rests on a solid foundation of data-informed insights.
 
 For example, you should strive to describe the [provenance][Polich and Whitenack
 2017] of the data in the {tslatwtr} package parsimoniously and to define the
 variables you analyze [clearly, completely, and credibly][Zhang and Shaw 2012].
-
-   __Pro tip__: Be [radically open minded]&mdash;and [productively
-   stupid][Schwartz 2008]&mdash;from the get go and strive not to let
-   confirmation bias contaminate your findings as you make sense of the
-   automotive landscape ([Gallo 2017][]).
-
-   __Pro tip__: Organize the data you collect tidily (see [Chapter 12][Grolemund
-   and Wickham 2017, 12] of R for Data Science) so you can summarize it
-   statistically and visually with ease using the {tidyverse} package. This
-   process will add rigor to your analysis and the insights you generate.
+Be [radically open minded]&mdash;and [productively stupid][Schwartz
+2008]&mdash;from the get go and strive not to let confirmation bias contaminate
+your findings as you make sense of the automotive landscape ([Gallo 2017][]). As
+you collect data, do so tidily (see [Chapter 12][Grolemund and Wickham 2017, 12]
+of R for Data Science) so you can summarize it statistically and visually with
+ease using the {tidyverse} package. This process will add rigor to your analysis
+and the insights you generate.
 
 ## Deliverables
 There are three key deliverables for the group project: a status check, a

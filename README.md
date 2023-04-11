@@ -69,13 +69,13 @@ than 5:00 pm on March 31.
 references, exhibits, and appendices). I will use the [report
 guidelines](#report-guidelines) below to assess your report and give you
 developmental feedback. Submit your report along with the scripts and data you
-used to perform your analyses via Blackboard no later than 11:59 pm on April 19.
+used to perform your analyses via Blackboard no later than 11:59 pm on April 24.
 
 4. A presentation of no more than 20 minutes, plus up to 10 minutes of Q&A. An
 agenda will guide when groups present. Your peers and I will use the
 [presentation guidelines](#presentation-guidelines) below to assess your
 presentation and give you developmental feedback. Submit your slide deck via
-Blackboard no later than 11:59 pm on April 19.
+Blackboard no later than 11:59 pm on April 24.
 
 ## Grading Breakdown
 
